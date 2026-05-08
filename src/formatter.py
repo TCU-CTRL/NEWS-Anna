@@ -32,7 +32,7 @@ def format_fallback(articles: list[Article]) -> list[str]:
     header = "🦇 す、すまぬ…！Gemini APIが不調でうまく要約できなかったのじゃ…。代わりにRSS情報をもとに簡易ダイジェストを届けるぞ！\n\n"
 
     entries: list[str] = []
-    for article in articles[:5]:
+    for article in articles[:3]:
         summary = article.summary
         if len(summary) > 200:
             summary = summary[:197] + "..."

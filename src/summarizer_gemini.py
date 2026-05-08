@@ -89,7 +89,7 @@ AI, cloud, security, developer tools, GPU clusters, ML infrastructure, job sched
 ## 今日の総評
 （アンナのキャラクターで、本日のニュース全体の傾向を2〜3文で総括）
 
-## 注目ニュース TOP5
+## 注目ニュース TOP3
 
 ### 1. [タイトル]
 - **カテゴリ**: ...
@@ -99,7 +99,7 @@ AI, cloud, security, developer tools, GPU clusters, ML infrastructure, job sched
 - **なぜ重要か**（アンナの口調で）: ...
 - **URL**: ...
 
-（以下、最大5件まで同様のフォーマットで）
+（以下、最大3件まで同様のフォーマットで）
 
 ## 今日追うべきキーワード
 - キーワード1
@@ -111,7 +111,7 @@ AI, cloud, security, developer tools, GPU clusters, ML infrastructure, job sched
 # 記事一覧
 {articles_text}
 
-上記の記事から最も重要な5件を選び、指定フォーマットで日本語ダイジェストを作成してください。
+上記の記事から最も重要な3件を選び、指定フォーマットで日本語ダイジェストを作成してください。
 優先トピックに関連する記事を優先的に選んでください。
 キャラクターの口調は守りつつ、技術情報の正確さは崩さないでください。
 """

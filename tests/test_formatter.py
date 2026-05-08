@@ -80,8 +80,8 @@ class TestFormatFallback:
         combined = "".join(result)
         # 最大5件のみ含まれる
         assert "Article 0" in combined
-        assert "Article 4" in combined
-        assert "Article 5" not in combined
+        assert "Article 2" in combined
+        assert "Article 3" not in combined
 
     def test_fallback_chunks_within_limit(self) -> None:
         articles = [

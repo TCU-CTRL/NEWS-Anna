@@ -56,7 +56,7 @@ def main() -> None:
         messages = format_digest(digest)
     else:
         # フォールバック: スコア上位5件で簡易ダイジェスト
-        fallback_articles = select_top(articles, limit=5)
+        fallback_articles = select_top(articles, limit=3)
         messages = format_fallback(fallback_articles)
 
     # テストモード: メッセージ先頭に [TEST] を付加
