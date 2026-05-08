@@ -6,6 +6,11 @@ on:
     - cron: "30 22 * * *"
   workflow_dispatch:
     inputs:
+      dry_run:
+        description: "ドライラン（送信せずに動作確認のみ）"
+        required: false
+        type: boolean
+        default: false
       test_mode:
         description: "テストモード（メッセージに [TEST] を付加）"
         required: false
@@ -31,6 +36,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash-lite' }}
+          DIGEST_DRY_RUN: ${{ inputs.dry_run == true && '1' || '' }}
           DIGEST_TEST_MODE: ${{ inputs.test_mode == true && '1' || '' }}
           # Webhook URLs per profile (profiles.yml の webhook_env と一致させる)
           DISCORD_WEBHOOK_URL_IT: ${{ secrets.DISCORD_WEBHOOK_URL_IT }}
