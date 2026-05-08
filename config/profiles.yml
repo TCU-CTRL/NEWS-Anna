@@ -1,0 +1,16 @@
+profiles:
+  - name: "IT業界"
+    sources: "config/it/sources.yml"
+    keywords: "config/it/keywords.yml"
+    webhook_env: "DISCORD_WEBHOOK_URL_IT"
+    emoji: "🦇"
+    topic: "IT業界全般（AI、クラウド、セキュリティ、開発者ツール、GPU基盤）"
+    priority_topics: "AI, cloud, security, developer tools, GPU clusters, ML infrastructure, job scheduling, reinforcement learning, optimization, physical AI"
+
+  - name: "ゲーム業界"
+    sources: "config/game/sources.yml"
+    keywords: "config/game/keywords.yml"
+    webhook_env: "DISCORD_WEBHOOK_URL_GAME"
+    emoji: "🎮"
+    topic: "ゲーム業界（新作情報、ハードウェア、eスポーツ、ゲーム開発技術）"
+    priority_topics: "Nintendo, PlayStation, Xbox, Steam, new releases, esports, game engines, indie games, VR, cloud gaming"

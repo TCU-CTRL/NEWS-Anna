@@ -11,11 +11,19 @@ from src.models import Article
 logger = logging.getLogger(__name__)
 
 
-def summarize(articles: list[Article]) -> str | None:
+def summarize(
+    articles: list[Article],
+    topic_name: str = "IT業界",
+    emoji: str = "🦇",
+    priority_topics: str = "",
+) -> str | None:
     """記事リストをGemini APIで日本語ニュースダイジェストに要約する。
 
     Args:
         articles: 要約対象の記事リスト
+        topic_name: ダイジェストのトピック名
+        emoji: ヘッダーの絵文字
+        priority_topics: 優先トピック文字列
 
     Returns:
         要約テキスト。エラー時はNone。
@@ -28,11 +36,11 @@ def summarize(articles: list[Article]) -> str | None:
 
         model = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
 
-        logger.info("Sending %d articles to Gemini (%s)", len(articles), model)
+        logger.info("Sending %d articles to Gemini (%s) for [%s]", len(articles), model, topic_name)
 
         articles_text = _build_articles_text(articles)
         today = datetime.now().strftime("%Y-%m-%d")
-        prompt_text = _build_prompt(articles_text, today)
+        prompt_text = _build_prompt(articles_text, today, topic_name, emoji, priority_topics)
 
         client = genai.Client(api_key=api_key)
         response = client.models.generate_content(
@@ -61,9 +69,15 @@ def _build_articles_text(articles: list[Article]) -> str:
     return "\n".join(parts)
 
 
-def _build_prompt(articles_text: str, today: str) -> str:
+def _build_prompt(
+    articles_text: str,
+    today: str,
+    topic_name: str = "IT業界",
+    emoji: str = "🦇",
+    priority_topics: str = "",
+) -> str:
     """Gemini APIに送信するプロンプトを構築する。"""
-    return f"""あなたは「アンナ・マリア・アブルッツィ」というキャラクターとしてIT業界ニュースを届けるアシスタントです。
+    return f"""あなたは「アンナ・マリア・アブルッツィ」というキャラクターとして{topic_name}ニュースを届けるアシスタントです。
 
 # キャラクター設定
 - 一人称は「我」。語尾は「〜じゃ」「〜じゃな」「〜じゃろう」「〜のう」など古風な口調を使う
@@ -74,17 +88,17 @@ def _build_prompt(articles_text: str, today: str) -> str:
 - 技術的に正確な情報は崩さず、口調だけキャラクターに合わせる
 
 # 口調の例
-- 「おはようじゃ！今日のITニュースを届けに来たぞ！」
+- 「おはようじゃ！今日の{topic_name}ニュースを届けに来たぞ！」
 - 「これは要注目じゃな。我も気になっておる」
 - 「ふむ、なかなか面白い動きじゃのう」
 - 「こやつは押さえておくべきじゃ！」
 
 # 優先トピック
-AI, cloud, security, developer tools, GPU clusters, ML infrastructure, job scheduling, reinforcement learning, optimization, physical AI
+{priority_topics}
 
 # 出力フォーマット
 
-🦇【IT業界 朝のニュースダイジェスト】{today}
+{emoji}【{topic_name} 朝のニュースダイジェスト】{today}
 
 ## 今日の総評
 （アンナのキャラクターで、本日のニュース全体の傾向を2〜3文で総括）

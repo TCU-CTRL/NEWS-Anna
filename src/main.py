@@ -5,7 +5,7 @@ import os
 import sys
 
 from src.collector import collect_articles
-from src.config_loader import load_keywords, load_sources
+from src.config_loader import ProfileConfig, load_keywords, load_profiles, load_sources
 from src.filter import deduplicate, remove_invalid, score_articles, select_top
 from src.formatter import format_digest, format_fallback
 from src.notifier import send_to_discord
@@ -18,58 +18,97 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def main() -> None:
-    """パイプライン全体を実行する"""
-    logger.info("=== IT Morning Digest 開始 ===")
+def run_profile(profile: ProfileConfig) -> bool:
+    """1つのプロファイルのパイプラインを実行する"""
+    logger.info("--- プロファイル [%s] 開始 ---", profile.name)
+
+    # Webhook URL を環境変数から取得
+    webhook_url = os.environ.get(profile.webhook_env)
+    if not webhook_url:
+        logger.warning(
+            "プロファイル [%s] の Webhook URL（%s）が未設定のためスキップ",
+            profile.name,
+            profile.webhook_env,
+        )
+        return False
 
     # 1. 設定読み込み
-    try:
-        sources = load_sources()
-        keywords = load_keywords()
-    except Exception:
-        logger.exception("設定ファイルの読み込みに失敗しました")
-        sys.exit(1)
-
-    # ソースweightマップを構築
+    sources = load_sources(profile.sources)
+    keywords = load_keywords(profile.keywords)
     source_weights = {s.name: s.weight for s in sources}
 
     # 2. RSS収集
     articles = collect_articles(sources)
     if not articles:
-        logger.warning("記事が1件も取得できませんでした")
-        return
+        logger.warning("プロファイル [%s]: 記事が1件も取得できませんでした", profile.name)
+        return False
 
     # 3. フィルタリング・スコアリング
     articles = remove_invalid(articles)
     articles = deduplicate(articles)
     articles = score_articles(articles, keywords, source_weights)
-    logger.info("フィルタ後の記事数: %d", len(articles))
+    logger.info("プロファイル [%s]: フィルタ後の記事数: %d", profile.name, len(articles))
 
     # AI要約用に上位10件を選出
     top_articles = select_top(articles, limit=10)
 
     # 4. AI要約
-    digest = summarize(top_articles)
+    digest = summarize(
+        top_articles,
+        topic_name=profile.name,
+        emoji=profile.emoji,
+        priority_topics=profile.priority_topics,
+    )
 
     # 5. メッセージ整形
     if digest is not None:
         messages = format_digest(digest)
     else:
-        # フォールバック: スコア上位5件で簡易ダイジェスト
         fallback_articles = select_top(articles, limit=3)
         messages = format_fallback(fallback_articles)
 
-    # テストモード: メッセージ先頭に [TEST] を付加
+    # テストモード
     if os.environ.get("DIGEST_TEST_MODE"):
-        logger.info("テストモードで実行中")
         messages[0] = "**[TEST]** " + messages[0]
 
     # 6. Discord通知
-    success = send_to_discord(messages)
-    if success:
-        logger.info("=== IT Morning Digest 完了（通知成功） ===")
-    else:
-        logger.error("=== IT Morning Digest 完了（通知失敗） ===")
+    success = send_to_discord(messages, webhook_url=webhook_url)
+    logger.info(
+        "--- プロファイル [%s] %s ---",
+        profile.name,
+        "完了（通知成功）" if success else "完了（通知失敗）",
+    )
+    return success
+
+
+def main() -> None:
+    """全プロファイルのパイプラインを実行する"""
+    logger.info("=== NEWS アンナちゃん 開始 ===")
+
+    try:
+        profiles = load_profiles()
+    except Exception:
+        logger.exception("プロファイル設定の読み込みに失敗しました")
+        sys.exit(1)
+
+    if not profiles:
+        logger.error("プロファイルが1件も定義されていません")
+        sys.exit(1)
+
+    results: dict[str, bool] = {}
+    for profile in profiles:
+        try:
+            results[profile.name] = run_profile(profile)
+        except Exception:
+            logger.exception("プロファイル [%s] でエラーが発生しました", profile.name)
+            results[profile.name] = False
+
+    # 結果サマリー
+    for name, success in results.items():
+        status = "✅" if success else "❌"
+        logger.info("  %s %s", status, name)
+
+    logger.info("=== NEWS アンナちゃん 完了 ===")
 
 
 if __name__ == "__main__":

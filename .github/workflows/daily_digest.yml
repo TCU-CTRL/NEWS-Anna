@@ -30,7 +30,8 @@ jobs:
       - name: Run digest
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL_IT: ${{ secrets.DISCORD_WEBHOOK_URL_IT }}
+          DISCORD_WEBHOOK_URL_GAME: ${{ secrets.DISCORD_WEBHOOK_URL_GAME }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash-lite' }}
           DIGEST_TEST_MODE: ${{ inputs.test_mode == true && '1' || '' }}
         run: python -m src.main

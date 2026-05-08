@@ -26,6 +26,40 @@ class KeywordConfig:
     low_priority: list[str]
 
 
+@dataclass
+class ProfileConfig:
+    """ダイジェストプロファイル設定"""
+
+    name: str
+    sources: str
+    keywords: str
+    webhook_env: str
+    emoji: str
+    topic: str
+    priority_topics: str
+
+
+def load_profiles(path: str = "config/profiles.yml") -> list[ProfileConfig]:
+    """YAMLファイルからプロファイル設定を読み込む"""
+    with open(Path(path), encoding="utf-8") as f:
+        data = yaml.safe_load(f)
+
+    profiles = []
+    for item in data.get("profiles", []):
+        profiles.append(
+            ProfileConfig(
+                name=item["name"],
+                sources=item["sources"],
+                keywords=item["keywords"],
+                webhook_env=item["webhook_env"],
+                emoji=item.get("emoji", "📰"),
+                topic=item.get("topic", ""),
+                priority_topics=item.get("priority_topics", ""),
+            )
+        )
+    return profiles
+
+
 def load_sources(path: str = "config/sources.yml") -> list[SourceConfig]:
     """YAMLファイルからRSSソース設定を読み込む"""
     with open(Path(path), encoding="utf-8") as f:

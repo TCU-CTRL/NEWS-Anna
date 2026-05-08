@@ -1,3 +1,5 @@
+"""Discord Webhook通知モジュール"""
+
 import logging
 import os
 
@@ -6,17 +8,17 @@ import requests
 logger = logging.getLogger(__name__)
 
 
-def send_to_discord(messages: list[str]) -> bool:
+def send_to_discord(messages: list[str], webhook_url: str | None = None) -> bool:
     """Discord Webhookへメッセージリストを送信する"""
-    webhook_url = os.environ.get("DISCORD_WEBHOOK_URL")
-    if not webhook_url:
-        logger.error("DISCORD_WEBHOOK_URL is not set in environment variables")
+    url = webhook_url or os.environ.get("DISCORD_WEBHOOK_URL")
+    if not url:
+        logger.error("Discord Webhook URL が設定されていません")
         return False
-    all_ok = True
 
+    all_ok = True
     for i, message in enumerate(messages, 1):
         try:
-            resp = requests.post(webhook_url, json={
+            resp = requests.post(url, json={
                 "content": message,
                 "username": "NEWSアンナちゃん",
             })
