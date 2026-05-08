@@ -1,0 +1,30 @@
+sources:
+  - name: "ITmedia NEWS"
+    url: "https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml"
+    category: "domestic_it"
+    enabled: true
+    weight: 1.0
+
+  - name: "Zenn"
+    url: "https://zenn.dev/feed"
+    category: "developer_trend"
+    enabled: true
+    weight: 0.9
+
+  - name: "Qiita"
+    url: "https://qiita.com/popular-items/feed"
+    category: "developer_trend"
+    enabled: true
+    weight: 0.8
+
+  - name: "Hacker News"
+    url: "https://hnrss.org/frontpage"
+    category: "global_tech"
+    enabled: true
+    weight: 1.0
+
+  - name: "AWS News Blog"
+    url: "https://aws.amazon.com/blogs/aws/feed/"
+    category: "cloud"
+    enabled: true
+    weight: 0.9

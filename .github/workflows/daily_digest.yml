@@ -1,0 +1,48 @@
+name: Daily IT Digest
+
+on:
+  schedule:
+    # JST 07:30 = UTC 22:30
+    - cron: "30 22 * * *"
+  workflow_dispatch:
+    inputs:
+      test_mode:
+        description: "テストモード（メッセージに [TEST] を付加）"
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Run tests
+        run: pytest tests/ -v
+
+  digest:
+    runs-on: ubuntu-latest
+    needs: test
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash-lite' }}
+          DIGEST_TEST_MODE: ${{ inputs.test_mode == true && '1' || '' }}
+        run: python -m src.main
