@@ -62,8 +62,21 @@ Actions タブ → Daily IT Digest → Run workflow
 ```bash
 pip install -r requirements.txt
 export GEMINI_API_KEY="your-api-key"
-export DISCORD_WEBHOOK_URL="your-webhook-url"
+export DISCORD_WEBHOOK_URL_IT="your-webhook-url"
 python -m src.main
+```
+
+### Docker で実行
+
+```bash
+# .env を作成（.env.example をコピーして値を設定）
+cp .env.example .env
+
+# 実行
+docker compose up --build
+
+# テスト
+docker compose run --rm digest pytest tests/ -v
 ```
 
 ## テスト
