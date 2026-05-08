@@ -1,0 +1,30 @@
+sources:
+  - name: "4Gamer.net"
+    url: "https://www.4gamer.net/rss/index.xml"
+    category: "game_dev"
+    enabled: true
+    weight: 0.8
+
+  - name: "AUTOMATON"
+    url: "https://automaton-media.com/feed/"
+    category: "game_dev"
+    enabled: true
+    weight: 0.9
+
+  - name: "Game Watch"
+    url: "https://game.watch.impress.co.jp/data/rss/1.0/gmw/feed.rdf"
+    category: "game_dev"
+    enabled: true
+    weight: 0.8
+
+  - name: "Hacker News"
+    url: "https://hnrss.org/frontpage"
+    category: "tech"
+    enabled: true
+    weight: 0.7
+
+  - name: "GamesIndustry.biz"
+    url: "https://www.gamesindustry.biz/feed"
+    category: "game_business"
+    enabled: true
+    weight: 1.0
