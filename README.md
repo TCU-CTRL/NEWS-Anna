@@ -38,7 +38,41 @@ config/profiles.yml → 各プロファイルごとに:
 
 未設定の Webhook はスキップされます。必要なプロファイルだけ設定すれば OK です。
 
-### 2. プロファイルの追加
+### 2. 定期実行の設定（cron-job.org）
+
+GitHub Actions の cron は遅延・スキップが多いため、外部の [cron-job.org](https://cron-job.org) を使って確実に定時実行します。
+
+#### 2.1 GitHub Personal Access Token の発行
+
+1. GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens
+2. **Generate new token** をクリック
+3. 設定:
+   - Token name: `NEWS-Anna cron`
+   - Resource owner: `TCU-CTRL`
+   - Repository access: `Only select repositories` → `NEWS-Anna`
+   - Permissions → Repository permissions → **Actions: Read and write**
+4. **Generate token** → トークンをコピー
+
+#### 2.2 cron-job.org の設定
+
+1. [cron-job.org](https://cron-job.org) にアカウント登録（無料）
+2. **Create cronjob** をクリック
+3. 設定:
+   - **URL**: `https://api.github.com/repos/TCU-CTRL/NEWS-Anna/dispatches`
+   - **Schedule**: 毎日 07:30 JST（Asia/Tokyo）
+   - **Request method**: `POST`
+   - **Request headers**:
+     ```
+     Authorization: Bearer <your-github-token>
+     Accept: application/vnd.github+json
+     ```
+   - **Request body**:
+     ```json
+     {"event_type": "daily-digest"}
+     ```
+4. **Create** をクリック
+
+### 3. プロファイルの追加
 
 新しいトピックを追加するには:
 
@@ -47,20 +81,20 @@ config/profiles.yml → 各プロファイルごとに:
 3. `.github/workflows/daily_digest.yml` の env に Webhook シークレットを追加
 4. GitHub Secrets に Webhook URL を登録
 
-### 3. (任意) Gemini モデルの変更
+### 4. (任意) Gemini モデルの変更
 
 Settings → Secrets and variables → Actions → Variables で `GEMINI_MODEL` を設定。
 未設定時は `gemini-2.5-flash-lite` を使用。
 
 ## 実行方法
 
-### GitHub Actions（自動）
+### 自動実行
 
-毎朝 JST 07:30 に自動実行されます。
+cron-job.org が毎朝 JST 07:30 に GitHub Actions をトリガーします。
 
-### GitHub Actions（手動テスト）
+### 手動テスト
 
-Actions タブ → Daily IT Digest → Run workflow → テストモードにチェック
+Actions タブ → Daily IT Digest → Run workflow → テストモード / ドライランにチェック
 
 ### ローカル実行
 

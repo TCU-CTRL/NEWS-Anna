@@ -1,9 +1,8 @@
 name: Daily IT Digest
 
 on:
-  schedule:
-    # JST 07:30 = UTC 22:30
-    - cron: "30 22 * * *"
+  repository_dispatch:
+    types: [daily-digest]
   workflow_dispatch:
     inputs:
       dry_run:
