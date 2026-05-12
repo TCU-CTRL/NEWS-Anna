@@ -37,6 +37,7 @@ class ProfileConfig:
     emoji: str
     topic: str
     priority_topics: str
+    schedule: str  # "daily" | "weekly:mon" | "weekly:tue" | ...
 
 
 def load_profiles(path: str = "config/profiles.yml") -> list[ProfileConfig]:
@@ -55,6 +56,7 @@ def load_profiles(path: str = "config/profiles.yml") -> list[ProfileConfig]:
                 emoji=item.get("emoji", "📰"),
                 topic=item.get("topic", ""),
                 priority_topics=item.get("priority_topics", ""),
+                schedule=item.get("schedule", "daily"),
             )
         )
     return profiles

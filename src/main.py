@@ -3,9 +3,18 @@
 import logging
 import os
 import sys
+from datetime import datetime, timezone, timedelta
 
 from src.collector import collect_articles
 from src.config_loader import ProfileConfig, load_keywords, load_profiles, load_sources
+
+JST = timezone(timedelta(hours=9))
+
+# 曜日名 → weekday番号 (月=0)
+DAY_MAP = {
+    "mon": 0, "tue": 1, "wed": 2, "thu": 3,
+    "fri": 4, "sat": 5, "sun": 6,
+}
 from src.filter import deduplicate, remove_invalid, score_articles, select_top
 from src.formatter import format_digest, format_fallback
 from src.notifier import send_to_discord
@@ -16,6 +25,24 @@ logging.basicConfig(
     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
 )
 logger = logging.getLogger(__name__)
+
+
+def should_run_today(profile: ProfileConfig, today: datetime) -> bool:
+    """プロファイルのスケジュールに基づき、今日実行すべきか判定する"""
+    schedule = profile.schedule.lower().strip()
+    if schedule == "daily":
+        return True
+    if schedule.startswith("weekly:"):
+        day_name = schedule.split(":", 1)[1]
+        target_weekday = DAY_MAP.get(day_name)
+        if target_weekday is None:
+            logger.warning("不明な曜日指定: %s（プロファイル: %s）。daily として扱います",
+                           day_name, profile.name)
+            return True
+        return today.weekday() == target_weekday
+    logger.warning("不明なスケジュール: %s（プロファイル: %s）。daily として扱います",
+                   schedule, profile.name)
+    return True
 
 
 def run_profile(profile: ProfileConfig, dry_run: bool = False) -> bool:
@@ -109,18 +136,25 @@ def main() -> None:
         logger.error("プロファイルが1件も定義されていません")
         sys.exit(1)
 
-    results: dict[str, bool] = {}
+    today = datetime.now(JST)
+
+    results: dict[str, str] = {}
     for profile in profiles:
+        if not should_run_today(profile, today):
+            logger.info("プロファイル [%s]: スケジュール対象外（%s）のためスキップ",
+                        profile.name, profile.schedule)
+            results[profile.name] = "⏭️ スキップ"
+            continue
         try:
-            results[profile.name] = run_profile(profile, dry_run=dry_run)
+            success = run_profile(profile, dry_run=dry_run)
+            results[profile.name] = "✅" if success else "❌"
         except Exception:
             logger.exception("プロファイル [%s] でエラーが発生しました", profile.name)
-            results[profile.name] = False
+            results[profile.name] = "❌"
 
     # 結果サマリー
     logger.info("--- 結果サマリー ---")
-    for name, success in results.items():
-        status = "✅" if success else "❌"
+    for name, status in results.items():
         logger.info("  %s %s", status, name)
 
     logger.info("=== NEWS アンナちゃん %s ===", "ドライラン完了" if dry_run else "完了")

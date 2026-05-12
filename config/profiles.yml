@@ -4,6 +4,7 @@ profiles:
     keywords: "config/it/keywords.yml"
     webhook_env: "DISCORD_WEBHOOK_URL_IT"
     emoji: "🦇"
+    schedule: "daily"
     topic: "IT業界全般（AI、クラウド、セキュリティ、開発者ツール、GPU基盤）"
     priority_topics: "AI, cloud, security, developer tools, GPU clusters, ML infrastructure, job scheduling, reinforcement learning, optimization, physical AI"
 
@@ -12,6 +13,7 @@ profiles:
     keywords: "config/game-user/keywords.yml"
     webhook_env: "DISCORD_WEBHOOK_URL_GAME_USER"
     emoji: "🎮"
+    schedule: "weekly:mon"
     topic: "ゲーム業界のユーザー向けニュース（新作情報、セール、eスポーツ、レビュー）"
     priority_topics: "new releases, trailers, sales, esports, tournaments, Nintendo, PlayStation, Xbox, Steam, reviews, indie games, VR"
 
@@ -20,5 +22,6 @@ profiles:
     keywords: "config/game-dev/keywords.yml"
     webhook_env: "DISCORD_WEBHOOK_URL_GAME_DEV"
     emoji: "🛠️"
+    schedule: "weekly:mon"
     topic: "ゲーム開発技術（エンジン、グラフィクス、ネットワーク、AI、ツール）"
     priority_topics: "Unity, Unreal Engine, Godot, game AI, procedural generation, ray tracing, shaders, physics, netcode, GDC, CEDEC, postmortem, technical art, GPU, DirectX, Vulkan"
