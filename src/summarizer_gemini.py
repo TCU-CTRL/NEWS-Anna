@@ -2,6 +2,8 @@
 
 import logging
 import os
+import random
+import time
 from datetime import datetime
 
 from google import genai
@@ -9,6 +11,33 @@ from google import genai
 from src.models import Article
 
 logger = logging.getLogger(__name__)
+
+MAX_RETRIES = 3
+BASE_DELAY = 2.0
+FALLBACK_MODELS = ["gemini-2.0-flash", "gemini-2.0-flash-lite"]
+
+
+def _call_gemini(client: genai.Client, model: str, prompt: str) -> str | None:
+    """Gemini API を呼び出し、リトライ付きでレスポンスを返す"""
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = client.models.generate_content(
+                model=model, contents=prompt
+            )
+            return response.text
+        except Exception as e:
+            error_msg = str(e)
+            is_retryable = "503" in error_msg or "overloaded" in error_msg.lower()
+            if is_retryable and attempt < MAX_RETRIES:
+                delay = BASE_DELAY * (2 ** (attempt - 1)) + random.uniform(0, 1)
+                logger.warning(
+                    "Gemini API エラー（試行 %d/%d, モデル: %s）: %s — %.1f秒後にリトライ",
+                    attempt, MAX_RETRIES, model, error_msg[:100], delay,
+                )
+                time.sleep(delay)
+            else:
+                raise
+    return None
 
 
 def summarize(
@@ -19,39 +48,35 @@ def summarize(
 ) -> str | None:
     """記事リストをGemini APIで日本語ニュースダイジェストに要約する。
 
-    Args:
-        articles: 要約対象の記事リスト
-        topic_name: ダイジェストのトピック名
-        emoji: ヘッダーの絵文字
-        priority_topics: 優先トピック文字列
-
-    Returns:
-        要約テキスト。エラー時はNone。
+    リトライ（指数バックオフ + ジッター）とフォールバックモデル切り替えに対応。
     """
-    try:
-        api_key = os.environ.get("GEMINI_API_KEY")
-        if not api_key:
-            logger.error("GEMINI_API_KEY is not set in environment variables")
-            return None
-
-        model = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
-
-        logger.info("Sending %d articles to Gemini (%s) for [%s]", len(articles), model, topic_name)
-
-        articles_text = _build_articles_text(articles)
-        today = datetime.now().strftime("%Y-%m-%d")
-        prompt_text = _build_prompt(articles_text, today, topic_name, emoji, priority_topics)
-
-        client = genai.Client(api_key=api_key)
-        response = client.models.generate_content(
-            model=model, contents=prompt_text
-        )
-
-        return response.text
-
-    except Exception:
-        logger.exception("Failed to summarize articles with Gemini")
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        logger.error("GEMINI_API_KEY is not set in environment variables")
         return None
+
+    primary_model = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
+    models_to_try = [primary_model] + [m for m in FALLBACK_MODELS if m != primary_model]
+
+    articles_text = _build_articles_text(articles)
+    today = datetime.now().strftime("%Y-%m-%d")
+    prompt_text = _build_prompt(articles_text, today, topic_name, emoji, priority_topics)
+
+    client = genai.Client(api_key=api_key)
+
+    for model in models_to_try:
+        logger.info("Sending %d articles to Gemini (%s) for [%s]", len(articles), model, topic_name)
+        try:
+            result = _call_gemini(client, model, prompt_text)
+            if result:
+                if model != primary_model:
+                    logger.info("フォールバックモデル %s で要約に成功", model)
+                return result
+        except Exception:
+            logger.warning("モデル %s での要約に失敗。次のモデルを試行します", model)
+
+    logger.error("全モデルで要約に失敗しました（%s）", ", ".join(models_to_try))
+    return None
 
 
 def _build_articles_text(articles: list[Article]) -> str:
