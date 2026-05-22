@@ -39,6 +39,7 @@ jobs:
           DIGEST_TEST_MODE: ${{ inputs.test_mode == true && '1' || '' }}
           # Webhook URLs per profile (profiles.yml の webhook_env と一致させる)
           DISCORD_WEBHOOK_URL_IT: ${{ secrets.DISCORD_WEBHOOK_URL_IT }}
+          DISCORD_WEBHOOK_URL_SECURITY: ${{ secrets.DISCORD_WEBHOOK_URL_SECURITY }}
           DISCORD_WEBHOOK_URL_GAME_USER: ${{ secrets.DISCORD_WEBHOOK_URL_GAME_USER }}
           DISCORD_WEBHOOK_URL_GAME_DEV: ${{ secrets.DISCORD_WEBHOOK_URL_GAME_DEV }}
         run: python -m src.main

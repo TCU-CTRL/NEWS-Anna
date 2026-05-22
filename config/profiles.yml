@@ -17,6 +17,15 @@ profiles:
     topic: "ゲーム業界のユーザー向けニュース（新作情報、セール、eスポーツ、レビュー）"
     priority_topics: "new releases, trailers, sales, esports, tournaments, Nintendo, PlayStation, Xbox, Steam, reviews, indie games, VR"
 
+  - name: "セキュリティ"
+    sources: "config/security/sources.yml"
+    keywords: "config/security/keywords.yml"
+    webhook_env: "DISCORD_WEBHOOK_URL_SECURITY"
+    emoji: "🔒"
+    schedule: "daily"
+    topic: "開発ツール・サプライチェーンのセキュリティインシデント（VSCode拡張、npm/PyPIパッケージ、CI/CD、IDE、コンテナ）"
+    priority_topics: "supply chain attack, malicious extension, VSCode, npm, PyPI, GitHub Actions, CI/CD poisoning, dependency confusion, typosquatting, zero-day, CVE, RCE, container escape, backdoor, IDE security"
+
   - name: "ゲーム（開発者向け）"
     sources: "config/game-dev/sources.yml"
     keywords: "config/game-dev/keywords.yml"

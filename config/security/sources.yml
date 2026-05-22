@@ -1,0 +1,30 @@
+sources:
+  - name: "The Hacker News"
+    url: "https://feeds.feedburner.com/TheHackersNews"
+    category: "security"
+    enabled: true
+    weight: 1.0
+
+  - name: "BleepingComputer"
+    url: "https://www.bleepingcomputer.com/feed/"
+    category: "security"
+    enabled: true
+    weight: 1.0
+
+  - name: "piyolog"
+    url: "https://piyolog.hatenadiary.jp/rss"
+    category: "security_jp"
+    enabled: true
+    weight: 1.0
+
+  - name: "JPCERT/CC"
+    url: "https://www.jpcert.or.jp/rss/jpcert-all.rdf"
+    category: "security_jp"
+    enabled: true
+    weight: 0.9
+
+  - name: "Security NEXT"
+    url: "https://www.security-next.com/feed"
+    category: "security_jp"
+    enabled: true
+    weight: 0.9
