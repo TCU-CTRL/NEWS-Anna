@@ -18,6 +18,7 @@ def _make_profile(schedule: str = "daily") -> ProfileConfig:
         topic="",
         priority_topics="",
         schedule=schedule,
+        focus_areas=[],
     )
 
 

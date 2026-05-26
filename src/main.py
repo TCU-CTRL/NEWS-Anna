@@ -89,12 +89,21 @@ def run_profile(profile: ProfileConfig, dry_run: bool = False) -> bool:
         logger.info("[DRY RUN] Gemini API呼び出し・Discord送信はスキップ")
         return True
 
+    # 日替わり重点分野の選択
+    focus_today = ""
+    if profile.focus_areas:
+        today = datetime.now(JST)
+        idx = today.timetuple().tm_yday % len(profile.focus_areas)
+        focus_today = profile.focus_areas[idx]
+        logger.info("プロファイル [%s]: 今日の重点分野 → %s", profile.name, focus_today)
+
     # 4. AI要約
     digest = summarize(
         top_articles,
         topic_name=profile.name,
         emoji=profile.emoji,
         priority_topics=profile.priority_topics,
+        focus_area=focus_today,
     )
 
     # 5. メッセージ整形

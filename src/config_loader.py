@@ -38,6 +38,7 @@ class ProfileConfig:
     topic: str
     priority_topics: str
     schedule: str  # "daily" | "weekly:mon" | "weekly:tue" | ...
+    focus_areas: list[str]  # 日替わりローテーション用の重点分野リスト（空なら無効）
 
 
 def load_profiles(path: str = "config/profiles.yml") -> list[ProfileConfig]:
@@ -57,6 +58,7 @@ def load_profiles(path: str = "config/profiles.yml") -> list[ProfileConfig]:
                 topic=item.get("topic", ""),
                 priority_topics=item.get("priority_topics", ""),
                 schedule=item.get("schedule", "daily"),
+                focus_areas=item.get("focus_areas", []),
             )
         )
     return profiles

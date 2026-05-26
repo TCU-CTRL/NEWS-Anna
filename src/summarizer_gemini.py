@@ -45,6 +45,7 @@ def summarize(
     topic_name: str = "IT業界",
     emoji: str = "🦇",
     priority_topics: str = "",
+    focus_area: str = "",
 ) -> str | None:
     """記事リストをGemini APIで日本語ニュースダイジェストに要約する。
 
@@ -60,7 +61,7 @@ def summarize(
 
     articles_text = _build_articles_text(articles)
     today = datetime.now().strftime("%Y-%m-%d")
-    prompt_text = _build_prompt(articles_text, today, topic_name, emoji, priority_topics)
+    prompt_text = _build_prompt(articles_text, today, topic_name, emoji, priority_topics, focus_area)
 
     client = genai.Client(api_key=api_key)
 
@@ -100,8 +101,18 @@ def _build_prompt(
     topic_name: str = "IT業界",
     emoji: str = "🦇",
     priority_topics: str = "",
+    focus_area: str = "",
 ) -> str:
     """Gemini APIに送信するプロンプトを構築する。"""
+    focus_instruction = ""
+    if focus_area:
+        focus_instruction = f"""
+# 今日の重点分野
+**{focus_area}**
+今日は上記の分野を特に重視して記事を選んでください。該当する記事がない場合は他の分野から選んでも構いません。
+昨日と同じ記事を選ばないよう、なるべく新しい視点や切り口で選んでください。
+"""
+
     return f"""あなたは「アンナ・マリア・アブルッツィ」というキャラクターとして{topic_name}ニュースを届けるアシスタントです。
 
 # キャラクター設定
@@ -120,7 +131,7 @@ def _build_prompt(
 
 # 優先トピック
 {priority_topics}
-
+{focus_instruction}
 # 出力フォーマット
 
 {emoji}【{topic_name} 朝のニュースダイジェスト】{today}
