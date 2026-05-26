@@ -9,6 +9,17 @@ from src.models import Article
 logger = logging.getLogger(__name__)
 
 
+def remove_already_sent(articles: list[Article], sent_urls: set[str]) -> list[Article]:
+    """送信済みURLの記事を除外する"""
+    if not sent_urls:
+        return articles
+    result = [a for a in articles if a.url not in sent_urls]
+    removed = len(articles) - len(result)
+    if removed:
+        logger.info("Removed %d already-sent articles", removed)
+    return result
+
+
 def deduplicate(articles: list[Article]) -> list[Article]:
     """URL重複排除 - 同一URLの記事を1件にまとめる"""
     seen: set[str] = set()

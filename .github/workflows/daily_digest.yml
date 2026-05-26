@@ -16,6 +16,9 @@ on:
         type: boolean
         default: false
 
+permissions:
+  contents: write
+
 jobs:
   digest:
     runs-on: ubuntu-latest
@@ -37,9 +40,16 @@ jobs:
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash-lite' }}
           DIGEST_DRY_RUN: ${{ inputs.dry_run == true && '1' || '' }}
           DIGEST_TEST_MODE: ${{ inputs.test_mode == true && '1' || '' }}
-          # Webhook URLs per profile (profiles.yml の webhook_env と一致させる)
           DISCORD_WEBHOOK_URL_IT: ${{ secrets.DISCORD_WEBHOOK_URL_IT }}
           DISCORD_WEBHOOK_URL_SECURITY: ${{ secrets.DISCORD_WEBHOOK_URL_SECURITY }}
           DISCORD_WEBHOOK_URL_GAME_USER: ${{ secrets.DISCORD_WEBHOOK_URL_GAME_USER }}
           DISCORD_WEBHOOK_URL_GAME_DEV: ${{ secrets.DISCORD_WEBHOOK_URL_GAME_DEV }}
         run: python -m src.main
+
+      - name: Commit article history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/history/
+          git diff --cached --quiet || git commit -m "chore: update article history [skip ci]"
+          git push
