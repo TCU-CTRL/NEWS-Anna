@@ -38,5 +38,45 @@
   {
     "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
     "sent_at": "2026-05-26T22:30:50.080782+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
+    "sent_at": "2026-05-27T22:30:50.058938+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
+    "sent_at": "2026-05-27T22:30:50.058938+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
+    "sent_at": "2026-05-27T22:30:50.058938+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+    "sent_at": "2026-05-27T22:30:50.058938+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
+    "sent_at": "2026-05-27T22:30:50.058938+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+    "sent_at": "2026-05-27T22:30:50.058938+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2024/11/18/040039",
+    "sent_at": "2026-05-27T22:30:50.058938+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+    "sent_at": "2026-05-27T22:30:50.058938+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+    "sent_at": "2026-05-27T22:30:50.058938+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2024/12/25/180139",
+    "sent_at": "2026-05-27T22:30:50.058938+00:00"
   }
 ]
