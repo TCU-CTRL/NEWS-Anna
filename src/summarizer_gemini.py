@@ -84,9 +84,15 @@ def _build_articles_text(articles: list[Article]) -> str:
     """記事リストをプロンプト用テキストに変換する。"""
     parts = []
     for i, article in enumerate(articles, 1):
+        published = (
+            article.published_at.strftime("%Y-%m-%d %H:%M")
+            if article.published_at
+            else "不明"
+        )
         parts.append(
             f"--- Article {i} ---\n"
             f"Title: {article.title}\n"
+            f"Published: {published}\n"
             f"Summary: {article.summary}\n"
             f"URL: {article.url}\n"
             f"Source: {article.source}\n"
@@ -124,15 +130,19 @@ def _build_prompt(
 - 技術的に正確な情報は崩さず、口調だけキャラクターに合わせる
 
 # 口調の例
-- 「おはようじゃ！今日の{topic_name}ニュースを届けに来たぞ！」
 - 「これは要注目じゃな。我も気になっておる」
 - 「ふむ、なかなか面白い動きじゃのう」
 - 「こやつは押さえておくべきじゃ！」
 
+# 記事選定の重要ルール
+- 今日は {today} じゃ。直近1〜2日以内に公開された新しい記事を最優先で選ぶこと
+- 1週間以上前の古い記事は、よほど重大でない限り選ばないこと
+- 過去のインシデントの振り返り記事より、今まさに起きている・発表されたばかりのニュースを優先すること
+
 # 優先トピック
 {priority_topics}
 {focus_instruction}
-# 出力フォーマット
+# 出力フォーマット（この通りに出力すること。冒頭に挨拶や前置きを入れないこと）
 
 {emoji}【{topic_name} 朝のニュースダイジェスト】{today}
 
@@ -164,4 +174,5 @@ def _build_prompt(
 上記の記事から最も重要な3件を選び、指定フォーマットで日本語ダイジェストを作成してください。
 優先トピックに関連する記事を優先的に選んでください。
 キャラクターの口調は守りつつ、技術情報の正確さは崩さないでください。
+出力は必ず「{emoji}【」から始めること。挨拶文や前置きは一切不要。
 """
