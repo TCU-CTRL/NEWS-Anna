@@ -78,5 +78,45 @@
   {
     "url": "https://piyolog.hatenadiary.jp/entry/2024/12/25/180139",
     "sent_at": "2026-05-27T22:30:50.058938+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+    "sent_at": "2026-05-28T22:33:16.315835+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+    "sent_at": "2026-05-28T22:33:16.315835+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
+    "sent_at": "2026-05-28T22:33:16.315835+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+    "sent_at": "2026-05-28T22:33:16.315835+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+    "sent_at": "2026-05-28T22:33:16.315835+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2024/08/19/074417",
+    "sent_at": "2026-05-28T22:33:16.315835+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/185066",
+    "sent_at": "2026-05-28T22:33:16.315835+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
+    "sent_at": "2026-05-28T22:33:16.315835+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2025/03/27/022634",
+    "sent_at": "2026-05-28T22:33:16.315835+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
+    "sent_at": "2026-05-28T22:33:16.315835+00:00"
   }
 ]
