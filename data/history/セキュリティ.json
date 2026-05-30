@@ -158,5 +158,45 @@
   {
     "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
     "sent_at": "2026-05-29T22:30:49.308350+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+    "sent_at": "2026-05-30T22:30:50.450626+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+    "sent_at": "2026-05-30T22:30:50.450626+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
+    "sent_at": "2026-05-30T22:30:50.450626+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
+    "sent_at": "2026-05-30T22:30:50.450626+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+    "sent_at": "2026-05-30T22:30:50.450626+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2024/11/06/011739",
+    "sent_at": "2026-05-30T22:30:50.450626+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
+    "sent_at": "2026-05-30T22:30:50.450626+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2024/07/23/023045",
+    "sent_at": "2026-05-30T22:30:50.450626+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260015.html",
+    "sent_at": "2026-05-30T22:30:50.450626+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2025/at250021.html",
+    "sent_at": "2026-05-30T22:30:50.450626+00:00"
   }
 ]
