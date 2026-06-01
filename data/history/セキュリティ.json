@@ -238,5 +238,45 @@
   {
     "url": "https://piyolog.hatenadiary.jp/entry/2024/10/31/165527",
     "sent_at": "2026-05-31T22:30:46.535775+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
+    "sent_at": "2026-06-01T22:30:52.335651+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
+    "sent_at": "2026-06-01T22:30:52.335651+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+    "sent_at": "2026-06-01T22:30:52.335651+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/185206",
+    "sent_at": "2026-06-01T22:30:52.335651+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
+    "sent_at": "2026-06-01T22:30:52.335651+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/185223",
+    "sent_at": "2026-06-01T22:30:52.335651+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/185229",
+    "sent_at": "2026-06-01T22:30:52.335651+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+    "sent_at": "2026-06-01T22:30:52.335651+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+    "sent_at": "2026-06-01T22:30:52.335651+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
+    "sent_at": "2026-06-01T22:30:52.335651+00:00"
   }
 ]
