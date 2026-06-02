@@ -278,5 +278,45 @@
   {
     "url": "https://www.itmedia.co.jp/pcuser/articles/2606/01/news052.html",
     "sent_at": "2026-06-01T22:30:43.772497+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/02/news024.html",
+    "sent_at": "2026-06-02T22:30:46.276038+00:00"
+  },
+  {
+    "url": "https://qiita.com/minorun365/items/f83b3cf2df904ead28dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-06-02T22:30:46.276038+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2606/02/news070.html",
+    "sent_at": "2026-06-02T22:30:46.276038+00:00"
+  },
+  {
+    "url": "https://github.com/s2-streamstore/replaya",
+    "sent_at": "2026-06-02T22:30:46.276038+00:00"
+  },
+  {
+    "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+    "sent_at": "2026-06-02T22:30:46.276038+00:00"
+  },
+  {
+    "url": "https://qiita.com/resound/items/b742f4afe06c2446ad6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-06-02T22:30:46.276038+00:00"
+  },
+  {
+    "url": "https://zenn.dev/ichigoe/articles/39ed922d19c9bb",
+    "sent_at": "2026-06-02T22:30:46.276038+00:00"
+  },
+  {
+    "url": "https://zenn.dev/aws_japan/articles/2026-06-01-bedrock-japanese-eval",
+    "sent_at": "2026-06-02T22:30:46.276038+00:00"
+  },
+  {
+    "url": "https://zenn.dev/nishiken_zenn/articles/why-stopping-coding-for-ai-ja",
+    "sent_at": "2026-06-02T22:30:46.276038+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/",
+    "sent_at": "2026-06-02T22:30:46.276038+00:00"
   }
 ]
