@@ -318,5 +318,45 @@
   {
     "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/",
     "sent_at": "2026-06-02T22:30:46.276038+00:00"
+  },
+  {
+    "url": "https://zenn.dev/sora_kumo/articles/zenn-ai-filter",
+    "sent_at": "2026-06-03T22:30:44.131317+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2606/03/news106.html",
+    "sent_at": "2026-06-03T22:30:44.131317+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news100.html",
+    "sent_at": "2026-06-03T22:30:44.131317+00:00"
+  },
+  {
+    "url": "https://github.com/zaydmulani09/mnemo",
+    "sent_at": "2026-06-03T22:30:44.131317+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=48387095",
+    "sent_at": "2026-06-03T22:30:44.131317+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news026.html",
+    "sent_at": "2026-06-03T22:30:44.131317+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news065.html",
+    "sent_at": "2026-06-03T22:30:44.131317+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2606/04/news056.html",
+    "sent_at": "2026-06-03T22:30:44.131317+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news035.html",
+    "sent_at": "2026-06-03T22:30:44.131317+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news015.html",
+    "sent_at": "2026-06-03T22:30:44.131317+00:00"
   }
 ]

@@ -318,5 +318,45 @@
   {
     "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
     "sent_at": "2026-06-02T22:30:55.261069+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+    "sent_at": "2026-06-03T22:30:52.142798+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
+    "sent_at": "2026-06-03T22:30:52.142798+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/185315",
+    "sent_at": "2026-06-03T22:30:52.142798+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+    "sent_at": "2026-06-03T22:30:52.142798+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/185308",
+    "sent_at": "2026-06-03T22:30:52.142798+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+    "sent_at": "2026-06-03T22:30:52.142798+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/185339",
+    "sent_at": "2026-06-03T22:30:52.142798+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/185176",
+    "sent_at": "2026-06-03T22:30:52.142798+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+    "sent_at": "2026-06-03T22:30:52.142798+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+    "sent_at": "2026-06-03T22:30:52.142798+00:00"
   }
 ]
