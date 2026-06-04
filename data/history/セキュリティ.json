@@ -358,5 +358,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
     "sent_at": "2026-06-03T22:30:52.142798+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
+    "sent_at": "2026-06-04T22:30:56.177268+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
+    "sent_at": "2026-06-04T22:30:56.177268+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
+    "sent_at": "2026-06-04T22:30:56.177268+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
+    "sent_at": "2026-06-04T22:30:56.177268+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
+    "sent_at": "2026-06-04T22:30:56.177268+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/185385",
+    "sent_at": "2026-06-04T22:30:56.177268+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html",
+    "sent_at": "2026-06-04T22:30:56.177268+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
+    "sent_at": "2026-06-04T22:30:56.177268+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html",
+    "sent_at": "2026-06-04T22:30:56.177268+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260603.html#8",
+    "sent_at": "2026-06-04T22:30:56.177268+00:00"
   }
 ]
