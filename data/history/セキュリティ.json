@@ -398,5 +398,45 @@
   {
     "url": "https://www.jpcert.or.jp/wr/2026/wr260603.html#8",
     "sent_at": "2026-06-04T22:30:56.177268+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+    "sent_at": "2026-06-05T22:30:50.622430+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+    "sent_at": "2026-06-05T22:30:50.622430+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
+    "sent_at": "2026-06-05T22:30:50.622430+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
+    "sent_at": "2026-06-05T22:30:50.622430+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/185464",
+    "sent_at": "2026-06-05T22:30:50.622430+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/185448",
+    "sent_at": "2026-06-05T22:30:50.622430+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
+    "sent_at": "2026-06-05T22:30:50.622430+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/185470",
+    "sent_at": "2026-06-05T22:30:50.622430+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
+    "sent_at": "2026-06-05T22:30:50.622430+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
+    "sent_at": "2026-06-05T22:30:50.622430+00:00"
   }
 ]
