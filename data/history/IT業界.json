@@ -438,5 +438,45 @@
   {
     "url": "https://zenn.dev/seeda_yuto/articles/ollama-vs-vllm-rtx4080-benchmark",
     "sent_at": "2026-06-05T22:30:43.239469+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2606/06/news007.html",
+    "sent_at": "2026-06-06T22:30:43.228715+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
+    "sent_at": "2026-06-06T22:30:43.228715+00:00"
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+    "sent_at": "2026-06-06T22:30:43.228715+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "sent_at": "2026-06-06T22:30:43.228715+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=48420827",
+    "sent_at": "2026-06-06T22:30:43.228715+00:00"
+  },
+  {
+    "url": "https://qiita.com/long-910/items/76779fc1d8602dab73b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-06-06T22:30:43.228715+00:00"
+  },
+  {
+    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "sent_at": "2026-06-06T22:30:43.228715+00:00"
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+    "sent_at": "2026-06-06T22:30:43.228715+00:00"
+  },
+  {
+    "url": "https://zenn.dev/tokium_dev/articles/d806c7ad4fd458",
+    "sent_at": "2026-06-06T22:30:43.228715+00:00"
+  },
+  {
+    "url": "https://qiita.com/arinnnnnn/items/bbeb21ba22a349b4a4ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-06-06T22:30:43.228715+00:00"
   }
 ]
