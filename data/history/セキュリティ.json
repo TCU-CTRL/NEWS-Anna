@@ -558,5 +558,45 @@
   {
     "url": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html",
     "sent_at": "2026-06-08T22:30:57.037730+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
+    "sent_at": "2026-06-09T22:30:58.434051+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
+    "sent_at": "2026-06-09T22:30:58.434051+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
+    "sent_at": "2026-06-09T22:30:58.434051+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/185583",
+    "sent_at": "2026-06-09T22:30:58.434051+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
+    "sent_at": "2026-06-09T22:30:58.434051+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
+    "sent_at": "2026-06-09T22:30:58.434051+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
+    "sent_at": "2026-06-09T22:30:58.434051+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
+    "sent_at": "2026-06-09T22:30:58.434051+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
+    "sent_at": "2026-06-09T22:30:58.434051+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
+    "sent_at": "2026-06-09T22:30:58.434051+00:00"
   }
 ]
