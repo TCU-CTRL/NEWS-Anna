@@ -838,5 +838,45 @@
   {
     "url": "https://www.security-next.com/185887",
     "sent_at": "2026-06-15T22:31:06.064113+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
+    "sent_at": "2026-06-16T22:31:45.355141+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html",
+    "sent_at": "2026-06-16T22:31:45.355141+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
+    "sent_at": "2026-06-16T22:31:45.355141+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
+    "sent_at": "2026-06-16T22:31:45.355141+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
+    "sent_at": "2026-06-16T22:31:45.355141+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
+    "sent_at": "2026-06-16T22:31:45.355141+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/185914",
+    "sent_at": "2026-06-16T22:31:45.355141+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
+    "sent_at": "2026-06-16T22:31:45.355141+00:00"
+  },
+  {
+    "url": "https://jvn.jp/vu/JVNVU92116935/",
+    "sent_at": "2026-06-16T22:31:45.355141+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
+    "sent_at": "2026-06-16T22:31:45.355141+00:00"
   }
 ]
