@@ -918,5 +918,45 @@
   {
     "url": "https://www.security-next.com/185981",
     "sent_at": "2026-06-17T22:32:09.836370+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
+    "sent_at": "2026-06-18T22:31:01.934716+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
+    "sent_at": "2026-06-18T22:31:01.934716+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186046",
+    "sent_at": "2026-06-18T22:31:01.934716+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186042",
+    "sent_at": "2026-06-18T22:31:01.934716+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186052",
+    "sent_at": "2026-06-18T22:31:01.934716+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
+    "sent_at": "2026-06-18T22:31:01.934716+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+    "sent_at": "2026-06-18T22:31:01.934716+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
+    "sent_at": "2026-06-18T22:31:01.934716+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
+    "sent_at": "2026-06-18T22:31:01.934716+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
+    "sent_at": "2026-06-18T22:31:01.934716+00:00"
   }
 ]
