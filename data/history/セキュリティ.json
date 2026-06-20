@@ -998,5 +998,45 @@
   {
     "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html#8",
     "sent_at": "2026-06-19T22:31:10.612360+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+    "sent_at": "2026-06-20T22:31:08.151490+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
+    "sent_at": "2026-06-20T22:31:08.151490+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
+    "sent_at": "2026-06-20T22:31:08.151490+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html#14",
+    "sent_at": "2026-06-20T22:31:08.151490+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html#18",
+    "sent_at": "2026-06-20T22:31:08.151490+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186165",
+    "sent_at": "2026-06-20T22:31:08.151490+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html",
+    "sent_at": "2026-06-20T22:31:08.151490+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+    "sent_at": "2026-06-20T22:31:08.151490+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+    "sent_at": "2026-06-20T22:31:08.151490+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186126",
+    "sent_at": "2026-06-20T22:31:08.151490+00:00"
   }
 ]
