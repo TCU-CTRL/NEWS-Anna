@@ -1038,5 +1038,45 @@
   {
     "url": "https://www.security-next.com/186126",
     "sent_at": "2026-06-20T22:31:08.151490+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+    "sent_at": "2026-06-21T22:31:06.100010+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
+    "sent_at": "2026-06-21T22:31:06.100010+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2024/11/09/041408",
+    "sent_at": "2026-06-21T22:31:06.100010+00:00"
+  },
+  {
+    "url": "https://blogs.jpcert.or.jp/ja/2026/06/tool_analysis_update.html",
+    "sent_at": "2026-06-21T22:31:06.100010+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260018.html",
+    "sent_at": "2026-06-21T22:31:06.100010+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260014.html",
+    "sent_at": "2026-06-21T22:31:06.100010+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260013.html",
+    "sent_at": "2026-06-21T22:31:06.100010+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html#1",
+    "sent_at": "2026-06-21T22:31:06.100010+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html#2",
+    "sent_at": "2026-06-21T22:31:06.100010+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html#4",
+    "sent_at": "2026-06-21T22:31:06.100010+00:00"
   }
 ]
