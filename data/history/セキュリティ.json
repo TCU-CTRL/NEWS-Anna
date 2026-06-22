@@ -1078,5 +1078,45 @@
   {
     "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html#4",
     "sent_at": "2026-06-21T22:31:06.100010+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+    "sent_at": "2026-06-22T22:31:11.744468+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186208",
+    "sent_at": "2026-06-22T22:31:11.744468+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186198",
+    "sent_at": "2026-06-22T22:31:11.744468+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+    "sent_at": "2026-06-22T22:31:11.744468+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
+    "sent_at": "2026-06-22T22:31:11.744468+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
+    "sent_at": "2026-06-22T22:31:11.744468+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
+    "sent_at": "2026-06-22T22:31:11.744468+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
+    "sent_at": "2026-06-22T22:31:11.744468+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+    "sent_at": "2026-06-22T22:31:11.744468+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+    "sent_at": "2026-06-22T22:31:11.744468+00:00"
   }
 ]
