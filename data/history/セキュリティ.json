@@ -1158,5 +1158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
     "sent_at": "2026-06-23T22:31:21.089838+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
+    "sent_at": "2026-06-24T22:31:10.932185+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
+    "sent_at": "2026-06-24T22:31:10.932185+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
+    "sent_at": "2026-06-24T22:31:10.932185+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
+    "sent_at": "2026-06-24T22:31:10.932185+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
+    "sent_at": "2026-06-24T22:31:10.932185+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186297",
+    "sent_at": "2026-06-24T22:31:10.932185+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
+    "sent_at": "2026-06-24T22:31:10.932185+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186303",
+    "sent_at": "2026-06-24T22:31:10.932185+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
+    "sent_at": "2026-06-24T22:31:10.932185+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
+    "sent_at": "2026-06-24T22:31:10.932185+00:00"
   }
 ]
