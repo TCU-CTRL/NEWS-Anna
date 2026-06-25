@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.minicor.com/",
-    "sent_at": "2026-05-26T22:30:39.984971+00:00"
-  },
-  {
-    "url": "https://zenn.dev/yun_bow/articles/a339e1d31a4c43",
-    "sent_at": "2026-05-26T22:30:39.984971+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/27/news042.html",
-    "sent_at": "2026-05-26T22:30:39.984971+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2605/27/news022.html",
-    "sent_at": "2026-05-26T22:30:39.984971+00:00"
-  },
-  {
-    "url": "https://qiita.com/shirok/items/02fd327e01146f79c45c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-05-26T22:30:39.984971+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
-    "sent_at": "2026-05-26T22:30:39.984971+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/27/news015.html",
-    "sent_at": "2026-05-26T22:30:39.984971+00:00"
-  },
-  {
-    "url": "https://qiita.com/hirashima-gmoconnect/items/cd1ab7d541cc3047ae70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-05-26T22:30:39.984971+00:00"
-  },
-  {
-    "url": "https://zenn.dev/nori_handa/articles/llm-knowledge-base-karpathy-wiki",
-    "sent_at": "2026-05-26T22:30:39.984971+00:00"
-  },
-  {
-    "url": "https://zenn.dev/nstock/articles/ui-change-notifier",
-    "sent_at": "2026-05-26T22:30:39.984971+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/news/articles/2605/27/news118.html",
     "sent_at": "2026-05-27T22:30:38.597678+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/business/articles/2606/25/news022.html",
     "sent_at": "2026-06-24T22:31:02.283231+00:00"
+  },
+  {
+    "url": "https://github.com/inkeep/open-knowledge",
+    "sent_at": "2026-06-25T22:30:59.711638+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news052.html",
+    "sent_at": "2026-06-25T22:30:59.711638+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2606/26/news059.html",
+    "sent_at": "2026-06-25T22:30:59.711638+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2606/25/news117.html",
+    "sent_at": "2026-06-25T22:30:59.711638+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2606/25/news113.html",
+    "sent_at": "2026-06-25T22:30:59.711638+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2606/25/news114.html",
+    "sent_at": "2026-06-25T22:30:59.711638+00:00"
+  },
+  {
+    "url": "https://qiita.com/ta-ito0611/items/646d3d1efb535737416d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-06-25T22:30:59.711638+00:00"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+    "sent_at": "2026-06-25T22:30:59.711638+00:00"
+  },
+  {
+    "url": "https://zenn.dev/manalink_dev/articles/ai-coding-era-review-to-dev-process-not-human",
+    "sent_at": "2026-06-25T22:30:59.711638+00:00"
+  },
+  {
+    "url": "https://qiita.com/y-miyake/items/cd57bf51d0911cf47ad9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-06-25T22:30:59.711638+00:00"
   }
 ]
