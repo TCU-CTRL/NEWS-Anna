@@ -1198,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
     "sent_at": "2026-06-26T22:31:15.410114+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+    "sent_at": "2026-06-27T22:31:02.895382+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
+    "sent_at": "2026-06-27T22:31:02.895382+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
+    "sent_at": "2026-06-27T22:31:02.895382+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#4",
+    "sent_at": "2026-06-27T22:31:02.895382+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#11",
+    "sent_at": "2026-06-27T22:31:02.895382+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+    "sent_at": "2026-06-27T22:31:02.895382+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
+    "sent_at": "2026-06-27T22:31:02.895382+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+    "sent_at": "2026-06-27T22:31:02.895382+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186433",
+    "sent_at": "2026-06-27T22:31:02.895382+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186442",
+    "sent_at": "2026-06-27T22:31:02.895382+00:00"
   }
 ]
