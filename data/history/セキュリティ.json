@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-    "sent_at": "2026-05-28T22:33:16.315835+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
-    "sent_at": "2026-05-28T22:33:16.315835+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
-    "sent_at": "2026-05-28T22:33:16.315835+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
-    "sent_at": "2026-05-28T22:33:16.315835+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
-    "sent_at": "2026-05-28T22:33:16.315835+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2024/08/19/074417",
-    "sent_at": "2026-05-28T22:33:16.315835+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185066",
-    "sent_at": "2026-05-28T22:33:16.315835+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
-    "sent_at": "2026-05-28T22:33:16.315835+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/03/27/022634",
-    "sent_at": "2026-05-28T22:33:16.315835+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
-    "sent_at": "2026-05-28T22:33:16.315835+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185097",
-    "sent_at": "2026-05-29T22:30:49.308350+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185192",
-    "sent_at": "2026-05-29T22:30:49.308350+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185057",
-    "sent_at": "2026-05-29T22:30:49.308350+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
-    "sent_at": "2026-05-29T22:30:49.308350+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185143",
-    "sent_at": "2026-05-29T22:30:49.308350+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185141",
-    "sent_at": "2026-05-29T22:30:49.308350+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
-    "sent_at": "2026-05-29T22:30:49.308350+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
-    "sent_at": "2026-05-29T22:30:49.308350+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
-    "sent_at": "2026-05-29T22:30:49.308350+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
-    "sent_at": "2026-05-29T22:30:49.308350+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
     "sent_at": "2026-05-30T22:30:50.450626+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/186442",
     "sent_at": "2026-06-27T22:31:02.895382+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2024/08/19/074417",
+    "sent_at": "2026-06-28T22:31:04.266822+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2025/03/27/022634",
+    "sent_at": "2026-06-28T22:31:04.266822+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+    "sent_at": "2026-06-28T22:31:04.266822+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+    "sent_at": "2026-06-28T22:31:04.266822+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
+    "sent_at": "2026-06-28T22:31:04.266822+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/solicitation/",
+    "sent_at": "2026-06-28T22:31:04.266822+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#1",
+    "sent_at": "2026-06-28T22:31:04.266822+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#2",
+    "sent_at": "2026-06-28T22:31:04.266822+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#3",
+    "sent_at": "2026-06-28T22:31:04.266822+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#5",
+    "sent_at": "2026-06-28T22:31:04.266822+00:00"
   }
 ]
