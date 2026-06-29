@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/business/articles/2605/30/news021.html",
-    "sent_at": "2026-05-30T22:30:42.232394+00:00"
-  },
-  {
-    "url": "https://qiita.com/kai_kou/items/411e39ef6571379ec369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-05-30T22:30:42.232394+00:00"
-  },
-  {
-    "url": "https://zenn.dev/noppe/articles/2113952a4bf0cc",
-    "sent_at": "2026-05-30T22:30:42.232394+00:00"
-  },
-  {
-    "url": "https://qiita.com/KNR109/items/aaa3ce165cb4efdabd18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-05-30T22:30:42.232394+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-whats-next-with-aws-2026/",
-    "sent_at": "2026-05-30T22:30:42.232394+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/",
-    "sent_at": "2026-05-30T22:30:42.232394+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026/",
-    "sent_at": "2026-05-30T22:30:42.232394+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news024.html",
-    "sent_at": "2026-05-30T22:30:42.232394+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2605/30/news025.html",
-    "sent_at": "2026-05-30T22:30:42.232394+00:00"
-  },
-  {
-    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-    "sent_at": "2026-05-30T22:30:42.232394+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news010.html",
     "sent_at": "2026-05-31T22:30:35.756967+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/enterprise/articles/2606/29/news021.html",
     "sent_at": "2026-06-28T22:30:52.953272+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2606/29/news114.html",
+    "sent_at": "2026-06-29T22:31:05.916253+00:00"
+  },
+  {
+    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+    "sent_at": "2026-06-29T22:31:05.916253+00:00"
+  },
+  {
+    "url": "https://zenn.dev/nexta_/articles/858e92ee22b4a4",
+    "sent_at": "2026-06-29T22:31:05.916253+00:00"
+  },
+  {
+    "url": "https://zenn.dev/fujimac/articles/fc62cb2ac43505",
+    "sent_at": "2026-06-29T22:31:05.916253+00:00"
+  },
+  {
+    "url": "https://qiita.com/yasu1109/items/a344f5181613889489a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-06-29T22:31:05.916253+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2606/30/news072.html",
+    "sent_at": "2026-06-29T22:31:05.916253+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2606/29/news077.html",
+    "sent_at": "2026-06-29T22:31:05.916253+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2606/26/news114.html",
+    "sent_at": "2026-06-29T22:31:05.916253+00:00"
+  },
+  {
+    "url": "https://zenn.dev/gamedev_toollab/articles/a7364d37455a50",
+    "sent_at": "2026-06-29T22:31:05.916253+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2606/30/news025.html",
+    "sent_at": "2026-06-29T22:31:05.916253+00:00"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-    "sent_at": "2026-05-30T22:30:50.450626+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
-    "sent_at": "2026-05-30T22:30:50.450626+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
-    "sent_at": "2026-05-30T22:30:50.450626+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
-    "sent_at": "2026-05-30T22:30:50.450626+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
-    "sent_at": "2026-05-30T22:30:50.450626+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2024/11/06/011739",
-    "sent_at": "2026-05-30T22:30:50.450626+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
-    "sent_at": "2026-05-30T22:30:50.450626+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2024/07/23/023045",
-    "sent_at": "2026-05-30T22:30:50.450626+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/at/2026/at260015.html",
-    "sent_at": "2026-05-30T22:30:50.450626+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/at/2025/at250021.html",
-    "sent_at": "2026-05-30T22:30:50.450626+00:00"
-  },
-  {
     "url": "https://www.jpcert.or.jp/wr/2026/wr260527.html#13",
     "sent_at": "2026-05-31T22:30:46.535775+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#5",
     "sent_at": "2026-06-28T22:31:04.266822+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+    "sent_at": "2026-06-29T22:31:23.096436+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+    "sent_at": "2026-06-29T22:31:23.096436+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+    "sent_at": "2026-06-29T22:31:23.096436+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+    "sent_at": "2026-06-29T22:31:23.096436+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+    "sent_at": "2026-06-29T22:31:23.096436+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
+    "sent_at": "2026-06-29T22:31:23.096436+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+    "sent_at": "2026-06-29T22:31:23.096436+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
+    "sent_at": "2026-06-29T22:31:23.096436+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186498",
+    "sent_at": "2026-06-29T22:31:23.096436+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186525",
+    "sent_at": "2026-06-29T22:31:23.096436+00:00"
   }
 ]
