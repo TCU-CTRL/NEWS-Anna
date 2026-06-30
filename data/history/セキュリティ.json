@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260527.html#13",
-    "sent_at": "2026-05-31T22:30:46.535775+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260527.html#14",
-    "sent_at": "2026-05-31T22:30:46.535775+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
-    "sent_at": "2026-05-31T22:30:46.535775+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/12/07/004905",
-    "sent_at": "2026-05-31T22:30:46.535775+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/11/28/170613",
-    "sent_at": "2026-05-31T22:30:46.535775+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/10/04/023247",
-    "sent_at": "2026-05-31T22:30:46.535775+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/03/14/022046",
-    "sent_at": "2026-05-31T22:30:46.535775+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/02/28/050112",
-    "sent_at": "2026-05-31T22:30:46.535775+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/01/31/235432",
-    "sent_at": "2026-05-31T22:30:46.535775+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2024/10/31/165527",
-    "sent_at": "2026-05-31T22:30:46.535775+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
     "sent_at": "2026-06-01T22:30:52.335651+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/186525",
     "sent_at": "2026-06-29T22:31:23.096436+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
+    "sent_at": "2026-06-30T22:32:22.134808+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
+    "sent_at": "2026-06-30T22:32:22.134808+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
+    "sent_at": "2026-06-30T22:32:22.134808+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+    "sent_at": "2026-06-30T22:32:22.134808+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
+    "sent_at": "2026-06-30T22:32:22.134808+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+    "sent_at": "2026-06-30T22:32:22.134808+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
+    "sent_at": "2026-06-30T22:32:22.134808+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
+    "sent_at": "2026-06-30T22:32:22.134808+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186399",
+    "sent_at": "2026-06-30T22:32:22.134808+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
+    "sent_at": "2026-06-30T22:32:22.134808+00:00"
   }
 ]

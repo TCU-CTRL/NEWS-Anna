@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news010.html",
-    "sent_at": "2026-05-31T22:30:35.756967+00:00"
-  },
-  {
-    "url": "https://blog.tymscar.com/posts/v100localllm/",
-    "sent_at": "2026-05-31T22:30:35.756967+00:00"
-  },
-  {
-    "url": "https://zenn.dev/mfactory_uh/articles/f793050a48813b",
-    "sent_at": "2026-05-31T22:30:35.756967+00:00"
-  },
-  {
-    "url": "https://qiita.com/FumiakiKato/items/befeed7d74caeb8503d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-05-31T22:30:35.756967+00:00"
-  },
-  {
-    "url": "https://qiita.com/archeleeds/items/6ec24ba4942973a1ce0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-05-31T22:30:35.756967+00:00"
-  },
-  {
-    "url": "https://qiita.com/usayamadausako/items/c8b5cca97554f6f64782?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-05-31T22:30:35.756967+00:00"
-  },
-  {
-    "url": "https://zenn.dev/yumayx/articles/c69ac22ce07bea",
-    "sent_at": "2026-05-31T22:30:35.756967+00:00"
-  },
-  {
-    "url": "https://zenn.dev/kobao/articles/64a72dc0167ca3",
-    "sent_at": "2026-05-31T22:30:35.756967+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/01/news054.html",
-    "sent_at": "2026-05-31T22:30:35.756967+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/01/news040.html",
-    "sent_at": "2026-05-31T22:30:35.756967+00:00"
-  },
-  {
     "url": "https://www.gettextile.app",
     "sent_at": "2026-06-01T22:30:43.772497+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/business/articles/2606/30/news025.html",
     "sent_at": "2026-06-29T22:31:05.916253+00:00"
+  },
+  {
+    "url": "https://qiita.com/nogataka/items/6091d6a9d2893f71fabe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-06-30T22:32:01.193753+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/01/news060.html",
+    "sent_at": "2026-06-30T22:32:01.193753+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2607/01/news013.html",
+    "sent_at": "2026-06-30T22:32:01.193753+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2606/30/news027.html",
+    "sent_at": "2026-06-30T22:32:01.193753+00:00"
+  },
+  {
+    "url": "https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced",
+    "sent_at": "2026-06-30T22:32:01.193753+00:00"
+  },
+  {
+    "url": "https://zenn.dev/starai_org/articles/1b09b1971a2a2b",
+    "sent_at": "2026-06-30T22:32:01.193753+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/30/news051.html",
+    "sent_at": "2026-06-30T22:32:01.193753+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/01/news057.html",
+    "sent_at": "2026-06-30T22:32:01.193753+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2606/30/news123.html",
+    "sent_at": "2026-06-30T22:32:01.193753+00:00"
+  },
+  {
+    "url": "https://zenn.dev/chot/articles/dca4889fa27d27",
+    "sent_at": "2026-06-30T22:32:01.193753+00:00"
   }
 ]
