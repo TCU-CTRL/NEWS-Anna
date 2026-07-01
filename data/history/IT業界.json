@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.gettextile.app",
-    "sent_at": "2026-06-01T22:30:43.772497+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/01/news103.html",
-    "sent_at": "2026-06-01T22:30:43.772497+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/02/news035.html",
-    "sent_at": "2026-06-01T22:30:43.772497+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
-    "sent_at": "2026-06-01T22:30:43.772497+00:00"
-  },
-  {
-    "url": "https://qiita.com/nogataka/items/545148471e8f2b63c9a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-01T22:30:43.772497+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/02/news063.html",
-    "sent_at": "2026-06-01T22:30:43.772497+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/02/news023.html",
-    "sent_at": "2026-06-01T22:30:43.772497+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/02/news062.html",
-    "sent_at": "2026-06-01T22:30:43.772497+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/02/news036.html",
-    "sent_at": "2026-06-01T22:30:43.772497+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2606/01/news052.html",
-    "sent_at": "2026-06-01T22:30:43.772497+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/enterprise/articles/2606/02/news024.html",
     "sent_at": "2026-06-02T22:30:46.276038+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://zenn.dev/chot/articles/dca4889fa27d27",
     "sent_at": "2026-06-30T22:32:01.193753+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/02/news027.html",
+    "sent_at": "2026-07-01T22:30:53.538494+00:00"
+  },
+  {
+    "url": "https://golemui.com",
+    "sent_at": "2026-07-01T22:30:53.538494+00:00"
+  },
+  {
+    "url": "https://qiita.com/Yuzuki-ki/items/21ac1fc33cf8926df190?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-01T22:30:53.538494+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2607/02/news015.html",
+    "sent_at": "2026-07-01T22:30:53.538494+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/01/news139.html",
+    "sent_at": "2026-07-01T22:30:53.538494+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/01/news098.html",
+    "sent_at": "2026-07-01T22:30:53.538494+00:00"
+  },
+  {
+    "url": "https://twitter.com/claudeai/status/2072402636813607381",
+    "sent_at": "2026-07-01T22:30:53.538494+00:00"
+  },
+  {
+    "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+    "sent_at": "2026-07-01T22:30:53.538494+00:00"
+  },
+  {
+    "url": "https://zenn.dev/canly/articles/428767121d7dc2",
+    "sent_at": "2026-07-01T22:30:53.538494+00:00"
+  },
+  {
+    "url": "https://zenn.dev/syurenuko/articles/b31d9d63035c9c",
+    "sent_at": "2026-07-01T22:30:53.538494+00:00"
   }
 ]
