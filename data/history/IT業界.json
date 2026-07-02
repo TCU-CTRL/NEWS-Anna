@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/02/news024.html",
-    "sent_at": "2026-06-02T22:30:46.276038+00:00"
-  },
-  {
-    "url": "https://qiita.com/minorun365/items/f83b3cf2df904ead28dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-02T22:30:46.276038+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/02/news070.html",
-    "sent_at": "2026-06-02T22:30:46.276038+00:00"
-  },
-  {
-    "url": "https://github.com/s2-streamstore/replaya",
-    "sent_at": "2026-06-02T22:30:46.276038+00:00"
-  },
-  {
-    "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-    "sent_at": "2026-06-02T22:30:46.276038+00:00"
-  },
-  {
-    "url": "https://qiita.com/resound/items/b742f4afe06c2446ad6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-02T22:30:46.276038+00:00"
-  },
-  {
-    "url": "https://zenn.dev/ichigoe/articles/39ed922d19c9bb",
-    "sent_at": "2026-06-02T22:30:46.276038+00:00"
-  },
-  {
-    "url": "https://zenn.dev/aws_japan/articles/2026-06-01-bedrock-japanese-eval",
-    "sent_at": "2026-06-02T22:30:46.276038+00:00"
-  },
-  {
-    "url": "https://zenn.dev/nishiken_zenn/articles/why-stopping-coding-for-ai-ja",
-    "sent_at": "2026-06-02T22:30:46.276038+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/",
-    "sent_at": "2026-06-02T22:30:46.276038+00:00"
-  },
-  {
     "url": "https://zenn.dev/sora_kumo/articles/zenn-ai-filter",
     "sent_at": "2026-06-03T22:30:44.131317+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://zenn.dev/syurenuko/articles/b31d9d63035c9c",
     "sent_at": "2026-07-01T22:30:53.538494+00:00"
+  },
+  {
+    "url": "https://manufact.com",
+    "sent_at": "2026-07-02T22:31:09.443941+00:00"
+  },
+  {
+    "url": "https://zk.golf/",
+    "sent_at": "2026-07-02T22:31:09.443941+00:00"
+  },
+  {
+    "url": "https://qiita.com/iwa0114/items/ab5b0a111ad94ff56771?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-02T22:31:09.443941+00:00"
+  },
+  {
+    "url": "https://zenn.dev/k_tabuchi/articles/bef3713e4ffb58",
+    "sent_at": "2026-07-02T22:31:09.443941+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news069.html",
+    "sent_at": "2026-07-02T22:31:09.443941+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
+    "sent_at": "2026-07-02T22:31:09.443941+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news067.html",
+    "sent_at": "2026-07-02T22:31:09.443941+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
+    "sent_at": "2026-07-02T22:31:09.443941+00:00"
+  },
+  {
+    "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+    "sent_at": "2026-07-02T22:31:09.443941+00:00"
+  },
+  {
+    "url": "https://qiita.com/chaochire/items/a17119d3d9487d5379a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-02T22:31:09.443941+00:00"
   }
 ]
