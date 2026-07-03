@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
-    "sent_at": "2026-06-03T22:30:52.142798+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
-    "sent_at": "2026-06-03T22:30:52.142798+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185315",
-    "sent_at": "2026-06-03T22:30:52.142798+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-    "sent_at": "2026-06-03T22:30:52.142798+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185308",
-    "sent_at": "2026-06-03T22:30:52.142798+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-    "sent_at": "2026-06-03T22:30:52.142798+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185339",
-    "sent_at": "2026-06-03T22:30:52.142798+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185176",
-    "sent_at": "2026-06-03T22:30:52.142798+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
-    "sent_at": "2026-06-03T22:30:52.142798+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
-    "sent_at": "2026-06-03T22:30:52.142798+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
     "sent_at": "2026-06-04T22:30:56.177268+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/186715",
     "sent_at": "2026-07-02T22:31:18.229688+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186797",
+    "sent_at": "2026-07-03T22:31:21.820132+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186734",
+    "sent_at": "2026-07-03T22:31:21.820132+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186792",
+    "sent_at": "2026-07-03T22:31:21.820132+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
+    "sent_at": "2026-07-03T22:31:21.820132+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186740",
+    "sent_at": "2026-07-03T22:31:21.820132+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+    "sent_at": "2026-07-03T22:31:21.820132+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
+    "sent_at": "2026-07-03T22:31:21.820132+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+    "sent_at": "2026-07-03T22:31:21.820132+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2024/07/23/023045",
+    "sent_at": "2026-07-03T22:31:21.820132+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260015.html",
+    "sent_at": "2026-07-03T22:31:21.820132+00:00"
   }
 ]
