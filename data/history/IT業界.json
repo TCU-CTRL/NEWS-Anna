@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://cost.dev/",
-    "sent_at": "2026-06-04T22:30:47.027847+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news051.html",
-    "sent_at": "2026-06-04T22:30:47.027847+00:00"
-  },
-  {
-    "url": "https://news.ycombinator.com/item?id=48403614",
-    "sent_at": "2026-06-04T22:30:47.027847+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/05/news050.html",
-    "sent_at": "2026-06-04T22:30:47.027847+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/05/news042.html",
-    "sent_at": "2026-06-04T22:30:47.027847+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news071.html",
-    "sent_at": "2026-06-04T22:30:47.027847+00:00"
-  },
-  {
-    "url": "https://github.com/schildep/verified-polygon-intersection",
-    "sent_at": "2026-06-04T22:30:47.027847+00:00"
-  },
-  {
-    "url": "https://github.com/anthropics/defending-code-reference-harness",
-    "sent_at": "2026-06-04T22:30:47.027847+00:00"
-  },
-  {
-    "url": "https://qiita.com/shirok/items/45e2c49630fd002cf493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-04T22:30:47.027847+00:00"
-  },
-  {
-    "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
-    "sent_at": "2026-06-04T22:30:47.027847+00:00"
-  },
-  {
     "url": "https://news.ycombinator.com/item?id=48414869",
     "sent_at": "2026-06-05T22:30:43.239469+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://qiita.com/TaichiYamasaki/items/a2884f1fb66a9628c4b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-07-03T22:31:07.674350+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2607/05/news015.html",
+    "sent_at": "2026-07-04T22:31:06.419281+00:00"
+  },
+  {
+    "url": "https://github.com/openai/codex/issues/30364",
+    "sent_at": "2026-07-04T22:31:06.419281+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.26967",
+    "sent_at": "2026-07-04T22:31:06.419281+00:00"
+  },
+  {
+    "url": "https://qiita.com/relu/items/9a5e54a15f70988e468d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-04T22:31:06.419281+00:00"
+  },
+  {
+    "url": "https://qiita.com/asahide/items/0989ce0e40f5a367a12b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-04T22:31:06.419281+00:00"
+  },
+  {
+    "url": "https://qiita.com/infra365/items/f12242f65c5f1e20c022?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-04T22:31:06.419281+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
+    "sent_at": "2026-07-04T22:31:06.419281+00:00"
+  },
+  {
+    "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+    "sent_at": "2026-07-04T22:31:06.419281+00:00"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/issues/74066",
+    "sent_at": "2026-07-04T22:31:06.419281+00:00"
+  },
+  {
+    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "sent_at": "2026-07-04T22:31:06.419281+00:00"
   }
 ]
