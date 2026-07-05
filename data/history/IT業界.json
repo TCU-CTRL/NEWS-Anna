@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://news.ycombinator.com/item?id=48414869",
-    "sent_at": "2026-06-05T22:30:43.239469+00:00"
-  },
-  {
-    "url": "https://qiita.com/MarkInada/items/5d5da328ba7c58cb09ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-05T22:30:43.239469+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/",
-    "sent_at": "2026-06-05T22:30:43.239469+00:00"
-  },
-  {
-    "url": "https://zenn.dev/minipoisson/articles/ai-self-cognition",
-    "sent_at": "2026-06-05T22:30:43.239469+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/05/news091.html",
-    "sent_at": "2026-06-05T22:30:43.239469+00:00"
-  },
-  {
-    "url": "https://github.com/zdk/lowfat",
-    "sent_at": "2026-06-05T22:30:43.239469+00:00"
-  },
-  {
-    "url": "https://qiita.com/yamadagenki/items/bc59607d940a9e87c189?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-05T22:30:43.239469+00:00"
-  },
-  {
-    "url": "https://zenn.dev/estie/articles/4f06bde08a90d4",
-    "sent_at": "2026-06-05T22:30:43.239469+00:00"
-  },
-  {
-    "url": "https://zenn.dev/aiwatch_jp/articles/agent-vuln-hunting-harness-glasswing",
-    "sent_at": "2026-06-05T22:30:43.239469+00:00"
-  },
-  {
-    "url": "https://zenn.dev/seeda_yuto/articles/ollama-vs-vllm-rtx4080-benchmark",
-    "sent_at": "2026-06-05T22:30:43.239469+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/business/articles/2606/06/news007.html",
     "sent_at": "2026-06-06T22:30:43.228715+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
     "sent_at": "2026-07-04T22:31:06.419281+00:00"
+  },
+  {
+    "url": "https://zenn.dev/trknhr/articles/42c20e11812217",
+    "sent_at": "2026-07-05T22:31:15.680175+00:00"
+  },
+  {
+    "url": "https://qiita.com/mylifewithviolin/items/647c8d8ad9b9785ce942?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-05T22:31:15.680175+00:00"
+  },
+  {
+    "url": "https://zenn.dev/yuki_fujisawa/articles/a155d388e61acc",
+    "sent_at": "2026-07-05T22:31:15.680175+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2607/06/news019.html",
+    "sent_at": "2026-07-05T22:31:15.680175+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/06/news027.html",
+    "sent_at": "2026-07-05T22:31:15.680175+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/03/news012.html",
+    "sent_at": "2026-07-05T22:31:15.680175+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2607/06/news024.html",
+    "sent_at": "2026-07-05T22:31:15.680175+00:00"
+  },
+  {
+    "url": "https://homegames.io",
+    "sent_at": "2026-07-05T22:31:15.680175+00:00"
+  },
+  {
+    "url": "https://www.opentools.studio/",
+    "sent_at": "2026-07-05T22:31:15.680175+00:00"
+  },
+  {
+    "url": "https://search.cerast-intelligence.com/",
+    "sent_at": "2026-07-05T22:31:15.680175+00:00"
   }
 ]

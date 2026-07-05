@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://blog.tymscar.com/posts/v100localllm/",
-    "sent_at": "2026-05-31T22:31:05.893864+00:00"
-  },
-  {
-    "url": "https://www.gamesindustry.biz/gdc-trends-report-2026-as-use-of-generative-ai-rises-devs-face-infrastructure-problem",
-    "sent_at": "2026-05-31T22:31:05.893864+00:00"
-  },
-  {
-    "url": "https://www.gamesindustry.biz/epic-games-unveils-unreal-engine-6-in-new-rocket-league-teaser",
-    "sent_at": "2026-05-31T22:31:05.893864+00:00"
-  },
-  {
-    "url": "https://www.gamesindustry.biz/unity-reveals-winners-for-its-2026-humanity-grant",
-    "sent_at": "2026-05-31T22:31:05.893864+00:00"
-  },
-  {
-    "url": "https://www.gamesindustry.biz/advocating-for-godot-a-report-from-a-maze-berlin-opinion",
-    "sent_at": "2026-05-31T22:31:05.893864+00:00"
-  },
-  {
-    "url": "https://www.gamesindustry.biz/industry-veteran-arjan-brussee-announces-plans-to-build-european-based-games-engine",
-    "sent_at": "2026-05-31T22:31:05.893864+00:00"
-  },
-  {
-    "url": "https://www.gamesindustry.biz/unity-q1-revenue-rises-17-posts-347m-loss-following-ironsource-closure",
-    "sent_at": "2026-05-31T22:31:05.893864+00:00"
-  },
-  {
-    "url": "https://www.gamesindustry.biz/unity-launches-suite-of-ai-tools-to-help-creators-accelerate-game-development",
-    "sent_at": "2026-05-31T22:31:05.893864+00:00"
-  },
-  {
-    "url": "https://www.4gamer.net/games/036/G003691/20260530002/",
-    "sent_at": "2026-05-31T22:31:05.893864+00:00"
-  },
-  {
-    "url": "https://www.4gamer.net/games/033/G003329/20260528025/",
-    "sent_at": "2026-05-31T22:31:05.893864+00:00"
-  },
-  {
     "url": "https://automaton-media.com/articles/newsjp/20260608-448137/",
     "sent_at": "2026-06-07T22:31:16.836213+00:00"
   },
@@ -198,5 +158,45 @@
   {
     "url": "https://automaton-media.com/articles/guide/20260628-452375/",
     "sent_at": "2026-06-28T22:31:23.494116+00:00"
+  },
+  {
+    "url": "https://automaton-media.com/articles/newsjp/20260701-452836/",
+    "sent_at": "2026-07-05T22:31:53.214995+00:00"
+  },
+  {
+    "url": "https://www.gamesindustry.biz/creator-distributed-discount-codes-drive-massive-uptake-of-game-storefronts-according-to-new-tebex-data",
+    "sent_at": "2026-07-05T22:31:53.214995+00:00"
+  },
+  {
+    "url": "https://www.gamesindustry.biz/godot-bans-autonomous-ai-agent-use-or-vibe-coded-contributions",
+    "sent_at": "2026-07-05T22:31:53.214995+00:00"
+  },
+  {
+    "url": "https://automaton-media.com/articles/columnjp/nte-20260702-453076/",
+    "sent_at": "2026-07-05T22:31:53.214995+00:00"
+  },
+  {
+    "url": "https://automaton-media.com/articles/newsjp/20260702-452975/",
+    "sent_at": "2026-07-05T22:31:53.214995+00:00"
+  },
+  {
+    "url": "https://www.4gamer.net/games/210/G021013/20260703043/",
+    "sent_at": "2026-07-05T22:31:53.214995+00:00"
+  },
+  {
+    "url": "https://www.4gamer.net/games/991/G999110/20260703032/",
+    "sent_at": "2026-07-05T22:31:53.214995+00:00"
+  },
+  {
+    "url": "https://automaton-media.com/articles/now-gaming/20260705-453363/",
+    "sent_at": "2026-07-05T22:31:53.214995+00:00"
+  },
+  {
+    "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260705-453351/",
+    "sent_at": "2026-07-05T22:31:53.214995+00:00"
+  },
+  {
+    "url": "https://automaton-media.com/articles/newsjp/20260705-453339/",
+    "sent_at": "2026-07-05T22:31:53.214995+00:00"
   }
 ]

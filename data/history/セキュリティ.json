@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
-    "sent_at": "2026-06-05T22:30:50.622430+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-    "sent_at": "2026-06-05T22:30:50.622430+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
-    "sent_at": "2026-06-05T22:30:50.622430+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
-    "sent_at": "2026-06-05T22:30:50.622430+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185464",
-    "sent_at": "2026-06-05T22:30:50.622430+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185448",
-    "sent_at": "2026-06-05T22:30:50.622430+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
-    "sent_at": "2026-06-05T22:30:50.622430+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185470",
-    "sent_at": "2026-06-05T22:30:50.622430+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
-    "sent_at": "2026-06-05T22:30:50.622430+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
-    "sent_at": "2026-06-05T22:30:50.622430+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
     "sent_at": "2026-06-06T22:30:51.792294+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://piyolog.hatenadiary.jp/entry/2024/10/31/165527",
     "sent_at": "2026-07-04T22:31:25.084556+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260701.html#3",
+    "sent_at": "2026-07-05T22:31:23.435105+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+    "sent_at": "2026-07-05T22:31:23.435105+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+    "sent_at": "2026-07-05T22:31:23.435105+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
+    "sent_at": "2026-07-05T22:31:23.435105+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+    "sent_at": "2026-07-05T22:31:23.435105+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
+    "sent_at": "2026-07-05T22:31:23.435105+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
+    "sent_at": "2026-07-05T22:31:23.435105+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
+    "sent_at": "2026-07-05T22:31:23.435105+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+    "sent_at": "2026-07-05T22:31:23.435105+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+    "sent_at": "2026-07-05T22:31:23.435105+00:00"
   }
 ]
