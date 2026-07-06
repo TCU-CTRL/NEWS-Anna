@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/06/news007.html",
-    "sent_at": "2026-06-06T22:30:43.228715+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
-    "sent_at": "2026-06-06T22:30:43.228715+00:00"
-  },
-  {
-    "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
-    "sent_at": "2026-06-06T22:30:43.228715+00:00"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-    "sent_at": "2026-06-06T22:30:43.228715+00:00"
-  },
-  {
-    "url": "https://news.ycombinator.com/item?id=48420827",
-    "sent_at": "2026-06-06T22:30:43.228715+00:00"
-  },
-  {
-    "url": "https://qiita.com/long-910/items/76779fc1d8602dab73b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-06T22:30:43.228715+00:00"
-  },
-  {
-    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-    "sent_at": "2026-06-06T22:30:43.228715+00:00"
-  },
-  {
-    "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-    "sent_at": "2026-06-06T22:30:43.228715+00:00"
-  },
-  {
-    "url": "https://zenn.dev/tokium_dev/articles/d806c7ad4fd458",
-    "sent_at": "2026-06-06T22:30:43.228715+00:00"
-  },
-  {
-    "url": "https://qiita.com/arinnnnnn/items/bbeb21ba22a349b4a4ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-06T22:30:43.228715+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/news/articles/2606/07/news024.html",
     "sent_at": "2026-06-07T22:30:45.184262+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://search.cerast-intelligence.com/",
     "sent_at": "2026-07-05T22:31:15.680175+00:00"
+  },
+  {
+    "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+    "sent_at": "2026-07-06T22:31:10.142755+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2607/07/news013.html",
+    "sent_at": "2026-07-06T22:31:10.142755+00:00"
+  },
+  {
+    "url": "https://qiita.com/Western24/items/6bfef60a350fcc201f72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-06T22:31:10.142755+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
+    "sent_at": "2026-07-06T22:31:10.142755+00:00"
+  },
+  {
+    "url": "https://zenn.dev/kairininja/articles/zenn-codex-vertical-mv-quality-gate",
+    "sent_at": "2026-07-06T22:31:10.142755+00:00"
+  },
+  {
+    "url": "https://zenn.dev/garasubo/articles/9b9548ebab5a67",
+    "sent_at": "2026-07-06T22:31:10.142755+00:00"
+  },
+  {
+    "url": "https://qiita.com/ryu-ki/items/e2c94f68b4bd17c1514d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-06T22:31:10.142755+00:00"
+  },
+  {
+    "url": "https://qiita.com/makoto-ogata@github/items/88638c949bded6648611?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-06T22:31:10.142755+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/07/news076.html",
+    "sent_at": "2026-07-06T22:31:10.142755+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/07/news032.html",
+    "sent_at": "2026-07-06T22:31:10.142755+00:00"
   }
 ]
