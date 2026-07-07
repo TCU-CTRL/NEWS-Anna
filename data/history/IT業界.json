@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/07/news024.html",
-    "sent_at": "2026-06-07T22:30:45.184262+00:00"
-  },
-  {
-    "url": "https://github.com/devenjarvis/lathe",
-    "sent_at": "2026-06-07T22:30:45.184262+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/08/news058.html",
-    "sent_at": "2026-06-07T22:30:45.184262+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/08/news039.html",
-    "sent_at": "2026-06-07T22:30:45.184262+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/08/news030.html",
-    "sent_at": "2026-06-07T22:30:45.184262+00:00"
-  },
-  {
-    "url": "https://qiita.com/kama_bizdev/items/118f22e48b76459e4ac1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-07T22:30:45.184262+00:00"
-  },
-  {
-    "url": "https://qiita.com/ynarita22/items/0b7f89eb340135991d4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-07T22:30:45.184262+00:00"
-  },
-  {
-    "url": "https://zenn.dev/kawauchi_lab/articles/4b300879a41ab5",
-    "sent_at": "2026-06-07T22:30:45.184262+00:00"
-  },
-  {
-    "url": "https://zenn.dev/sun_asterisk/articles/claude-figma-mcp-app",
-    "sent_at": "2026-06-07T22:30:45.184262+00:00"
-  },
-  {
-    "url": "https://zenn.dev/shtrchkw/articles/438accc201f16a",
-    "sent_at": "2026-06-07T22:30:45.184262+00:00"
-  },
-  {
     "url": "https://intunedhq.com",
     "sent_at": "2026-06-08T22:30:48.689663+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/enterprise/articles/2607/07/news032.html",
     "sent_at": "2026-07-06T22:31:10.142755+00:00"
+  },
+  {
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "sent_at": "2026-07-07T22:31:16.845367+00:00"
+  },
+  {
+    "url": "https://zenn.dev/aircloset/articles/d4c32cff8cb230",
+    "sent_at": "2026-07-07T22:31:16.845367+00:00"
+  },
+  {
+    "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+    "sent_at": "2026-07-07T22:31:16.845367+00:00"
+  },
+  {
+    "url": "https://qiita.com/nogataka/items/6251b5727998ca29734c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-07T22:31:16.845367+00:00"
+  },
+  {
+    "url": "https://zenn.dev/knowledgesense/articles/283244af941a2d",
+    "sent_at": "2026-07-07T22:31:16.845367+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2607/08/news043.html",
+    "sent_at": "2026-07-07T22:31:16.845367+00:00"
+  },
+  {
+    "url": "https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78",
+    "sent_at": "2026-07-07T22:31:16.845367+00:00"
+  },
+  {
+    "url": "https://zenn.dev/finatext/articles/whole-dev-container",
+    "sent_at": "2026-07-07T22:31:16.845367+00:00"
+  },
+  {
+    "url": "https://qiita.com/yushibats/items/fec8a11273f898dcab8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-07T22:31:16.845367+00:00"
+  },
+  {
+    "url": "https://qiita.com/kane_ryu/items/38911988915c6bbd8c8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-07T22:31:16.845367+00:00"
   }
 ]

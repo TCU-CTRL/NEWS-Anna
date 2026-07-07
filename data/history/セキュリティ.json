@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
-    "sent_at": "2026-06-07T22:30:56.096949+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
-    "sent_at": "2026-06-07T22:30:56.096949+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
-    "sent_at": "2026-06-07T22:30:56.096949+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/08/14/000155",
-    "sent_at": "2026-06-07T22:30:56.096949+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/03/06/013924",
-    "sent_at": "2026-06-07T22:30:56.096949+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2024/11/01/161840",
-    "sent_at": "2026-06-07T22:30:56.096949+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2024/09/21/002152",
-    "sent_at": "2026-06-07T22:30:56.096949+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2024/08/09/031340",
-    "sent_at": "2026-06-07T22:30:56.096949+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
-    "sent_at": "2026-06-07T22:30:56.096949+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
-    "sent_at": "2026-06-07T22:30:56.096949+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html",
     "sent_at": "2026-06-08T22:30:57.037730+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
     "sent_at": "2026-07-06T22:31:25.388924+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/07/182112",
+    "sent_at": "2026-07-07T22:31:27.786513+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+    "sent_at": "2026-07-07T22:31:27.786513+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
+    "sent_at": "2026-07-07T22:31:27.786513+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+    "sent_at": "2026-07-07T22:31:27.786513+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
+    "sent_at": "2026-07-07T22:31:27.786513+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+    "sent_at": "2026-07-07T22:31:27.786513+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/08/002522",
+    "sent_at": "2026-07-07T22:31:27.786513+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
+    "sent_at": "2026-07-07T22:31:27.786513+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
+    "sent_at": "2026-07-07T22:31:27.786513+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186901",
+    "sent_at": "2026-07-07T22:31:27.786513+00:00"
   }
 ]
