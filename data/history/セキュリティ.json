@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html",
-    "sent_at": "2026-06-08T22:30:57.037730+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
-    "sent_at": "2026-06-08T22:30:57.037730+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html",
-    "sent_at": "2026-06-08T22:30:57.037730+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
-    "sent_at": "2026-06-08T22:30:57.037730+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185537",
-    "sent_at": "2026-06-08T22:30:57.037730+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
-    "sent_at": "2026-06-08T22:30:57.037730+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
-    "sent_at": "2026-06-08T22:30:57.037730+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
-    "sent_at": "2026-06-08T22:30:57.037730+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/the-hardest-fork.html",
-    "sent_at": "2026-06-08T22:30:57.037730+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html",
-    "sent_at": "2026-06-08T22:30:57.037730+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
     "sent_at": "2026-06-09T22:30:58.434051+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/186901",
     "sent_at": "2026-07-07T22:31:27.786513+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
+    "sent_at": "2026-07-08T22:31:36.430327+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+    "sent_at": "2026-07-08T22:31:36.430327+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+    "sent_at": "2026-07-08T22:31:36.430327+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+    "sent_at": "2026-07-08T22:31:36.430327+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186957",
+    "sent_at": "2026-07-08T22:31:36.430327+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187008",
+    "sent_at": "2026-07-08T22:31:36.430327+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186984",
+    "sent_at": "2026-07-08T22:31:36.430327+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/186965",
+    "sent_at": "2026-07-08T22:31:36.430327+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
+    "sent_at": "2026-07-08T22:31:36.430327+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/08/232742",
+    "sent_at": "2026-07-08T22:31:36.430327+00:00"
   }
 ]
