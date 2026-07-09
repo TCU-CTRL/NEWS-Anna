@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
-    "sent_at": "2026-06-09T22:30:58.434051+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
-    "sent_at": "2026-06-09T22:30:58.434051+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
-    "sent_at": "2026-06-09T22:30:58.434051+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185583",
-    "sent_at": "2026-06-09T22:30:58.434051+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
-    "sent_at": "2026-06-09T22:30:58.434051+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
-    "sent_at": "2026-06-09T22:30:58.434051+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
-    "sent_at": "2026-06-09T22:30:58.434051+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
-    "sent_at": "2026-06-09T22:30:58.434051+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
-    "sent_at": "2026-06-09T22:30:58.434051+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
-    "sent_at": "2026-06-09T22:30:58.434051+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
     "sent_at": "2026-06-10T22:30:56.534065+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/07/08/232742",
     "sent_at": "2026-07-08T22:31:36.430327+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
+    "sent_at": "2026-07-09T22:31:26.406758+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/09/222807",
+    "sent_at": "2026-07-09T22:31:26.406758+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+    "sent_at": "2026-07-09T22:31:26.406758+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
+    "sent_at": "2026-07-09T22:31:26.406758+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187043",
+    "sent_at": "2026-07-09T22:31:26.406758+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+    "sent_at": "2026-07-09T22:31:26.406758+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187045",
+    "sent_at": "2026-07-09T22:31:26.406758+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187051",
+    "sent_at": "2026-07-09T22:31:26.406758+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
+    "sent_at": "2026-07-09T22:31:26.406758+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
+    "sent_at": "2026-07-09T22:31:26.406758+00:00"
   }
 ]
