@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/10/news122.html",
-    "sent_at": "2026-06-10T22:30:45.841216+00:00"
-  },
-  {
-    "url": "https://github.com/HelixDB/helix-db/tree/main",
-    "sent_at": "2026-06-10T22:30:45.841216+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/10/news095.html",
-    "sent_at": "2026-06-10T22:30:45.841216+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/11/news029.html",
-    "sent_at": "2026-06-10T22:30:45.841216+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/10/news128.html",
-    "sent_at": "2026-06-10T22:30:45.841216+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/10/news107.html",
-    "sent_at": "2026-06-10T22:30:45.841216+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2606/10/news104.html",
-    "sent_at": "2026-06-10T22:30:45.841216+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2606/10/news056.html",
-    "sent_at": "2026-06-10T22:30:45.841216+00:00"
-  },
-  {
-    "url": "https://zenn.dev/contrea/articles/87aaecea6e8ae2",
-    "sent_at": "2026-06-10T22:30:45.841216+00:00"
-  },
-  {
-    "url": "https://qiita.com/500InternalServerError/items/3f7507355ad151225f5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-10T22:30:45.841216+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/business/articles/2606/12/news041.html",
     "sent_at": "2026-06-11T22:30:52.619102+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
     "sent_at": "2026-07-09T22:31:12.458747+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
+    "sent_at": "2026-07-10T22:31:33.210387+00:00"
+  },
+  {
+    "url": "https://qiita.com/rai03/items/eec6818fd48b0c104e47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-10T22:31:33.210387+00:00"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+    "sent_at": "2026-07-10T22:31:33.210387+00:00"
+  },
+  {
+    "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+    "sent_at": "2026-07-10T22:31:33.210387+00:00"
+  },
+  {
+    "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+    "sent_at": "2026-07-10T22:31:33.210387+00:00"
+  },
+  {
+    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+    "sent_at": "2026-07-10T22:31:33.210387+00:00"
+  },
+  {
+    "url": "https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-10T22:31:33.210387+00:00"
+  },
+  {
+    "url": "https://zenn.dev/9m/articles/d08dcc093e1bbf",
+    "sent_at": "2026-07-10T22:31:33.210387+00:00"
+  },
+  {
+    "url": "https://qiita.com/aktsmm/items/7b92f95325893cb4e5a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-10T22:31:33.210387+00:00"
+  },
+  {
+    "url": "https://qiita.com/taisei_sudo/items/ef59ee85da9ad7706689?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-10T22:31:33.210387+00:00"
   }
 ]

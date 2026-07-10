@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
-    "sent_at": "2026-06-10T22:30:56.534065+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185665",
-    "sent_at": "2026-06-10T22:30:56.534065+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185677",
-    "sent_at": "2026-06-10T22:30:56.534065+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html",
-    "sent_at": "2026-06-10T22:30:56.534065+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185640",
-    "sent_at": "2026-06-10T22:30:56.534065+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185653",
-    "sent_at": "2026-06-10T22:30:56.534065+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
-    "sent_at": "2026-06-10T22:30:56.534065+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
-    "sent_at": "2026-06-10T22:30:56.534065+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
-    "sent_at": "2026-06-10T22:30:56.534065+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
-    "sent_at": "2026-06-10T22:30:56.534065+00:00"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
     "sent_at": "2026-06-11T22:31:00.600619+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
     "sent_at": "2026-07-09T22:31:26.406758+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/10/082142",
+    "sent_at": "2026-07-10T22:31:43.238093+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+    "sent_at": "2026-07-10T22:31:43.238093+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187111",
+    "sent_at": "2026-07-10T22:31:43.238093+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187118",
+    "sent_at": "2026-07-10T22:31:43.238093+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
+    "sent_at": "2026-07-10T22:31:43.238093+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187133",
+    "sent_at": "2026-07-10T22:31:43.238093+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html#5",
+    "sent_at": "2026-07-10T22:31:43.238093+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+    "sent_at": "2026-07-10T22:31:43.238093+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+    "sent_at": "2026-07-10T22:31:43.238093+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
+    "sent_at": "2026-07-10T22:31:43.238093+00:00"
   }
 ]
