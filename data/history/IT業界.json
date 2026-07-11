@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/12/news041.html",
-    "sent_at": "2026-06-11T22:30:52.619102+00:00"
-  },
-  {
-    "url": "https://zenn.dev/galirage/articles/claude-fable-5",
-    "sent_at": "2026-06-11T22:30:52.619102+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/12/news018.html",
-    "sent_at": "2026-06-11T22:30:52.619102+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news068.html",
-    "sent_at": "2026-06-11T22:30:52.619102+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/11/news126.html",
-    "sent_at": "2026-06-11T22:30:52.619102+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/11/news113.html",
-    "sent_at": "2026-06-11T22:30:52.619102+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/11/news106.html",
-    "sent_at": "2026-06-11T22:30:52.619102+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/11/news104.html",
-    "sent_at": "2026-06-11T22:30:52.619102+00:00"
-  },
-  {
-    "url": "https://qiita.com/ennagara128/items/29cd869d67225faecc0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-11T22:30:52.619102+00:00"
-  },
-  {
-    "url": "https://zenn.dev/paraponera/articles/2026-06-11-code-with-claude-tokyo",
-    "sent_at": "2026-06-11T22:30:52.619102+00:00"
-  },
-  {
     "url": "https://stackscope.dev/",
     "sent_at": "2026-06-12T22:30:55.967333+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://qiita.com/taisei_sudo/items/ef59ee85da9ad7706689?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-07-10T22:31:33.210387+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2607/12/news007.html",
+    "sent_at": "2026-07-11T22:31:12.754440+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/11/news038.html",
+    "sent_at": "2026-07-11T22:31:12.754440+00:00"
+  },
+  {
+    "url": "https://qiita.com/YASUHARA-Wataru/items/6470213193b12e471ec3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-11T22:31:12.754440+00:00"
+  },
+  {
+    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+    "sent_at": "2026-07-11T22:31:12.754440+00:00"
+  },
+  {
+    "url": "https://zenn.dev/xin9le/articles/6fb2045805996c",
+    "sent_at": "2026-07-11T22:31:12.754440+00:00"
+  },
+  {
+    "url": "https://zenn.dev/jodycraft/articles/3f7548173dcb55",
+    "sent_at": "2026-07-11T22:31:12.754440+00:00"
+  },
+  {
+    "url": "https://zenn.dev/okamyuji/articles/agent-driven-workflow-feedflow",
+    "sent_at": "2026-07-11T22:31:12.754440+00:00"
+  },
+  {
+    "url": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
+    "sent_at": "2026-07-11T22:31:12.754440+00:00"
+  },
+  {
+    "url": "https://zenn.dev/grooves/articles/d0e1a182138ab0",
+    "sent_at": "2026-07-11T22:31:12.754440+00:00"
+  },
+  {
+    "url": "https://qiita.com/DanielOkada/items/8d25b244be168cbc0d6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-11T22:31:12.754440+00:00"
   }
 ]

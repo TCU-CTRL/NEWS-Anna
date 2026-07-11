@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-    "sent_at": "2026-06-11T22:31:00.600619+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
-    "sent_at": "2026-06-11T22:31:00.600619+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
-    "sent_at": "2026-06-11T22:31:00.600619+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
-    "sent_at": "2026-06-11T22:31:00.600619+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185751",
-    "sent_at": "2026-06-11T22:31:00.600619+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/at/2026/at260016.html",
-    "sent_at": "2026-06-11T22:31:00.600619+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
-    "sent_at": "2026-06-11T22:31:00.600619+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185755",
-    "sent_at": "2026-06-11T22:31:00.600619+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185707",
-    "sent_at": "2026-06-11T22:31:00.600619+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185705",
-    "sent_at": "2026-06-11T22:31:00.600619+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
     "sent_at": "2026-06-12T22:31:03.633027+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
     "sent_at": "2026-07-10T22:31:43.238093+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+    "sent_at": "2026-07-11T22:31:20.698392+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260016.html",
+    "sent_at": "2026-07-11T22:31:20.698392+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+    "sent_at": "2026-07-11T22:31:20.698392+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+    "sent_at": "2026-07-11T22:31:20.698392+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html#7",
+    "sent_at": "2026-07-11T22:31:20.698392+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+    "sent_at": "2026-07-11T22:31:20.698392+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
+    "sent_at": "2026-07-11T22:31:20.698392+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+    "sent_at": "2026-07-11T22:31:20.698392+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+    "sent_at": "2026-07-11T22:31:20.698392+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
+    "sent_at": "2026-07-11T22:31:20.698392+00:00"
   }
 ]
