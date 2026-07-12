@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
-    "sent_at": "2026-06-12T22:31:03.633027+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
-    "sent_at": "2026-06-12T22:31:03.633027+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185824",
-    "sent_at": "2026-06-12T22:31:03.633027+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185796",
-    "sent_at": "2026-06-12T22:31:03.633027+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185791",
-    "sent_at": "2026-06-12T22:31:03.633027+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-    "sent_at": "2026-06-12T22:31:03.633027+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
-    "sent_at": "2026-06-12T22:31:03.633027+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185727",
-    "sent_at": "2026-06-12T22:31:03.633027+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185730",
-    "sent_at": "2026-06-12T22:31:03.633027+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
-    "sent_at": "2026-06-12T22:31:03.633027+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
     "sent_at": "2026-06-13T22:31:05.345073+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
     "sent_at": "2026-07-11T22:31:20.698392+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2024/12/13/191443",
+    "sent_at": "2026-07-12T22:31:40.797230+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+    "sent_at": "2026-07-12T22:31:40.797230+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+    "sent_at": "2026-07-12T22:31:40.797230+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
+    "sent_at": "2026-07-12T22:31:40.797230+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+    "sent_at": "2026-07-12T22:31:40.797230+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+    "sent_at": "2026-07-12T22:31:40.797230+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2025/08/14/000155",
+    "sent_at": "2026-07-12T22:31:40.797230+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2025/03/06/013924",
+    "sent_at": "2026-07-12T22:31:40.797230+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+    "sent_at": "2026-07-12T22:31:40.797230+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+    "sent_at": "2026-07-12T22:31:40.797230+00:00"
   }
 ]
