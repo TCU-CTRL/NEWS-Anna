@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://zenn.dev/53able/articles/6514f44e72be7f",
-    "sent_at": "2026-06-13T22:30:56.679546+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/13/news029.html",
-    "sent_at": "2026-06-13T22:30:56.679546+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/13/news026.html",
-    "sent_at": "2026-06-13T22:30:56.679546+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/13/news006.html",
-    "sent_at": "2026-06-13T22:30:56.679546+00:00"
-  },
-  {
-    "url": "https://qiita.com/miruky/items/c3d6277ff99afb214b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-13T22:30:56.679546+00:00"
-  },
-  {
-    "url": "https://zenn.dev/virtualcraft/articles/claude-code-trivy-mcp-security-check",
-    "sent_at": "2026-06-13T22:30:56.679546+00:00"
-  },
-  {
-    "url": "https://qiita.com/moritalous/items/a3ac103480966ccec75d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-13T22:30:56.679546+00:00"
-  },
-  {
-    "url": "https://qiita.com/ryoji9702/items/ac005b39873ce4861b6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-13T22:30:56.679546+00:00"
-  },
-  {
-    "url": "https://qiita.com/torifukukaiou/items/00bd499be477514c9629?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-13T22:30:56.679546+00:00"
-  },
-  {
-    "url": "https://qiita.com/taka_yayoi/items/25e8c5686fb5a8a1b281?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-13T22:30:56.679546+00:00"
-  },
-  {
     "url": "https://zenn.dev/yamadatt/articles/20260614-ubuntu-gemma4-ollama",
     "sent_at": "2026-06-14T22:31:05.515187+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/business/articles/2607/13/news032.html",
     "sent_at": "2026-07-12T22:31:30.330015+00:00"
+  },
+  {
+    "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+    "sent_at": "2026-07-13T22:31:15.606773+00:00"
+  },
+  {
+    "url": "https://zenn.dev/iwaken71/articles/cursor-agent-d-drive-deleted",
+    "sent_at": "2026-07-13T22:31:15.606773+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/11/news013.html",
+    "sent_at": "2026-07-13T22:31:15.606773+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
+    "sent_at": "2026-07-13T22:31:15.606773+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/13/news081.html",
+    "sent_at": "2026-07-13T22:31:15.606773+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/13/news061.html",
+    "sent_at": "2026-07-13T22:31:15.606773+00:00"
+  },
+  {
+    "url": "https://github.com/morganwilliscloud/billai-bass",
+    "sent_at": "2026-07-13T22:31:15.606773+00:00"
+  },
+  {
+    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "sent_at": "2026-07-13T22:31:15.606773+00:00"
+  },
+  {
+    "url": "https://qiita.com/minorun365/items/699e89544da8b0de300d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-13T22:31:15.606773+00:00"
+  },
+  {
+    "url": "https://qiita.com/nogataka/items/6cd8c6ea583221e45def?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-13T22:31:15.606773+00:00"
   }
 ]
