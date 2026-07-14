@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
-    "sent_at": "2026-06-14T22:31:14.841628+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
-    "sent_at": "2026-06-14T22:31:14.841628+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
-    "sent_at": "2026-06-14T22:31:14.841628+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
-    "sent_at": "2026-06-14T22:31:14.841628+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html",
-    "sent_at": "2026-06-14T22:31:14.841628+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html",
-    "sent_at": "2026-06-14T22:31:14.841628+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-    "sent_at": "2026-06-14T22:31:14.841628+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/02/20/150715",
-    "sent_at": "2026-06-14T22:31:14.841628+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/03/13/021327",
-    "sent_at": "2026-06-14T22:31:14.841628+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2024/12/03/011032",
-    "sent_at": "2026-06-14T22:31:14.841628+00:00"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
     "sent_at": "2026-06-15T22:31:06.064113+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/187195",
     "sent_at": "2026-07-13T22:31:28.234107+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+    "sent_at": "2026-07-14T22:31:25.651942+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/14/225515",
+    "sent_at": "2026-07-14T22:31:25.651942+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187274",
+    "sent_at": "2026-07-14T22:31:25.651942+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+    "sent_at": "2026-07-14T22:31:25.651942+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
+    "sent_at": "2026-07-14T22:31:25.651942+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
+    "sent_at": "2026-07-14T22:31:25.651942+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+    "sent_at": "2026-07-14T22:31:25.651942+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187183",
+    "sent_at": "2026-07-14T22:31:25.651942+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
+    "sent_at": "2026-07-14T22:31:25.651942+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
+    "sent_at": "2026-07-14T22:31:25.651942+00:00"
   }
 ]
