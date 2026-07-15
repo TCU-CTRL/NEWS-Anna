@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-    "sent_at": "2026-06-15T22:31:06.064113+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
-    "sent_at": "2026-06-15T22:31:06.064113+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
-    "sent_at": "2026-06-15T22:31:06.064113+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html",
-    "sent_at": "2026-06-15T22:31:06.064113+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
-    "sent_at": "2026-06-15T22:31:06.064113+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185893",
-    "sent_at": "2026-06-15T22:31:06.064113+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-    "sent_at": "2026-06-15T22:31:06.064113+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185875",
-    "sent_at": "2026-06-15T22:31:06.064113+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185880",
-    "sent_at": "2026-06-15T22:31:06.064113+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185887",
-    "sent_at": "2026-06-15T22:31:06.064113+00:00"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
     "sent_at": "2026-06-16T22:31:45.355141+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
     "sent_at": "2026-07-14T22:31:25.651942+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
+    "sent_at": "2026-07-15T22:31:20.495257+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187363",
+    "sent_at": "2026-07-15T22:31:20.495257+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+    "sent_at": "2026-07-15T22:31:20.495257+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
+    "sent_at": "2026-07-15T22:31:20.495257+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+    "sent_at": "2026-07-15T22:31:20.495257+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187350",
+    "sent_at": "2026-07-15T22:31:20.495257+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+    "sent_at": "2026-07-15T22:31:20.495257+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
+    "sent_at": "2026-07-15T22:31:20.495257+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
+    "sent_at": "2026-07-15T22:31:20.495257+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+    "sent_at": "2026-07-15T22:31:20.495257+00:00"
   }
 ]
