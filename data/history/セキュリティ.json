@@ -1198,5 +1198,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
     "sent_at": "2026-07-15T22:31:20.495257+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+    "sent_at": "2026-07-16T22:31:25.719982+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
+    "sent_at": "2026-07-16T22:31:25.719982+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
+    "sent_at": "2026-07-16T22:31:25.719982+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
+    "sent_at": "2026-07-16T22:31:25.719982+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
+    "sent_at": "2026-07-16T22:31:25.719982+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/17/065349",
+    "sent_at": "2026-07-16T22:31:25.719982+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
+    "sent_at": "2026-07-16T22:31:25.719982+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187478",
+    "sent_at": "2026-07-16T22:31:25.719982+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187449",
+    "sent_at": "2026-07-16T22:31:25.719982+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
+    "sent_at": "2026-07-16T22:31:25.719982+00:00"
   }
 ]

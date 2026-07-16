@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://zenn.dev/sompojapan_dx/articles/74624afa03040c",
-    "sent_at": "2026-06-16T22:31:04.757864+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/16/news039.html",
-    "sent_at": "2026-06-16T22:31:04.757864+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/16/news124.html",
-    "sent_at": "2026-06-16T22:31:04.757864+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/16/news115.html",
-    "sent_at": "2026-06-16T22:31:04.757864+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2606/16/news050.html",
-    "sent_at": "2026-06-16T22:31:04.757864+00:00"
-  },
-  {
-    "url": "https://qiita.com/kumai_yu/items/54ded70a5a68a5ca15d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-16T22:31:04.757864+00:00"
-  },
-  {
-    "url": "https://qiita.com/Ishibashi_Tomoya/items/f7953cf4f03060ba2c6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-16T22:31:04.757864+00:00"
-  },
-  {
-    "url": "https://zenn.dev/microsoft/articles/m365-copilot-harness-engineering",
-    "sent_at": "2026-06-16T22:31:04.757864+00:00"
-  },
-  {
-    "url": "https://qiita.com/fukayama-masato/items/42ec89c6944aa85919a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-16T22:31:04.757864+00:00"
-  },
-  {
-    "url": "https://qiita.com/iwatake2222/items/05ea4adf9c9d19e02662?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-16T22:31:04.757864+00:00"
-  },
-  {
     "url": "https://github.com/Adam-CAD/CADAM",
     "sent_at": "2026-06-17T22:32:00.657650+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/mobile/articles/2607/15/news075.html",
     "sent_at": "2026-07-15T22:31:10.721841+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=48937020",
+    "sent_at": "2026-07-16T22:31:08.555867+00:00"
+  },
+  {
+    "url": "https://libretto.sh/debug-agents",
+    "sent_at": "2026-07-16T22:31:08.555867+00:00"
+  },
+  {
+    "url": "https://zenn.dev/optimisuke/articles/8f2ce41b9a7d30",
+    "sent_at": "2026-07-16T22:31:08.555867+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2607/17/news003.html",
+    "sent_at": "2026-07-16T22:31:08.555867+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2607/16/news094.html",
+    "sent_at": "2026-07-16T22:31:08.555867+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2607/16/news032.html",
+    "sent_at": "2026-07-16T22:31:08.555867+00:00"
+  },
+  {
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "sent_at": "2026-07-16T22:31:08.555867+00:00"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+    "sent_at": "2026-07-16T22:31:08.555867+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2607/17/news041.html",
+    "sent_at": "2026-07-16T22:31:08.555867+00:00"
+  },
+  {
+    "url": "https://qiita.com/y_abe_bc/items/02617ceb3fb71464dd04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-16T22:31:08.555867+00:00"
   }
 ]
