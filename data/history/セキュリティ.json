@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
-    "sent_at": "2026-06-16T22:31:45.355141+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html",
-    "sent_at": "2026-06-16T22:31:45.355141+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
-    "sent_at": "2026-06-16T22:31:45.355141+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
-    "sent_at": "2026-06-16T22:31:45.355141+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
-    "sent_at": "2026-06-16T22:31:45.355141+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
-    "sent_at": "2026-06-16T22:31:45.355141+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185914",
-    "sent_at": "2026-06-16T22:31:45.355141+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
-    "sent_at": "2026-06-16T22:31:45.355141+00:00"
-  },
-  {
-    "url": "https://jvn.jp/vu/JVNVU92116935/",
-    "sent_at": "2026-06-16T22:31:45.355141+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
-    "sent_at": "2026-06-16T22:31:45.355141+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
     "sent_at": "2026-06-17T22:32:09.836370+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
     "sent_at": "2026-07-16T22:31:25.719982+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+    "sent_at": "2026-07-17T22:31:16.532297+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+    "sent_at": "2026-07-17T22:31:16.532297+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+    "sent_at": "2026-07-17T22:31:16.532297+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187537",
+    "sent_at": "2026-07-17T22:31:16.532297+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
+    "sent_at": "2026-07-17T22:31:16.532297+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187509",
+    "sent_at": "2026-07-17T22:31:16.532297+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+    "sent_at": "2026-07-17T22:31:16.532297+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+    "sent_at": "2026-07-17T22:31:16.532297+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+    "sent_at": "2026-07-17T22:31:16.532297+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+    "sent_at": "2026-07-17T22:31:16.532297+00:00"
   }
 ]
