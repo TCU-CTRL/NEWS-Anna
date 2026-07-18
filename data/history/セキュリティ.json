@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
-    "sent_at": "2026-06-17T22:32:09.836370+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
-    "sent_at": "2026-06-17T22:32:09.836370+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
-    "sent_at": "2026-06-17T22:32:09.836370+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-    "sent_at": "2026-06-17T22:32:09.836370+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
-    "sent_at": "2026-06-17T22:32:09.836370+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
-    "sent_at": "2026-06-17T22:32:09.836370+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
-    "sent_at": "2026-06-17T22:32:09.836370+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185995",
-    "sent_at": "2026-06-17T22:32:09.836370+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185975",
-    "sent_at": "2026-06-17T22:32:09.836370+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/185981",
-    "sent_at": "2026-06-17T22:32:09.836370+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
-    "sent_at": "2026-06-18T22:31:01.934716+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
-    "sent_at": "2026-06-18T22:31:01.934716+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186046",
-    "sent_at": "2026-06-18T22:31:01.934716+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186042",
-    "sent_at": "2026-06-18T22:31:01.934716+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186052",
-    "sent_at": "2026-06-18T22:31:01.934716+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
-    "sent_at": "2026-06-18T22:31:01.934716+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
-    "sent_at": "2026-06-18T22:31:01.934716+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
-    "sent_at": "2026-06-18T22:31:01.934716+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
-    "sent_at": "2026-06-18T22:31:01.934716+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
-    "sent_at": "2026-06-18T22:31:01.934716+00:00"
-  },
-  {
     "url": "https://www.security-next.com/186140",
     "sent_at": "2026-06-19T22:31:10.612360+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
     "sent_at": "2026-07-17T22:31:16.532297+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+    "sent_at": "2026-07-18T22:31:05.662258+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
+    "sent_at": "2026-07-18T22:31:05.662258+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
+    "sent_at": "2026-07-18T22:31:05.662258+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#16",
+    "sent_at": "2026-07-18T22:31:05.662258+00:00"
+  },
+  {
+    "url": "https://jvn.jp/vu/JVNVU95286373/",
+    "sent_at": "2026-07-18T22:31:05.662258+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/18/191222",
+    "sent_at": "2026-07-18T22:31:05.662258+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#11",
+    "sent_at": "2026-07-18T22:31:05.662258+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187553",
+    "sent_at": "2026-07-18T22:31:05.662258+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187544",
+    "sent_at": "2026-07-18T22:31:05.662258+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+    "sent_at": "2026-07-18T22:31:05.662258+00:00"
   }
 ]

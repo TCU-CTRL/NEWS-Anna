@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://github.com/Adam-CAD/CADAM",
-    "sent_at": "2026-06-17T22:32:00.657650+00:00"
-  },
-  {
-    "url": "https://zenn.dev/ymotongpoo/articles/20260616-ai-cli-otel-grafana",
-    "sent_at": "2026-06-17T22:32:00.657650+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2606/17/news017.html",
-    "sent_at": "2026-06-17T22:32:00.657650+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/17/news124.html",
-    "sent_at": "2026-06-17T22:32:00.657650+00:00"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-    "sent_at": "2026-06-17T22:32:00.657650+00:00"
-  },
-  {
-    "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
-    "sent_at": "2026-06-17T22:32:00.657650+00:00"
-  },
-  {
-    "url": "https://openai.com/index/ai-chemist-improves-reaction/",
-    "sent_at": "2026-06-17T22:32:00.657650+00:00"
-  },
-  {
-    "url": "https://zenn.dev/ikora/articles/88f62861a953c1",
-    "sent_at": "2026-06-17T22:32:00.657650+00:00"
-  },
-  {
-    "url": "https://qiita.com/ssfujita/items/f1bc83405f81d3ab0853?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-17T22:32:00.657650+00:00"
-  },
-  {
-    "url": "https://zenn.dev/baleenstudio/articles/928435eab25064",
-    "sent_at": "2026-06-17T22:32:00.657650+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2606/18/news116.html",
-    "sent_at": "2026-06-18T22:30:52.341063+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
-    "sent_at": "2026-06-18T22:30:52.341063+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news062.html",
-    "sent_at": "2026-06-18T22:30:52.341063+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/18/news099.html",
-    "sent_at": "2026-06-18T22:30:52.341063+00:00"
-  },
-  {
-    "url": "https://tester.army",
-    "sent_at": "2026-06-18T22:30:52.341063+00:00"
-  },
-  {
-    "url": "https://zenn.dev/nttdata_tech/articles/2fe14c8819557c",
-    "sent_at": "2026-06-18T22:30:52.341063+00:00"
-  },
-  {
-    "url": "https://zenn.dev/fusic/articles/9cedae6d6f8560",
-    "sent_at": "2026-06-18T22:30:52.341063+00:00"
-  },
-  {
-    "url": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
-    "sent_at": "2026-06-18T22:30:52.341063+00:00"
-  },
-  {
-    "url": "https://zenn.dev/coa00/articles/tailscale-ssh-home-mac-claude-code",
-    "sent_at": "2026-06-18T22:30:52.341063+00:00"
-  },
-  {
-    "url": "https://zenn.dev/acntechjp/articles/c2bff25e230539",
-    "sent_at": "2026-06-18T22:30:52.341063+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/news/articles/2606/19/news072.html",
     "sent_at": "2026-06-19T22:31:00.489101+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://zenn.dev/sonicmoov/articles/8712598f532b18",
     "sent_at": "2026-07-17T22:31:08.590799+00:00"
+  },
+  {
+    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "sent_at": "2026-07-18T22:30:57.844660+00:00"
+  },
+  {
+    "url": "https://zenn.dev/edash_tech_blog/articles/528ab6bd044c35",
+    "sent_at": "2026-07-18T22:30:57.844660+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
+    "sent_at": "2026-07-18T22:30:57.844660+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
+    "sent_at": "2026-07-18T22:30:57.844660+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/17/news105.html",
+    "sent_at": "2026-07-18T22:30:57.844660+00:00"
+  },
+  {
+    "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+    "sent_at": "2026-07-18T22:30:57.844660+00:00"
+  },
+  {
+    "url": "https://qiita.com/yousukezan/items/7c008947fa48a206882c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-18T22:30:57.844660+00:00"
+  },
+  {
+    "url": "https://zenn.dev/arufian/articles/4676070054c347",
+    "sent_at": "2026-07-18T22:30:57.844660+00:00"
+  },
+  {
+    "url": "https://qiita.com/shoko3168/items/e8985c8c5a040213ab72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-18T22:30:57.844660+00:00"
+  },
+  {
+    "url": "https://qiita.com/asahide/items/5d75ecb979504042bd8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-18T22:30:57.844660+00:00"
   }
 ]
