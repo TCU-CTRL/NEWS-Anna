@@ -1198,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
     "sent_at": "2026-07-18T22:31:05.662258+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/19/181822",
+    "sent_at": "2026-07-19T22:31:07.638299+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+    "sent_at": "2026-07-19T22:31:07.638299+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+    "sent_at": "2026-07-19T22:31:07.638299+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
+    "sent_at": "2026-07-19T22:31:07.638299+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
+    "sent_at": "2026-07-19T22:31:07.638299+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
+    "sent_at": "2026-07-19T22:31:07.638299+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
+    "sent_at": "2026-07-19T22:31:07.638299+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+    "sent_at": "2026-07-19T22:31:07.638299+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032",
+    "sent_at": "2026-07-19T22:31:07.638299+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#15",
+    "sent_at": "2026-07-19T22:31:07.638299+00:00"
   }
 ]
