@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-    "sent_at": "2026-06-20T22:31:08.151490+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
-    "sent_at": "2026-06-20T22:31:08.151490+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-    "sent_at": "2026-06-20T22:31:08.151490+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html#14",
-    "sent_at": "2026-06-20T22:31:08.151490+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html#18",
-    "sent_at": "2026-06-20T22:31:08.151490+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186165",
-    "sent_at": "2026-06-20T22:31:08.151490+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html",
-    "sent_at": "2026-06-20T22:31:08.151490+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-    "sent_at": "2026-06-20T22:31:08.151490+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
-    "sent_at": "2026-06-20T22:31:08.151490+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186126",
-    "sent_at": "2026-06-20T22:31:08.151490+00:00"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
     "sent_at": "2026-06-21T22:31:06.100010+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
     "sent_at": "2026-07-20T22:31:03.150536+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+    "sent_at": "2026-07-21T22:30:50.642935+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+    "sent_at": "2026-07-21T22:30:50.642935+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187598",
+    "sent_at": "2026-07-21T22:30:50.642935+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+    "sent_at": "2026-07-21T22:30:50.642935+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+    "sent_at": "2026-07-21T22:30:50.642935+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+    "sent_at": "2026-07-21T22:30:50.642935+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+    "sent_at": "2026-07-21T22:30:50.642935+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+    "sent_at": "2026-07-21T22:30:50.642935+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187649",
+    "sent_at": "2026-07-21T22:30:50.642935+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187576",
+    "sent_at": "2026-07-21T22:30:50.642935+00:00"
   }
 ]
