@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-    "sent_at": "2026-06-21T22:31:06.100010+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
-    "sent_at": "2026-06-21T22:31:06.100010+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2024/11/09/041408",
-    "sent_at": "2026-06-21T22:31:06.100010+00:00"
-  },
-  {
-    "url": "https://blogs.jpcert.or.jp/ja/2026/06/tool_analysis_update.html",
-    "sent_at": "2026-06-21T22:31:06.100010+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/at/2026/at260018.html",
-    "sent_at": "2026-06-21T22:31:06.100010+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/at/2026/at260014.html",
-    "sent_at": "2026-06-21T22:31:06.100010+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/at/2026/at260013.html",
-    "sent_at": "2026-06-21T22:31:06.100010+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html#1",
-    "sent_at": "2026-06-21T22:31:06.100010+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html#2",
-    "sent_at": "2026-06-21T22:31:06.100010+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260617.html#4",
-    "sent_at": "2026-06-21T22:31:06.100010+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
     "sent_at": "2026-06-22T22:31:11.744468+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/187576",
     "sent_at": "2026-07-21T22:30:50.642935+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+    "sent_at": "2026-07-22T22:30:53.908894+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+    "sent_at": "2026-07-22T22:30:53.908894+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+    "sent_at": "2026-07-22T22:30:53.908894+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
+    "sent_at": "2026-07-22T22:30:53.908894+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187672",
+    "sent_at": "2026-07-22T22:30:53.908894+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+    "sent_at": "2026-07-22T22:30:53.908894+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187662",
+    "sent_at": "2026-07-22T22:30:53.908894+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
+    "sent_at": "2026-07-22T22:30:53.908894+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
+    "sent_at": "2026-07-22T22:30:53.908894+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+    "sent_at": "2026-07-22T22:30:53.908894+00:00"
   }
 ]
