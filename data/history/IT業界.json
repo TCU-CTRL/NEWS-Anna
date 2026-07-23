@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://zenn.dev/nexta_/articles/be13a2395a5d2a",
-    "sent_at": "2026-06-22T22:31:02.469171+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/23/news022.html",
-    "sent_at": "2026-06-22T22:31:02.469171+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/23/news023.html",
-    "sent_at": "2026-06-22T22:31:02.469171+00:00"
-  },
-  {
-    "url": "https://qiita.com/fumiya-data/items/3fe1f11b984cc39f40a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-22T22:31:02.469171+00:00"
-  },
-  {
-    "url": "https://zenn.dev/toshinao/articles/1cffb713b1c670",
-    "sent_at": "2026-06-22T22:31:02.469171+00:00"
-  },
-  {
-    "url": "https://zenn.dev/coffeecupjp/articles/778aa821a82c0f",
-    "sent_at": "2026-06-22T22:31:02.469171+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/",
-    "sent_at": "2026-06-22T22:31:02.469171+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/23/news005.html",
-    "sent_at": "2026-06-22T22:31:02.469171+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/23/news036.html",
-    "sent_at": "2026-06-22T22:31:02.469171+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/23/news035.html",
-    "sent_at": "2026-06-22T22:31:02.469171+00:00"
-  },
-  {
     "url": "https://zenn.dev/ppgm/books/aws-blocks-mini-support-desk",
     "sent_at": "2026-06-23T22:31:06.552072+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://zenn.dev/green_tea/articles/e39e3726a449c9",
     "sent_at": "2026-07-22T22:30:45.535636+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49024620",
+    "sent_at": "2026-07-23T22:30:45.612168+00:00"
+  },
+  {
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "sent_at": "2026-07-23T22:30:45.612168+00:00"
+  },
+  {
+    "url": "https://github.com/onecli/onecli",
+    "sent_at": "2026-07-23T22:30:45.612168+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49026810",
+    "sent_at": "2026-07-23T22:30:45.612168+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/24/news036.html",
+    "sent_at": "2026-07-23T22:30:45.612168+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/24/news017.html",
+    "sent_at": "2026-07-23T22:30:45.612168+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/23/news086.html",
+    "sent_at": "2026-07-23T22:30:45.612168+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49028037",
+    "sent_at": "2026-07-23T22:30:45.612168+00:00"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/",
+    "sent_at": "2026-07-23T22:30:45.612168+00:00"
+  },
+  {
+    "url": "https://zenn.dev/takkuhiro/articles/eval-to-improvement-survey",
+    "sent_at": "2026-07-23T22:30:45.612168+00:00"
   }
 ]

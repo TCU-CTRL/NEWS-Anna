@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
-    "sent_at": "2026-06-22T22:31:11.744468+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186208",
-    "sent_at": "2026-06-22T22:31:11.744468+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186198",
-    "sent_at": "2026-06-22T22:31:11.744468+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
-    "sent_at": "2026-06-22T22:31:11.744468+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-    "sent_at": "2026-06-22T22:31:11.744468+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
-    "sent_at": "2026-06-22T22:31:11.744468+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
-    "sent_at": "2026-06-22T22:31:11.744468+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
-    "sent_at": "2026-06-22T22:31:11.744468+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-    "sent_at": "2026-06-22T22:31:11.744468+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
-    "sent_at": "2026-06-22T22:31:11.744468+00:00"
-  },
-  {
     "url": "https://www.security-next.com/186251",
     "sent_at": "2026-06-23T22:31:21.089838+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
     "sent_at": "2026-07-22T22:30:53.908894+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
+    "sent_at": "2026-07-23T22:30:53.263913+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+    "sent_at": "2026-07-23T22:30:53.263913+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187759",
+    "sent_at": "2026-07-23T22:30:53.263913+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187737",
+    "sent_at": "2026-07-23T22:30:53.263913+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
+    "sent_at": "2026-07-23T22:30:53.263913+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
+    "sent_at": "2026-07-23T22:30:53.263913+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
+    "sent_at": "2026-07-23T22:30:53.263913+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#5",
+    "sent_at": "2026-07-23T22:30:53.263913+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187303",
+    "sent_at": "2026-07-23T22:30:53.263913+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+    "sent_at": "2026-07-23T22:30:53.263913+00:00"
   }
 ]
