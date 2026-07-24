@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.security-next.com/186251",
-    "sent_at": "2026-06-23T22:31:21.089838+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
-    "sent_at": "2026-06-23T22:31:21.089838+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
-    "sent_at": "2026-06-23T22:31:21.089838+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
-    "sent_at": "2026-06-23T22:31:21.089838+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
-    "sent_at": "2026-06-23T22:31:21.089838+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186246",
-    "sent_at": "2026-06-23T22:31:21.089838+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
-    "sent_at": "2026-06-23T22:31:21.089838+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186256",
-    "sent_at": "2026-06-23T22:31:21.089838+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
-    "sent_at": "2026-06-23T22:31:21.089838+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
-    "sent_at": "2026-06-23T22:31:21.089838+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
     "sent_at": "2026-06-24T22:31:10.932185+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
     "sent_at": "2026-07-23T22:30:53.263913+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+    "sent_at": "2026-07-24T22:31:08.254513+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
+    "sent_at": "2026-07-24T22:31:08.254513+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
+    "sent_at": "2026-07-24T22:31:08.254513+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187798",
+    "sent_at": "2026-07-24T22:31:08.254513+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187829",
+    "sent_at": "2026-07-24T22:31:08.254513+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+    "sent_at": "2026-07-24T22:31:08.254513+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
+    "sent_at": "2026-07-24T22:31:08.254513+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
+    "sent_at": "2026-07-24T22:31:08.254513+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+    "sent_at": "2026-07-24T22:31:08.254513+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#1",
+    "sent_at": "2026-07-24T22:31:08.254513+00:00"
   }
 ]
