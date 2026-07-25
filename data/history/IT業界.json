@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://qiita.com/take-yoda/items/6392ad3b5921a1d975b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-24T22:31:02.283231+00:00"
-  },
-  {
-    "url": "https://zenn.dev/nttdata_tech/articles/3241a46dca47b2",
-    "sent_at": "2026-06-24T22:31:02.283231+00:00"
-  },
-  {
-    "url": "https://zenn.dev/knowledgesense/articles/14a874a9f423bb",
-    "sent_at": "2026-06-24T22:31:02.283231+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news035.html",
-    "sent_at": "2026-06-24T22:31:02.283231+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/25/news031.html",
-    "sent_at": "2026-06-24T22:31:02.283231+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/24/news076.html",
-    "sent_at": "2026-06-24T22:31:02.283231+00:00"
-  },
-  {
-    "url": "https://qiita.com/TsuchiyaK/items/a3de1ac034bf94cf905b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-24T22:31:02.283231+00:00"
-  },
-  {
-    "url": "https://qiita.com/akari_sugiyama/items/88153a1e8d262f132abc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-24T22:31:02.283231+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/25/news021.html",
-    "sent_at": "2026-06-24T22:31:02.283231+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2606/25/news022.html",
-    "sent_at": "2026-06-24T22:31:02.283231+00:00"
-  },
-  {
     "url": "https://github.com/inkeep/open-knowledge",
     "sent_at": "2026-06-25T22:30:59.711638+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://qiita.com/ma-shiratori/items/2d6eaea260e8d223b49b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-07-24T22:30:59.317175+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/25/news012.html",
+    "sent_at": "2026-07-25T22:30:39.113368+00:00"
+  },
+  {
+    "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+    "sent_at": "2026-07-25T22:30:39.113368+00:00"
+  },
+  {
+    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+    "sent_at": "2026-07-25T22:30:39.113368+00:00"
+  },
+  {
+    "url": "https://zenn.dev/gamella/articles/7e1af53f19d94d",
+    "sent_at": "2026-07-25T22:30:39.113368+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
+    "sent_at": "2026-07-25T22:30:39.113368+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49051130",
+    "sent_at": "2026-07-25T22:30:39.113368+00:00"
+  },
+  {
+    "url": "https://brolly.sh/forecast/RWFP2qW8",
+    "sent_at": "2026-07-25T22:30:39.113368+00:00"
+  },
+  {
+    "url": "https://qiita.com/watany/items/11358e8e8966d5e48a09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-25T22:30:39.113368+00:00"
+  },
+  {
+    "url": "https://zenn.dev/scalar_sol_blog/articles/6fa517a84cb7ff",
+    "sent_at": "2026-07-25T22:30:39.113368+00:00"
+  },
+  {
+    "url": "https://qiita.com/jqit-yukiono/items/91755838ea8589fde90d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-25T22:30:39.113368+00:00"
   }
 ]

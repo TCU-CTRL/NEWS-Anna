@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
-    "sent_at": "2026-06-24T22:31:10.932185+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
-    "sent_at": "2026-06-24T22:31:10.932185+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
-    "sent_at": "2026-06-24T22:31:10.932185+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
-    "sent_at": "2026-06-24T22:31:10.932185+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
-    "sent_at": "2026-06-24T22:31:10.932185+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186297",
-    "sent_at": "2026-06-24T22:31:10.932185+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
-    "sent_at": "2026-06-24T22:31:10.932185+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186303",
-    "sent_at": "2026-06-24T22:31:10.932185+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
-    "sent_at": "2026-06-24T22:31:10.932185+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
-    "sent_at": "2026-06-24T22:31:10.932185+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2025/12/08/113316",
     "sent_at": "2026-06-25T22:31:13.349445+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#1",
     "sent_at": "2026-07-24T22:31:08.254513+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+    "sent_at": "2026-07-25T22:30:46.784213+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+    "sent_at": "2026-07-25T22:30:46.784213+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+    "sent_at": "2026-07-25T22:30:46.784213+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
+    "sent_at": "2026-07-25T22:30:46.784213+00:00"
+  },
+  {
+    "url": "https://jvn.jp/vu/JVNVU98875819/",
+    "sent_at": "2026-07-25T22:30:46.784213+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+    "sent_at": "2026-07-25T22:30:46.784213+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+    "sent_at": "2026-07-25T22:30:46.784213+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+    "sent_at": "2026-07-25T22:30:46.784213+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+    "sent_at": "2026-07-25T22:30:46.784213+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+    "sent_at": "2026-07-25T22:30:46.784213+00:00"
   }
 ]
