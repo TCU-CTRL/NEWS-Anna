@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/12/08/113316",
-    "sent_at": "2026-06-25T22:31:13.349445+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/05/31/010131",
-    "sent_at": "2026-06-25T22:31:13.349445+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
-    "sent_at": "2026-06-25T22:31:13.349445+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/09/12/160227",
-    "sent_at": "2026-06-25T22:31:13.349445+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186374",
-    "sent_at": "2026-06-25T22:31:13.349445+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186380",
-    "sent_at": "2026-06-25T22:31:13.349445+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186384",
-    "sent_at": "2026-06-25T22:31:13.349445+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
-    "sent_at": "2026-06-25T22:31:13.349445+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
-    "sent_at": "2026-06-25T22:31:13.349445+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
-    "sent_at": "2026-06-25T22:31:13.349445+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
     "sent_at": "2026-06-26T22:31:15.410114+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
     "sent_at": "2026-07-25T22:30:46.784213+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2025/12/08/113316",
+    "sent_at": "2026-07-26T22:30:55.729274+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2025/05/31/010131",
+    "sent_at": "2026-07-26T22:30:55.729274+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2025/09/12/160227",
+    "sent_at": "2026-07-26T22:30:55.729274+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+    "sent_at": "2026-07-26T22:30:55.729274+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+    "sent_at": "2026-07-26T22:30:55.729274+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+    "sent_at": "2026-07-26T22:30:55.729274+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+    "sent_at": "2026-07-26T22:30:55.729274+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
+    "sent_at": "2026-07-26T22:30:55.729274+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+    "sent_at": "2026-07-26T22:30:55.729274+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#8",
+    "sent_at": "2026-07-26T22:30:55.729274+00:00"
   }
 ]
