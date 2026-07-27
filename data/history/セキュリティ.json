@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
-    "sent_at": "2026-06-26T22:31:15.410114+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-    "sent_at": "2026-06-26T22:31:15.410114+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2024/11/18/040039",
-    "sent_at": "2026-06-26T22:31:15.410114+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186457",
-    "sent_at": "2026-06-26T22:31:15.410114+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2024/12/25/180139",
-    "sent_at": "2026-06-26T22:31:15.410114+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186427",
-    "sent_at": "2026-06-26T22:31:15.410114+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
-    "sent_at": "2026-06-26T22:31:15.410114+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186466",
-    "sent_at": "2026-06-26T22:31:15.410114+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186474",
-    "sent_at": "2026-06-26T22:31:15.410114+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
-    "sent_at": "2026-06-26T22:31:15.410114+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
     "sent_at": "2026-06-27T22:31:02.895382+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#8",
     "sent_at": "2026-07-26T22:30:55.729274+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187883",
+    "sent_at": "2026-07-27T22:30:53.473519+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187871",
+    "sent_at": "2026-07-27T22:30:53.473519+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
+    "sent_at": "2026-07-27T22:30:53.473519+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
+    "sent_at": "2026-07-27T22:30:53.473519+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
+    "sent_at": "2026-07-27T22:30:53.473519+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
+    "sent_at": "2026-07-27T22:30:53.473519+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
+    "sent_at": "2026-07-27T22:30:53.473519+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
+    "sent_at": "2026-07-27T22:30:53.473519+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+    "sent_at": "2026-07-27T22:30:53.473519+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+    "sent_at": "2026-07-27T22:30:53.473519+00:00"
   }
 ]
