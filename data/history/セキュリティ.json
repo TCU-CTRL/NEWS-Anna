@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
-    "sent_at": "2026-06-27T22:31:02.895382+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
-    "sent_at": "2026-06-27T22:31:02.895382+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
-    "sent_at": "2026-06-27T22:31:02.895382+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#4",
-    "sent_at": "2026-06-27T22:31:02.895382+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#11",
-    "sent_at": "2026-06-27T22:31:02.895382+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-    "sent_at": "2026-06-27T22:31:02.895382+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
-    "sent_at": "2026-06-27T22:31:02.895382+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
-    "sent_at": "2026-06-27T22:31:02.895382+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186433",
-    "sent_at": "2026-06-27T22:31:02.895382+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186442",
-    "sent_at": "2026-06-27T22:31:02.895382+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2024/08/19/074417",
-    "sent_at": "2026-06-28T22:31:04.266822+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/03/27/022634",
-    "sent_at": "2026-06-28T22:31:04.266822+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-    "sent_at": "2026-06-28T22:31:04.266822+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
-    "sent_at": "2026-06-28T22:31:04.266822+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
-    "sent_at": "2026-06-28T22:31:04.266822+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/solicitation/",
-    "sent_at": "2026-06-28T22:31:04.266822+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#1",
-    "sent_at": "2026-06-28T22:31:04.266822+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#2",
-    "sent_at": "2026-06-28T22:31:04.266822+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#3",
-    "sent_at": "2026-06-28T22:31:04.266822+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260624.html#5",
-    "sent_at": "2026-06-28T22:31:04.266822+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
     "sent_at": "2026-06-29T22:31:23.096436+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
     "sent_at": "2026-07-27T22:30:53.473519+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/29/051323",
+    "sent_at": "2026-07-28T22:31:10.024165+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+    "sent_at": "2026-07-28T22:31:10.024165+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187935",
+    "sent_at": "2026-07-28T22:31:10.024165+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
+    "sent_at": "2026-07-28T22:31:10.024165+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
+    "sent_at": "2026-07-28T22:31:10.024165+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+    "sent_at": "2026-07-28T22:31:10.024165+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+    "sent_at": "2026-07-28T22:31:10.024165+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+    "sent_at": "2026-07-28T22:31:10.024165+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+    "sent_at": "2026-07-28T22:31:10.024165+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187957",
+    "sent_at": "2026-07-28T22:31:10.024165+00:00"
   }
 ]
