@@ -1198,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/187957",
     "sent_at": "2026-07-28T22:31:10.024165+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+    "sent_at": "2026-07-29T22:31:08.950158+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
+    "sent_at": "2026-07-29T22:31:08.950158+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+    "sent_at": "2026-07-29T22:31:08.950158+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
+    "sent_at": "2026-07-29T22:31:08.950158+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
+    "sent_at": "2026-07-29T22:31:08.950158+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+    "sent_at": "2026-07-29T22:31:08.950158+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2025/03/27/022634",
+    "sent_at": "2026-07-29T22:31:08.950158+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187979",
+    "sent_at": "2026-07-29T22:31:08.950158+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188019",
+    "sent_at": "2026-07-29T22:31:08.950158+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/187984",
+    "sent_at": "2026-07-29T22:31:08.950158+00:00"
   }
 ]
