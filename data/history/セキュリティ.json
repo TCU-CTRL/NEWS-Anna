@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
-    "sent_at": "2026-06-29T22:31:23.096436+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
-    "sent_at": "2026-06-29T22:31:23.096436+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-    "sent_at": "2026-06-29T22:31:23.096436+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-    "sent_at": "2026-06-29T22:31:23.096436+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
-    "sent_at": "2026-06-29T22:31:23.096436+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
-    "sent_at": "2026-06-29T22:31:23.096436+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
-    "sent_at": "2026-06-29T22:31:23.096436+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
-    "sent_at": "2026-06-29T22:31:23.096436+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186498",
-    "sent_at": "2026-06-29T22:31:23.096436+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186525",
-    "sent_at": "2026-06-29T22:31:23.096436+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
     "sent_at": "2026-06-30T22:32:22.134808+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/187984",
     "sent_at": "2026-07-29T22:31:08.950158+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
+    "sent_at": "2026-07-30T22:30:47.976691+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+    "sent_at": "2026-07-30T22:30:47.976691+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+    "sent_at": "2026-07-30T22:30:47.976691+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260021.html",
+    "sent_at": "2026-07-30T22:30:47.976691+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+    "sent_at": "2026-07-30T22:30:47.976691+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188041",
+    "sent_at": "2026-07-30T22:30:47.976691+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+    "sent_at": "2026-07-30T22:30:47.976691+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
+    "sent_at": "2026-07-30T22:30:47.976691+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188070",
+    "sent_at": "2026-07-30T22:30:47.976691+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188052",
+    "sent_at": "2026-07-30T22:30:47.976691+00:00"
   }
 ]
