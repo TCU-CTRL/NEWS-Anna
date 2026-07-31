@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
-    "sent_at": "2026-06-30T22:32:22.134808+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
-    "sent_at": "2026-06-30T22:32:22.134808+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
-    "sent_at": "2026-06-30T22:32:22.134808+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
-    "sent_at": "2026-06-30T22:32:22.134808+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
-    "sent_at": "2026-06-30T22:32:22.134808+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
-    "sent_at": "2026-06-30T22:32:22.134808+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
-    "sent_at": "2026-06-30T22:32:22.134808+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
-    "sent_at": "2026-06-30T22:32:22.134808+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186399",
-    "sent_at": "2026-06-30T22:32:22.134808+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
-    "sent_at": "2026-06-30T22:32:22.134808+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
     "sent_at": "2026-07-01T22:31:03.954869+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/188052",
     "sent_at": "2026-07-30T22:30:47.976691+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/31/214935",
+    "sent_at": "2026-07-31T22:31:02.718686+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+    "sent_at": "2026-07-31T22:31:02.718686+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188153",
+    "sent_at": "2026-07-31T22:31:02.718686+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+    "sent_at": "2026-07-31T22:31:02.718686+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188126",
+    "sent_at": "2026-07-31T22:31:02.718686+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188156",
+    "sent_at": "2026-07-31T22:31:02.718686+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
+    "sent_at": "2026-07-31T22:31:02.718686+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+    "sent_at": "2026-07-31T22:31:02.718686+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+    "sent_at": "2026-07-31T22:31:02.718686+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+    "sent_at": "2026-07-31T22:31:02.718686+00:00"
   }
 ]

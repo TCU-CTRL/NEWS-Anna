@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://qiita.com/nogataka/items/6091d6a9d2893f71fabe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-06-30T22:32:01.193753+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/01/news060.html",
-    "sent_at": "2026-06-30T22:32:01.193753+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2607/01/news013.html",
-    "sent_at": "2026-06-30T22:32:01.193753+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/30/news027.html",
-    "sent_at": "2026-06-30T22:32:01.193753+00:00"
-  },
-  {
-    "url": "https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced",
-    "sent_at": "2026-06-30T22:32:01.193753+00:00"
-  },
-  {
-    "url": "https://zenn.dev/starai_org/articles/1b09b1971a2a2b",
-    "sent_at": "2026-06-30T22:32:01.193753+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/30/news051.html",
-    "sent_at": "2026-06-30T22:32:01.193753+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/01/news057.html",
-    "sent_at": "2026-06-30T22:32:01.193753+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2606/30/news123.html",
-    "sent_at": "2026-06-30T22:32:01.193753+00:00"
-  },
-  {
-    "url": "https://zenn.dev/chot/articles/dca4889fa27d27",
-    "sent_at": "2026-06-30T22:32:01.193753+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/02/news027.html",
-    "sent_at": "2026-07-01T22:30:53.538494+00:00"
-  },
-  {
-    "url": "https://golemui.com",
-    "sent_at": "2026-07-01T22:30:53.538494+00:00"
-  },
-  {
-    "url": "https://qiita.com/Yuzuki-ki/items/21ac1fc33cf8926df190?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-01T22:30:53.538494+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2607/02/news015.html",
-    "sent_at": "2026-07-01T22:30:53.538494+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/01/news139.html",
-    "sent_at": "2026-07-01T22:30:53.538494+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/01/news098.html",
-    "sent_at": "2026-07-01T22:30:53.538494+00:00"
-  },
-  {
-    "url": "https://twitter.com/claudeai/status/2072402636813607381",
-    "sent_at": "2026-07-01T22:30:53.538494+00:00"
-  },
-  {
-    "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
-    "sent_at": "2026-07-01T22:30:53.538494+00:00"
-  },
-  {
-    "url": "https://zenn.dev/canly/articles/428767121d7dc2",
-    "sent_at": "2026-07-01T22:30:53.538494+00:00"
-  },
-  {
-    "url": "https://zenn.dev/syurenuko/articles/b31d9d63035c9c",
-    "sent_at": "2026-07-01T22:30:53.538494+00:00"
-  },
-  {
     "url": "https://manufact.com",
     "sent_at": "2026-07-02T22:31:09.443941+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://qiita.com/Hinata-H/items/700a87e89c0b8fa55e71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-07-30T22:30:39.146523+00:00"
+  },
+  {
+    "url": "https://zenn.dev/u1/articles/rhw-reviewable-html-workbench",
+    "sent_at": "2026-07-31T22:30:54.446984+00:00"
+  },
+  {
+    "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+    "sent_at": "2026-07-31T22:30:54.446984+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news094.html",
+    "sent_at": "2026-07-31T22:30:54.446984+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000334/",
+    "sent_at": "2026-07-31T22:30:54.446984+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2607/31/news079.html",
+    "sent_at": "2026-07-31T22:30:54.446984+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2607/31/news073.html",
+    "sent_at": "2026-07-31T22:30:54.446984+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000286/",
+    "sent_at": "2026-07-31T22:30:54.446984+00:00"
+  },
+  {
+    "url": "https://qiita.com/megmogmog1965/items/7db66f5a5aa306c68eb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-31T22:30:54.446984+00:00"
+  },
+  {
+    "url": "https://qiita.com/satokan3/items/d306f067086272e6aa8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-31T22:30:54.446984+00:00"
+  },
+  {
+    "url": "https://qiita.com/nr-mito/items/96c0ad26943673114161?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-07-31T22:30:54.446984+00:00"
   }
 ]
