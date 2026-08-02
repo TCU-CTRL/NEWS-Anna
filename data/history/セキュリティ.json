@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
-    "sent_at": "2026-07-02T22:31:18.229688+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-    "sent_at": "2026-07-02T22:31:18.229688+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
-    "sent_at": "2026-07-02T22:31:18.229688+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
-    "sent_at": "2026-07-02T22:31:18.229688+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186698",
-    "sent_at": "2026-07-02T22:31:18.229688+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186688",
-    "sent_at": "2026-07-02T22:31:18.229688+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186686",
-    "sent_at": "2026-07-02T22:31:18.229688+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
-    "sent_at": "2026-07-02T22:31:18.229688+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186684",
-    "sent_at": "2026-07-02T22:31:18.229688+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186715",
-    "sent_at": "2026-07-02T22:31:18.229688+00:00"
-  },
-  {
     "url": "https://www.security-next.com/186797",
     "sent_at": "2026-07-03T22:31:21.820132+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/07/30/075612",
     "sent_at": "2026-08-01T22:30:54.976268+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/02/165033",
+    "sent_at": "2026-08-02T22:30:47.966743+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+    "sent_at": "2026-08-02T22:30:47.966743+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+    "sent_at": "2026-08-02T22:30:47.966743+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+    "sent_at": "2026-08-02T22:30:47.966743+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+    "sent_at": "2026-08-02T22:30:47.966743+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+    "sent_at": "2026-08-02T22:30:47.966743+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
+    "sent_at": "2026-08-02T22:30:47.966743+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+    "sent_at": "2026-08-02T22:30:47.966743+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+    "sent_at": "2026-08-02T22:30:47.966743+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+    "sent_at": "2026-08-02T22:30:47.966743+00:00"
   }
 ]

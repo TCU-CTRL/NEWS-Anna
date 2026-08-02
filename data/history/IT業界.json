@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://manufact.com",
-    "sent_at": "2026-07-02T22:31:09.443941+00:00"
-  },
-  {
-    "url": "https://zk.golf/",
-    "sent_at": "2026-07-02T22:31:09.443941+00:00"
-  },
-  {
-    "url": "https://qiita.com/iwa0114/items/ab5b0a111ad94ff56771?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-02T22:31:09.443941+00:00"
-  },
-  {
-    "url": "https://zenn.dev/k_tabuchi/articles/bef3713e4ffb58",
-    "sent_at": "2026-07-02T22:31:09.443941+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news069.html",
-    "sent_at": "2026-07-02T22:31:09.443941+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
-    "sent_at": "2026-07-02T22:31:09.443941+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news067.html",
-    "sent_at": "2026-07-02T22:31:09.443941+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
-    "sent_at": "2026-07-02T22:31:09.443941+00:00"
-  },
-  {
-    "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-    "sent_at": "2026-07-02T22:31:09.443941+00:00"
-  },
-  {
-    "url": "https://qiita.com/chaochire/items/a17119d3d9487d5379a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-02T22:31:09.443941+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/news/articles/2607/03/news077.html",
     "sent_at": "2026-07-03T22:31:07.674350+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
     "sent_at": "2026-08-01T22:30:44.844377+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
+    "sent_at": "2026-08-02T22:30:37.677855+00:00"
+  },
+  {
+    "url": "https://github.com/paoloanzn/microcodex",
+    "sent_at": "2026-08-02T22:30:37.677855+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
+    "sent_at": "2026-08-02T22:30:37.677855+00:00"
+  },
+  {
+    "url": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-02T22:30:37.677855+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2608/03/news046.html",
+    "sent_at": "2026-08-02T22:30:37.677855+00:00"
+  },
+  {
+    "url": "https://frogs.vaguespac.es/",
+    "sent_at": "2026-08-02T22:30:37.677855+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+    "sent_at": "2026-08-02T22:30:37.677855+00:00"
+  },
+  {
+    "url": "https://fuselang.org",
+    "sent_at": "2026-08-02T22:30:37.677855+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
+    "sent_at": "2026-08-02T22:30:37.677855+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+    "sent_at": "2026-08-02T22:30:37.677855+00:00"
   }
 ]
