@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2607/05/news015.html",
-    "sent_at": "2026-07-04T22:31:06.419281+00:00"
-  },
-  {
-    "url": "https://github.com/openai/codex/issues/30364",
-    "sent_at": "2026-07-04T22:31:06.419281+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2606.26967",
-    "sent_at": "2026-07-04T22:31:06.419281+00:00"
-  },
-  {
-    "url": "https://qiita.com/relu/items/9a5e54a15f70988e468d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-04T22:31:06.419281+00:00"
-  },
-  {
-    "url": "https://qiita.com/asahide/items/0989ce0e40f5a367a12b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-04T22:31:06.419281+00:00"
-  },
-  {
-    "url": "https://qiita.com/infra365/items/f12242f65c5f1e20c022?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-04T22:31:06.419281+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
-    "sent_at": "2026-07-04T22:31:06.419281+00:00"
-  },
-  {
-    "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-    "sent_at": "2026-07-04T22:31:06.419281+00:00"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/issues/74066",
-    "sent_at": "2026-07-04T22:31:06.419281+00:00"
-  },
-  {
-    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-    "sent_at": "2026-07-04T22:31:06.419281+00:00"
-  },
-  {
     "url": "https://zenn.dev/trknhr/articles/42c20e11812217",
     "sent_at": "2026-07-05T22:31:15.680175+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://qiita.com/sumomoo/items/4efb8d1abd340c0bec28?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-08-03T22:30:43.692242+00:00"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
+    "sent_at": "2026-08-04T22:30:46.969833+00:00"
+  },
+  {
+    "url": "https://zenn.dev/aws_japan/articles/opencode-bedrock-lab",
+    "sent_at": "2026-08-04T22:30:46.969833+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000382/",
+    "sent_at": "2026-08-04T22:30:46.969833+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000377/",
+    "sent_at": "2026-08-04T22:30:46.969833+00:00"
+  },
+  {
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+    "sent_at": "2026-08-04T22:30:46.969833+00:00"
+  },
+  {
+    "url": "https://edotenv.com/",
+    "sent_at": "2026-08-04T22:30:46.969833+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "sent_at": "2026-08-04T22:30:46.969833+00:00"
+  },
+  {
+    "url": "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
+    "sent_at": "2026-08-04T22:30:46.969833+00:00"
+  },
+  {
+    "url": "https://qiita.com/jqit_suwa/items/2dee3e3d53080c3676a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-04T22:30:46.969833+00:00"
+  },
+  {
+    "url": "https://qiita.com/KA026/items/23b0952b181807b5dabd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-04T22:30:46.969833+00:00"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
-    "sent_at": "2026-07-04T22:31:25.084556+00:00"
-  },
-  {
-    "url": "https://jvn.jp/vu/JVNVU93304382/",
-    "sent_at": "2026-07-04T22:31:25.084556+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-    "sent_at": "2026-07-04T22:31:25.084556+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/12/07/004905",
-    "sent_at": "2026-07-04T22:31:25.084556+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/11/28/170613",
-    "sent_at": "2026-07-04T22:31:25.084556+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/10/04/023247",
-    "sent_at": "2026-07-04T22:31:25.084556+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/03/14/022046",
-    "sent_at": "2026-07-04T22:31:25.084556+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/02/28/050112",
-    "sent_at": "2026-07-04T22:31:25.084556+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/01/31/235432",
-    "sent_at": "2026-07-04T22:31:25.084556+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2024/10/31/165527",
-    "sent_at": "2026-07-04T22:31:25.084556+00:00"
-  },
-  {
     "url": "https://www.jpcert.or.jp/wr/2026/wr260701.html#3",
     "sent_at": "2026-07-05T22:31:23.435105+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/188223",
     "sent_at": "2026-08-03T22:30:56.034409+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/04/183114",
+    "sent_at": "2026-08-04T22:30:57.489759+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+    "sent_at": "2026-08-04T22:30:57.489759+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+    "sent_at": "2026-08-04T22:30:57.489759+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+    "sent_at": "2026-08-04T22:30:57.489759+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188299",
+    "sent_at": "2026-08-04T22:30:57.489759+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188284",
+    "sent_at": "2026-08-04T22:30:57.489759+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188315",
+    "sent_at": "2026-08-04T22:30:57.489759+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+    "sent_at": "2026-08-04T22:30:57.489759+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+    "sent_at": "2026-08-04T22:30:57.489759+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+    "sent_at": "2026-08-04T22:30:57.489759+00:00"
   }
 ]
