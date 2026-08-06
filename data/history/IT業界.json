@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-    "sent_at": "2026-07-06T22:31:10.142755+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2607/07/news013.html",
-    "sent_at": "2026-07-06T22:31:10.142755+00:00"
-  },
-  {
-    "url": "https://qiita.com/Western24/items/6bfef60a350fcc201f72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-06T22:31:10.142755+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
-    "sent_at": "2026-07-06T22:31:10.142755+00:00"
-  },
-  {
-    "url": "https://zenn.dev/kairininja/articles/zenn-codex-vertical-mv-quality-gate",
-    "sent_at": "2026-07-06T22:31:10.142755+00:00"
-  },
-  {
-    "url": "https://zenn.dev/garasubo/articles/9b9548ebab5a67",
-    "sent_at": "2026-07-06T22:31:10.142755+00:00"
-  },
-  {
-    "url": "https://qiita.com/ryu-ki/items/e2c94f68b4bd17c1514d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-06T22:31:10.142755+00:00"
-  },
-  {
-    "url": "https://qiita.com/makoto-ogata@github/items/88638c949bded6648611?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-06T22:31:10.142755+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/07/news076.html",
-    "sent_at": "2026-07-06T22:31:10.142755+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/07/news032.html",
-    "sent_at": "2026-07-06T22:31:10.142755+00:00"
-  },
-  {
     "url": "https://github.com/rowboatlabs/rowboat",
     "sent_at": "2026-07-07T22:31:16.845367+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
     "sent_at": "2026-08-05T22:30:43.630660+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/06/news056.html",
+    "sent_at": "2026-08-06T22:30:48.050036+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000435/",
+    "sent_at": "2026-08-06T22:30:48.050036+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2608/06/news084.html",
+    "sent_at": "2026-08-06T22:30:48.050036+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2608/06/news064.html",
+    "sent_at": "2026-08-06T22:30:48.050036+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000370/",
+    "sent_at": "2026-08-06T22:30:48.050036+00:00"
+  },
+  {
+    "url": "https://qiita.com/nakasato310/items/be985526859d59a0a8b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-06T22:30:48.050036+00:00"
+  },
+  {
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+    "sent_at": "2026-08-06T22:30:48.050036+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/07/news010.html",
+    "sent_at": "2026-08-06T22:30:48.050036+00:00"
+  },
+  {
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "sent_at": "2026-08-06T22:30:48.050036+00:00"
+  },
+  {
+    "url": "https://qiita.com/Syoitu/items/e529a09b3d840c85c339?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-06T22:30:48.050036+00:00"
   }
 ]
