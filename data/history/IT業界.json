@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://github.com/rowboatlabs/rowboat",
-    "sent_at": "2026-07-07T22:31:16.845367+00:00"
-  },
-  {
-    "url": "https://zenn.dev/aircloset/articles/d4c32cff8cb230",
-    "sent_at": "2026-07-07T22:31:16.845367+00:00"
-  },
-  {
-    "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-    "sent_at": "2026-07-07T22:31:16.845367+00:00"
-  },
-  {
-    "url": "https://qiita.com/nogataka/items/6251b5727998ca29734c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-07T22:31:16.845367+00:00"
-  },
-  {
-    "url": "https://zenn.dev/knowledgesense/articles/283244af941a2d",
-    "sent_at": "2026-07-07T22:31:16.845367+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2607/08/news043.html",
-    "sent_at": "2026-07-07T22:31:16.845367+00:00"
-  },
-  {
-    "url": "https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78",
-    "sent_at": "2026-07-07T22:31:16.845367+00:00"
-  },
-  {
-    "url": "https://zenn.dev/finatext/articles/whole-dev-container",
-    "sent_at": "2026-07-07T22:31:16.845367+00:00"
-  },
-  {
-    "url": "https://qiita.com/yushibats/items/fec8a11273f898dcab8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-07T22:31:16.845367+00:00"
-  },
-  {
-    "url": "https://qiita.com/kane_ryu/items/38911988915c6bbd8c8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-07T22:31:16.845367+00:00"
-  },
-  {
     "url": "https://zenn.dev/inlet_back/articles/2069cb693dd737",
     "sent_at": "2026-07-08T22:31:25.180683+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://qiita.com/Syoitu/items/e529a09b3d840c85c339?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-08-06T22:30:48.050036+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000456/",
+    "sent_at": "2026-08-07T22:30:50.534343+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000454/",
+    "sent_at": "2026-08-07T22:30:50.534343+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2608/07/news076.html",
+    "sent_at": "2026-08-07T22:30:50.534343+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2608/07/news070.html",
+    "sent_at": "2026-08-07T22:30:50.534343+00:00"
+  },
+  {
+    "url": "https://qiita.com/moritalous/items/1968a359d8eb54585421?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-07T22:30:50.534343+00:00"
+  },
+  {
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+    "sent_at": "2026-08-07T22:30:50.534343+00:00"
+  },
+  {
+    "url": "https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro",
+    "sent_at": "2026-08-07T22:30:50.534343+00:00"
+  },
+  {
+    "url": "https://qiita.com/TaichiYamasaki/items/c75b139044362e18fa68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-07T22:30:50.534343+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
+    "sent_at": "2026-08-07T22:30:50.534343+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000448/",
+    "sent_at": "2026-08-07T22:30:50.534343+00:00"
   }
 ]

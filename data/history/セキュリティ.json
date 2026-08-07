@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/07/182112",
-    "sent_at": "2026-07-07T22:31:27.786513+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-    "sent_at": "2026-07-07T22:31:27.786513+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
-    "sent_at": "2026-07-07T22:31:27.786513+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
-    "sent_at": "2026-07-07T22:31:27.786513+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
-    "sent_at": "2026-07-07T22:31:27.786513+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-    "sent_at": "2026-07-07T22:31:27.786513+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/08/002522",
-    "sent_at": "2026-07-07T22:31:27.786513+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
-    "sent_at": "2026-07-07T22:31:27.786513+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
-    "sent_at": "2026-07-07T22:31:27.786513+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186901",
-    "sent_at": "2026-07-07T22:31:27.786513+00:00"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
     "sent_at": "2026-07-08T22:31:36.430327+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/188424",
     "sent_at": "2026-08-06T22:30:56.724864+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/08/020650",
+    "sent_at": "2026-08-07T22:31:01.358783+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/07/182112",
+    "sent_at": "2026-08-07T22:31:01.358783+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+    "sent_at": "2026-08-07T22:31:01.358783+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188465",
+    "sent_at": "2026-08-07T22:31:01.358783+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+    "sent_at": "2026-08-07T22:31:01.358783+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+    "sent_at": "2026-08-07T22:31:01.358783+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188474",
+    "sent_at": "2026-08-07T22:31:01.358783+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188520",
+    "sent_at": "2026-08-07T22:31:01.358783+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188462",
+    "sent_at": "2026-08-07T22:31:01.358783+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/08/002522",
+    "sent_at": "2026-08-07T22:31:01.358783+00:00"
   }
 ]
