@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
-    "sent_at": "2026-07-08T22:31:36.430327+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-    "sent_at": "2026-07-08T22:31:36.430327+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
-    "sent_at": "2026-07-08T22:31:36.430327+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
-    "sent_at": "2026-07-08T22:31:36.430327+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186957",
-    "sent_at": "2026-07-08T22:31:36.430327+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187008",
-    "sent_at": "2026-07-08T22:31:36.430327+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186984",
-    "sent_at": "2026-07-08T22:31:36.430327+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/186965",
-    "sent_at": "2026-07-08T22:31:36.430327+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
-    "sent_at": "2026-07-08T22:31:36.430327+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/08/232742",
-    "sent_at": "2026-07-08T22:31:36.430327+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
     "sent_at": "2026-07-09T22:31:26.406758+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/07/08/002522",
     "sent_at": "2026-08-07T22:31:01.358783+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+    "sent_at": "2026-08-08T22:30:41.344503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+    "sent_at": "2026-08-08T22:30:41.344503+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+    "sent_at": "2026-08-08T22:30:41.344503+00:00"
+  },
+  {
+    "url": "https://jvn.jp/vu/JVNVU92139835/",
+    "sent_at": "2026-08-08T22:30:41.344503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+    "sent_at": "2026-08-08T22:30:41.344503+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/07/012552",
+    "sent_at": "2026-08-08T22:30:41.344503+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#2",
+    "sent_at": "2026-08-08T22:30:41.344503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+    "sent_at": "2026-08-08T22:30:41.344503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+    "sent_at": "2026-08-08T22:30:41.344503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
+    "sent_at": "2026-08-08T22:30:41.344503+00:00"
   }
 ]

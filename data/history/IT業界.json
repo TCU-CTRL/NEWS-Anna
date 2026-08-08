@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://zenn.dev/inlet_back/articles/2069cb693dd737",
-    "sent_at": "2026-07-08T22:31:25.180683+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2607/09/news010.html",
-    "sent_at": "2026-07-08T22:31:25.180683+00:00"
-  },
-  {
-    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-    "sent_at": "2026-07-08T22:31:25.180683+00:00"
-  },
-  {
-    "url": "https://danluu.com/ai-coding/#llm-variance",
-    "sent_at": "2026-07-08T22:31:25.180683+00:00"
-  },
-  {
-    "url": "https://microsoft.github.io/flint-chart/#/",
-    "sent_at": "2026-07-08T22:31:25.180683+00:00"
-  },
-  {
-    "url": "https://openai.com/index/introducing-gpt-live/",
-    "sent_at": "2026-07-08T22:31:25.180683+00:00"
-  },
-  {
-    "url": "https://mistral.ai/news/robostral-navigate/",
-    "sent_at": "2026-07-08T22:31:25.180683+00:00"
-  },
-  {
-    "url": "https://zenn.dev/mkj/articles/cco-paper_20260531",
-    "sent_at": "2026-07-08T22:31:25.180683+00:00"
-  },
-  {
-    "url": "https://qiita.com/degudegu2510/items/793cfe76cf8b6982f2f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-08T22:31:25.180683+00:00"
-  },
-  {
-    "url": "https://zenn.dev/gamedev_toollab/articles/88cbe9d9110202",
-    "sent_at": "2026-07-08T22:31:25.180683+00:00"
-  },
-  {
     "url": "https://lucid.earthpilot.ai",
     "sent_at": "2026-07-09T22:31:12.458747+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000448/",
     "sent_at": "2026-08-07T22:30:50.534343+00:00"
+  },
+  {
+    "url": "https://zenn.dev/kaerururu/articles/2b2a82ba6f3ba2",
+    "sent_at": "2026-08-08T22:30:33.859708+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000460/",
+    "sent_at": "2026-08-08T22:30:33.859708+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "sent_at": "2026-08-08T22:30:33.859708+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
+    "sent_at": "2026-08-08T22:30:33.859708+00:00"
+  },
+  {
+    "url": "https://qiita.com/k2_naka/items/024172f90e049d5643ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-08T22:30:33.859708+00:00"
+  },
+  {
+    "url": "https://qiita.com/nattogohan123/items/fdeda32ceb783a6c8981?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-08T22:30:33.859708+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
+    "sent_at": "2026-08-08T22:30:33.859708+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2608/08/news007.html",
+    "sent_at": "2026-08-08T22:30:33.859708+00:00"
+  },
+  {
+    "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+    "sent_at": "2026-08-08T22:30:33.859708+00:00"
+  },
+  {
+    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+    "sent_at": "2026-08-08T22:30:33.859708+00:00"
   }
 ]
