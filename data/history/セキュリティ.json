@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-    "sent_at": "2026-07-09T22:31:26.406758+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/09/222807",
-    "sent_at": "2026-07-09T22:31:26.406758+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
-    "sent_at": "2026-07-09T22:31:26.406758+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
-    "sent_at": "2026-07-09T22:31:26.406758+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187043",
-    "sent_at": "2026-07-09T22:31:26.406758+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-    "sent_at": "2026-07-09T22:31:26.406758+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187045",
-    "sent_at": "2026-07-09T22:31:26.406758+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187051",
-    "sent_at": "2026-07-09T22:31:26.406758+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
-    "sent_at": "2026-07-09T22:31:26.406758+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
-    "sent_at": "2026-07-09T22:31:26.406758+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/07/10/082142",
     "sent_at": "2026-07-10T22:31:43.238093+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
     "sent_at": "2026-08-08T22:30:41.344503+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/09/222807",
+    "sent_at": "2026-08-09T22:30:52.716320+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#4",
+    "sent_at": "2026-08-09T22:30:52.716320+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188437",
+    "sent_at": "2026-08-09T22:30:52.716320+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188432",
+    "sent_at": "2026-08-09T22:30:52.716320+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+    "sent_at": "2026-08-09T22:30:52.716320+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+    "sent_at": "2026-08-09T22:30:52.716320+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+    "sent_at": "2026-08-09T22:30:52.716320+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+    "sent_at": "2026-08-09T22:30:52.716320+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+    "sent_at": "2026-08-09T22:30:52.716320+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/08/232742",
+    "sent_at": "2026-08-09T22:30:52.716320+00:00"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://lucid.earthpilot.ai",
-    "sent_at": "2026-07-09T22:31:12.458747+00:00"
-  },
-  {
-    "url": "https://openai.com/index/gpt-5-6/",
-    "sent_at": "2026-07-09T22:31:12.458747+00:00"
-  },
-  {
-    "url": "https://www.context.dev",
-    "sent_at": "2026-07-09T22:31:12.458747+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news042.html",
-    "sent_at": "2026-07-09T22:31:12.458747+00:00"
-  },
-  {
-    "url": "https://qiita.com/kunitomo926/items/7dfc85770cf5132f3d1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-09T22:31:12.458747+00:00"
-  },
-  {
-    "url": "https://qiita.com/sta0z/items/24ae053fd8b07255278e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-09T22:31:12.458747+00:00"
-  },
-  {
-    "url": "https://zenn.dev/trans/articles/cc1c398e1f770c",
-    "sent_at": "2026-07-09T22:31:12.458747+00:00"
-  },
-  {
-    "url": "https://zenn.dev/taroosg/articles/20260708203628-86db8756331c10",
-    "sent_at": "2026-07-09T22:31:12.458747+00:00"
-  },
-  {
-    "url": "https://qiita.com/y-tsukahara_palettelink/items/7d094965ae99fa92fb37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-09T22:31:12.458747+00:00"
-  },
-  {
-    "url": "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
-    "sent_at": "2026-07-09T22:31:12.458747+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
     "sent_at": "2026-07-10T22:31:33.210387+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
     "sent_at": "2026-08-08T22:30:33.859708+00:00"
+  },
+  {
+    "url": "https://zenn.dev/yuichirominato/articles/dc8cf3915f1c6f",
+    "sent_at": "2026-08-09T22:30:43.797137+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
+    "sent_at": "2026-08-09T22:30:43.797137+00:00"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+    "sent_at": "2026-08-09T22:30:43.797137+00:00"
+  },
+  {
+    "url": "https://qiita.com/saikoseiko/items/b44110b1bd3e3d687fae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-09T22:30:43.797137+00:00"
+  },
+  {
+    "url": "https://qiita.com/gyu-don/items/f02f1c55e18281c916a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-09T22:30:43.797137+00:00"
+  },
+  {
+    "url": "https://qiita.com/nadev/items/7407a746e6ab0c5755c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-09T22:30:43.797137+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2608/10/news006.html",
+    "sent_at": "2026-08-09T22:30:43.797137+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2608/10/news013.html",
+    "sent_at": "2026-08-09T22:30:43.797137+00:00"
+  },
+  {
+    "url": "https://tuxedono2.com",
+    "sent_at": "2026-08-09T22:30:43.797137+00:00"
+  },
+  {
+    "url": "https://phrack.org/issues/72/19#article",
+    "sent_at": "2026-08-09T22:30:43.797137+00:00"
   }
 ]
