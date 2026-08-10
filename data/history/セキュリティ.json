@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/10/082142",
-    "sent_at": "2026-07-10T22:31:43.238093+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-    "sent_at": "2026-07-10T22:31:43.238093+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187111",
-    "sent_at": "2026-07-10T22:31:43.238093+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187118",
-    "sent_at": "2026-07-10T22:31:43.238093+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
-    "sent_at": "2026-07-10T22:31:43.238093+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187133",
-    "sent_at": "2026-07-10T22:31:43.238093+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260708.html#5",
-    "sent_at": "2026-07-10T22:31:43.238093+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-    "sent_at": "2026-07-10T22:31:43.238093+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
-    "sent_at": "2026-07-10T22:31:43.238093+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-    "sent_at": "2026-07-10T22:31:43.238093+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
     "sent_at": "2026-07-11T22:31:20.698392+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/07/08/232742",
     "sent_at": "2026-08-09T22:30:52.716320+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/10/082142",
+    "sent_at": "2026-08-10T22:30:47.584214+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
+    "sent_at": "2026-08-10T22:30:47.584214+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+    "sent_at": "2026-08-10T22:30:47.584214+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+    "sent_at": "2026-08-10T22:30:47.584214+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188628",
+    "sent_at": "2026-08-10T22:30:47.584214+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188600",
+    "sent_at": "2026-08-10T22:30:47.584214+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188486",
+    "sent_at": "2026-08-10T22:30:47.584214+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+    "sent_at": "2026-08-10T22:30:47.584214+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
+    "sent_at": "2026-08-10T22:30:47.584214+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+    "sent_at": "2026-08-10T22:30:47.584214+00:00"
   }
 ]

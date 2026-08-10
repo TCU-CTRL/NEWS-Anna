@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
-    "sent_at": "2026-07-10T22:31:33.210387+00:00"
-  },
-  {
-    "url": "https://qiita.com/rai03/items/eec6818fd48b0c104e47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-10T22:31:33.210387+00:00"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-    "sent_at": "2026-07-10T22:31:33.210387+00:00"
-  },
-  {
-    "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-    "sent_at": "2026-07-10T22:31:33.210387+00:00"
-  },
-  {
-    "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-    "sent_at": "2026-07-10T22:31:33.210387+00:00"
-  },
-  {
-    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-    "sent_at": "2026-07-10T22:31:33.210387+00:00"
-  },
-  {
-    "url": "https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-10T22:31:33.210387+00:00"
-  },
-  {
-    "url": "https://zenn.dev/9m/articles/d08dcc093e1bbf",
-    "sent_at": "2026-07-10T22:31:33.210387+00:00"
-  },
-  {
-    "url": "https://qiita.com/aktsmm/items/7b92f95325893cb4e5a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-10T22:31:33.210387+00:00"
-  },
-  {
-    "url": "https://qiita.com/taisei_sudo/items/ef59ee85da9ad7706689?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-10T22:31:33.210387+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/pcuser/articles/2607/12/news007.html",
     "sent_at": "2026-07-11T22:31:12.754440+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://phrack.org/issues/72/19#article",
     "sent_at": "2026-08-09T22:30:43.797137+00:00"
+  },
+  {
+    "url": "https://cactuscompute.com/needle",
+    "sent_at": "2026-08-10T22:30:38.712414+00:00"
+  },
+  {
+    "url": "https://www.stoaexchange.com",
+    "sent_at": "2026-08-10T22:30:38.712414+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000486/",
+    "sent_at": "2026-08-10T22:30:38.712414+00:00"
+  },
+  {
+    "url": "https://mag.executive.itmedia.co.jp/executive/article/2608/10/2000000473/",
+    "sent_at": "2026-08-10T22:30:38.712414+00:00"
+  },
+  {
+    "url": "https://qiita.com/manaty/items/dde0f3f0b032ac91d56e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-10T22:30:38.712414+00:00"
+  },
+  {
+    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "sent_at": "2026-08-10T22:30:38.712414+00:00"
+  },
+  {
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "sent_at": "2026-08-10T22:30:38.712414+00:00"
+  },
+  {
+    "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+    "sent_at": "2026-08-10T22:30:38.712414+00:00"
+  },
+  {
+    "url": "https://qiita.com/yushibats/items/9dd91baaa89c919d0992?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-10T22:30:38.712414+00:00"
+  },
+  {
+    "url": "https://qiita.com/shirok/items/704f8f380fee205e06d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-10T22:30:38.712414+00:00"
   }
 ]
