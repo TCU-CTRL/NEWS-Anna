@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2607/12/news007.html",
-    "sent_at": "2026-07-11T22:31:12.754440+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/11/news038.html",
-    "sent_at": "2026-07-11T22:31:12.754440+00:00"
-  },
-  {
-    "url": "https://qiita.com/YASUHARA-Wataru/items/6470213193b12e471ec3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-11T22:31:12.754440+00:00"
-  },
-  {
-    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-    "sent_at": "2026-07-11T22:31:12.754440+00:00"
-  },
-  {
-    "url": "https://zenn.dev/xin9le/articles/6fb2045805996c",
-    "sent_at": "2026-07-11T22:31:12.754440+00:00"
-  },
-  {
-    "url": "https://zenn.dev/jodycraft/articles/3f7548173dcb55",
-    "sent_at": "2026-07-11T22:31:12.754440+00:00"
-  },
-  {
-    "url": "https://zenn.dev/okamyuji/articles/agent-driven-workflow-feedflow",
-    "sent_at": "2026-07-11T22:31:12.754440+00:00"
-  },
-  {
-    "url": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
-    "sent_at": "2026-07-11T22:31:12.754440+00:00"
-  },
-  {
-    "url": "https://zenn.dev/grooves/articles/d0e1a182138ab0",
-    "sent_at": "2026-07-11T22:31:12.754440+00:00"
-  },
-  {
-    "url": "https://qiita.com/DanielOkada/items/8d25b244be168cbc0d6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-11T22:31:12.754440+00:00"
-  },
-  {
     "url": "https://zenn.dev/seiuchi3939/articles/b12d6746d9f187",
     "sent_at": "2026-07-12T22:31:30.330015+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://qiita.com/shirok/items/704f8f380fee205e06d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-08-10T22:30:38.712414+00:00"
+  },
+  {
+    "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+    "sent_at": "2026-08-11T22:30:42.255969+00:00"
+  },
+  {
+    "url": "https://zenn.dev/tokium_dev/articles/gui-agent-zero-extra-cost",
+    "sent_at": "2026-08-11T22:30:42.255969+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
+    "sent_at": "2026-08-11T22:30:42.255969+00:00"
+  },
+  {
+    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+    "sent_at": "2026-08-11T22:30:42.255969+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000474/",
+    "sent_at": "2026-08-11T22:30:42.255969+00:00"
+  },
+  {
+    "url": "https://stolen-thoughts.com/",
+    "sent_at": "2026-08-11T22:30:42.255969+00:00"
+  },
+  {
+    "url": "https://zenn.dev/aws_japan/articles/agent-plugins-1-0-deep-dive",
+    "sent_at": "2026-08-11T22:30:42.255969+00:00"
+  },
+  {
+    "url": "https://qiita.com/manaty/items/694668a58aa40e0e44ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-11T22:30:42.255969+00:00"
+  },
+  {
+    "url": "https://zenn.dev/akari1106/articles/9d2abbc63a4abb",
+    "sent_at": "2026-08-11T22:30:42.255969+00:00"
+  },
+  {
+    "url": "https://zenn.dev/ikuosaito1989/articles/47a9b4d4177d87",
+    "sent_at": "2026-08-11T22:30:42.255969+00:00"
   }
 ]
