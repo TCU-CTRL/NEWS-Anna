@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2024/12/13/191443",
-    "sent_at": "2026-07-12T22:31:40.797230+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
-    "sent_at": "2026-07-12T22:31:40.797230+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
-    "sent_at": "2026-07-12T22:31:40.797230+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
-    "sent_at": "2026-07-12T22:31:40.797230+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
-    "sent_at": "2026-07-12T22:31:40.797230+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
-    "sent_at": "2026-07-12T22:31:40.797230+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/08/14/000155",
-    "sent_at": "2026-07-12T22:31:40.797230+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/03/06/013924",
-    "sent_at": "2026-07-12T22:31:40.797230+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-    "sent_at": "2026-07-12T22:31:40.797230+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
-    "sent_at": "2026-07-12T22:31:40.797230+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/07/13/123024",
     "sent_at": "2026-07-13T22:31:28.234107+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
     "sent_at": "2026-08-11T22:30:55.713126+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+    "sent_at": "2026-08-12T22:30:51.929544+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+    "sent_at": "2026-08-12T22:30:51.929544+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+    "sent_at": "2026-08-12T22:30:51.929544+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+    "sent_at": "2026-08-12T22:30:51.929544+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+    "sent_at": "2026-08-12T22:30:51.929544+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+    "sent_at": "2026-08-12T22:30:51.929544+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188685",
+    "sent_at": "2026-08-12T22:30:51.929544+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+    "sent_at": "2026-08-12T22:30:51.929544+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188663",
+    "sent_at": "2026-08-12T22:30:51.929544+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+    "sent_at": "2026-08-12T22:30:51.929544+00:00"
   }
 ]

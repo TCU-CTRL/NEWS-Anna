@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://zenn.dev/seiuchi3939/articles/b12d6746d9f187",
-    "sent_at": "2026-07-12T22:31:30.330015+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/13/news024.html",
-    "sent_at": "2026-07-12T22:31:30.330015+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2607/13/news012.html",
-    "sent_at": "2026-07-12T22:31:30.330015+00:00"
-  },
-  {
-    "url": "https://qiita.com/suzukengo/items/36194332bf30137b9ac5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-12T22:31:30.330015+00:00"
-  },
-  {
-    "url": "https://qiita.com/n-okutomi/items/2ee94d9138f7184aa5c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-12T22:31:30.330015+00:00"
-  },
-  {
-    "url": "https://qiita.com/sescore/items/775341ba6f0d106fd7d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-12T22:31:30.330015+00:00"
-  },
-  {
-    "url": "https://qiita.com/katoriko/items/ce46a3b81793acb3724c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-12T22:31:30.330015+00:00"
-  },
-  {
-    "url": "https://qiita.com/araidon/items/a0400d165a840ced1eff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-12T22:31:30.330015+00:00"
-  },
-  {
-    "url": "https://zenn.dev/unsoluble_sugar/articles/a6fb2c3efd5a66",
-    "sent_at": "2026-07-12T22:31:30.330015+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2607/13/news032.html",
-    "sent_at": "2026-07-12T22:31:30.330015+00:00"
-  },
-  {
     "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
     "sent_at": "2026-07-13T22:31:15.606773+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://zenn.dev/ikuosaito1989/articles/47a9b4d4177d87",
     "sent_at": "2026-08-11T22:30:42.255969+00:00"
+  },
+  {
+    "url": "https://knownagents.com/insights",
+    "sent_at": "2026-08-12T22:30:43.369801+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
+    "sent_at": "2026-08-12T22:30:43.369801+00:00"
+  },
+  {
+    "url": "https://zenn.dev/kibe/articles/df74c2e9fe76b6",
+    "sent_at": "2026-08-12T22:30:43.369801+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
+    "sent_at": "2026-08-12T22:30:43.369801+00:00"
+  },
+  {
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "sent_at": "2026-08-12T22:30:43.369801+00:00"
+  },
+  {
+    "url": "https://zenn.dev/phpmyadmin/articles/used-server-gpu-local-llm",
+    "sent_at": "2026-08-12T22:30:43.369801+00:00"
+  },
+  {
+    "url": "https://zenn.dev/naofumik/articles/4fdfcbb5cf083e",
+    "sent_at": "2026-08-12T22:30:43.369801+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000518/",
+    "sent_at": "2026-08-12T22:30:43.369801+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2608/12/news046.html",
+    "sent_at": "2026-08-12T22:30:43.369801+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2608/12/news047.html",
+    "sent_at": "2026-08-12T22:30:43.369801+00:00"
   }
 ]
