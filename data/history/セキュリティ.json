@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/13/123024",
-    "sent_at": "2026-07-13T22:31:28.234107+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-    "sent_at": "2026-07-13T22:31:28.234107+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-    "sent_at": "2026-07-13T22:31:28.234107+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-    "sent_at": "2026-07-13T22:31:28.234107+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187193",
-    "sent_at": "2026-07-13T22:31:28.234107+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187197",
-    "sent_at": "2026-07-13T22:31:28.234107+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
-    "sent_at": "2026-07-13T22:31:28.234107+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
-    "sent_at": "2026-07-13T22:31:28.234107+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
-    "sent_at": "2026-07-13T22:31:28.234107+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187195",
-    "sent_at": "2026-07-13T22:31:28.234107+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
     "sent_at": "2026-07-14T22:31:25.651942+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
     "sent_at": "2026-08-12T22:30:51.929544+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/13/123024",
+    "sent_at": "2026-08-13T22:30:58.740475+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/13/073841",
+    "sent_at": "2026-08-13T22:30:58.740475+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+    "sent_at": "2026-08-13T22:30:58.740475+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/newsflash/2026081301.html",
+    "sent_at": "2026-08-13T22:30:58.740475+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188759",
+    "sent_at": "2026-08-13T22:30:58.740475+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188742",
+    "sent_at": "2026-08-13T22:30:58.740475+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+    "sent_at": "2026-08-13T22:30:58.740475+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
+    "sent_at": "2026-08-13T22:30:58.740475+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188757",
+    "sent_at": "2026-08-13T22:30:58.740475+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+    "sent_at": "2026-08-13T22:30:58.740475+00:00"
   }
 ]

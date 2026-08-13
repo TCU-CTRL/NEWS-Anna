@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-    "sent_at": "2026-07-13T22:31:15.606773+00:00"
-  },
-  {
-    "url": "https://zenn.dev/iwaken71/articles/cursor-agent-d-drive-deleted",
-    "sent_at": "2026-07-13T22:31:15.606773+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/11/news013.html",
-    "sent_at": "2026-07-13T22:31:15.606773+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
-    "sent_at": "2026-07-13T22:31:15.606773+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/13/news081.html",
-    "sent_at": "2026-07-13T22:31:15.606773+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/13/news061.html",
-    "sent_at": "2026-07-13T22:31:15.606773+00:00"
-  },
-  {
-    "url": "https://github.com/morganwilliscloud/billai-bass",
-    "sent_at": "2026-07-13T22:31:15.606773+00:00"
-  },
-  {
-    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-    "sent_at": "2026-07-13T22:31:15.606773+00:00"
-  },
-  {
-    "url": "https://qiita.com/minorun365/items/699e89544da8b0de300d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-13T22:31:15.606773+00:00"
-  },
-  {
-    "url": "https://qiita.com/nogataka/items/6cd8c6ea583221e45def?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-13T22:31:15.606773+00:00"
-  },
-  {
     "url": "https://agnost.ai",
     "sent_at": "2026-07-14T22:31:16.288594+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.itmedia.co.jp/mobile/articles/2608/12/news047.html",
     "sent_at": "2026-08-12T22:30:43.369801+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2608/13/news003.html",
+    "sent_at": "2026-08-13T22:30:46.605894+00:00"
+  },
+  {
+    "url": "https://zenn.dev/murasanlab/books/dcf7ed4826a797",
+    "sent_at": "2026-08-13T22:30:46.605894+00:00"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "sent_at": "2026-08-13T22:30:46.605894+00:00"
+  },
+  {
+    "url": "https://zenn.dev/hellorusk/articles/3328866ca9e922",
+    "sent_at": "2026-08-13T22:30:46.605894+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/12/news033.html",
+    "sent_at": "2026-08-13T22:30:46.605894+00:00"
+  },
+  {
+    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "sent_at": "2026-08-13T22:30:46.605894+00:00"
+  },
+  {
+    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+    "sent_at": "2026-08-13T22:30:46.605894+00:00"
+  },
+  {
+    "url": "https://zenn.dev/hako_hako/books/nexus-product-new-development",
+    "sent_at": "2026-08-13T22:30:46.605894+00:00"
+  },
+  {
+    "url": "https://qiita.com/M_Ozu/items/346f6c8ab4b662a08f3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-13T22:30:46.605894+00:00"
+  },
+  {
+    "url": "https://qiita.com/hiroto15/items/ea3acc4277a52f8ac468?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-13T22:30:46.605894+00:00"
   }
 ]
