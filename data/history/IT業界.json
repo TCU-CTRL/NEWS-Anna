@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://agnost.ai",
-    "sent_at": "2026-07-14T22:31:16.288594+00:00"
-  },
-  {
-    "url": "https://zenn.dev/aircloset/articles/3b8e60fcaab4b7",
-    "sent_at": "2026-07-14T22:31:16.288594+00:00"
-  },
-  {
-    "url": "https://zenn.dev/hacobell_dev/articles/369ff476324aae",
-    "sent_at": "2026-07-14T22:31:16.288594+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/14/news104.html",
-    "sent_at": "2026-07-14T22:31:16.288594+00:00"
-  },
-  {
-    "url": "https://qiita.com/mu2in/items/230ed5f9fb2d9da8c309?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-14T22:31:16.288594+00:00"
-  },
-  {
-    "url": "https://zenn.dev/neet/articles/11bafab8645995",
-    "sent_at": "2026-07-14T22:31:16.288594+00:00"
-  },
-  {
-    "url": "https://zenn.dev/r_kaga/articles/c9fcb75f1ff284",
-    "sent_at": "2026-07-14T22:31:16.288594+00:00"
-  },
-  {
-    "url": "https://gwern.net/guardian-angel",
-    "sent_at": "2026-07-14T22:31:16.288594+00:00"
-  },
-  {
-    "url": "https://qiita.com/maskot1977/items/de4d2912e11f63ad49b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-14T22:31:16.288594+00:00"
-  },
-  {
-    "url": "https://zenn.dev/knowledgesense/articles/67c61463d9c664",
-    "sent_at": "2026-07-14T22:31:16.288594+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/enterprise/articles/2607/16/news033.html",
     "sent_at": "2026-07-15T22:31:10.721841+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://qiita.com/hiroto15/items/ea3acc4277a52f8ac468?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-08-13T22:30:46.605894+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2608/14/news067.html",
+    "sent_at": "2026-08-14T22:30:38.540753+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2608/14/news083.html",
+    "sent_at": "2026-08-14T22:30:38.540753+00:00"
+  },
+  {
+    "url": "https://github.com/lajosdeme/mole",
+    "sent_at": "2026-08-14T22:30:38.540753+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.12700",
+    "sent_at": "2026-08-14T22:30:38.540753+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2608/14/news053.html",
+    "sent_at": "2026-08-14T22:30:38.540753+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/14/news023.html",
+    "sent_at": "2026-08-14T22:30:38.540753+00:00"
+  },
+  {
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "sent_at": "2026-08-14T22:30:38.540753+00:00"
+  },
+  {
+    "url": "https://qiita.com/mhamadajp/items/7b159e09813f4c99a513?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-14T22:30:38.540753+00:00"
+  },
+  {
+    "url": "https://qiita.com/tkmt0322/items/60956fb3f8390a58c6b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-14T22:30:38.540753+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2608/14/news071.html",
+    "sent_at": "2026-08-14T22:30:38.540753+00:00"
   }
 ]
