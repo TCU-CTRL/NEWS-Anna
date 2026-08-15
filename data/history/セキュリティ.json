@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
-    "sent_at": "2026-07-15T22:31:20.495257+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187363",
-    "sent_at": "2026-07-15T22:31:20.495257+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
-    "sent_at": "2026-07-15T22:31:20.495257+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
-    "sent_at": "2026-07-15T22:31:20.495257+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
-    "sent_at": "2026-07-15T22:31:20.495257+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187350",
-    "sent_at": "2026-07-15T22:31:20.495257+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-    "sent_at": "2026-07-15T22:31:20.495257+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
-    "sent_at": "2026-07-15T22:31:20.495257+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
-    "sent_at": "2026-07-15T22:31:20.495257+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-    "sent_at": "2026-07-15T22:31:20.495257+00:00"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
     "sent_at": "2026-07-16T22:31:25.719982+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
     "sent_at": "2026-08-14T22:30:48.222029+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/15/075403",
+    "sent_at": "2026-08-15T22:30:49.375565+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260024.html",
+    "sent_at": "2026-08-15T22:30:49.375565+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/31/171928",
+    "sent_at": "2026-08-15T22:30:49.375565+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260023.html",
+    "sent_at": "2026-08-15T22:30:49.375565+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#6",
+    "sent_at": "2026-08-15T22:30:49.375565+00:00"
+  },
+  {
+    "url": "https://jvn.jp/vu/JVNVU96623328/",
+    "sent_at": "2026-08-15T22:30:49.375565+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
+    "sent_at": "2026-08-15T22:30:49.375565+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#2",
+    "sent_at": "2026-08-15T22:30:49.375565+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#7",
+    "sent_at": "2026-08-15T22:30:49.375565+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#8",
+    "sent_at": "2026-08-15T22:30:49.375565+00:00"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/16/news033.html",
-    "sent_at": "2026-07-15T22:31:10.721841+00:00"
-  },
-  {
-    "url": "https://qiita.com/nomurasan/items/63654a3f9457a8b5ed35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-15T22:31:10.721841+00:00"
-  },
-  {
-    "url": "https://brainless.swerdlow.dev",
-    "sent_at": "2026-07-15T22:31:10.721841+00:00"
-  },
-  {
-    "url": "https://qiita.com/jinxin4869/items/1ee0282bd44b0376f8af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-15T22:31:10.721841+00:00"
-  },
-  {
-    "url": "https://qiita.com/archeleeds/items/2efad73069b54288deb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-15T22:31:10.721841+00:00"
-  },
-  {
-    "url": "https://zenn.dev/takkuhiro/articles/agent-as-a-judge-necessity",
-    "sent_at": "2026-07-15T22:31:10.721841+00:00"
-  },
-  {
-    "url": "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint",
-    "sent_at": "2026-07-15T22:31:10.721841+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2607/16/news025.html",
-    "sent_at": "2026-07-15T22:31:10.721841+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2607/16/news014.html",
-    "sent_at": "2026-07-15T22:31:10.721841+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2607/15/news075.html",
-    "sent_at": "2026-07-15T22:31:10.721841+00:00"
-  },
-  {
     "url": "https://news.ycombinator.com/item?id=48937020",
     "sent_at": "2026-07-16T22:31:08.555867+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.itmedia.co.jp/mobile/articles/2608/14/news071.html",
     "sent_at": "2026-08-14T22:30:38.540753+00:00"
+  },
+  {
+    "url": "https://qiita.com/tomada/items/0bfbaffce6fae70be17f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-15T22:30:39.959910+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2608/15/news017.html",
+    "sent_at": "2026-08-15T22:30:39.959910+00:00"
+  },
+  {
+    "url": "https://qiita.com/haru-qiita/items/e00ebc98c598a1c4411a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-15T22:30:39.959910+00:00"
+  },
+  {
+    "url": "https://zenn.dev/colum2131/articles/46b5560dce0e3a",
+    "sent_at": "2026-08-15T22:30:39.959910+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2608/16/news009.html",
+    "sent_at": "2026-08-15T22:30:39.959910+00:00"
+  },
+  {
+    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "sent_at": "2026-08-15T22:30:39.959910+00:00"
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+    "sent_at": "2026-08-15T22:30:39.959910+00:00"
+  },
+  {
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "sent_at": "2026-08-15T22:30:39.959910+00:00"
+  },
+  {
+    "url": "https://www.nature.com/articles/d41586-026-02448-x",
+    "sent_at": "2026-08-15T22:30:39.959910+00:00"
+  },
+  {
+    "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+    "sent_at": "2026-08-15T22:30:39.959910+00:00"
   }
 ]
