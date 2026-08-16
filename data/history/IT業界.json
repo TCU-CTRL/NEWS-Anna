@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://news.ycombinator.com/item?id=48937020",
-    "sent_at": "2026-07-16T22:31:08.555867+00:00"
-  },
-  {
-    "url": "https://libretto.sh/debug-agents",
-    "sent_at": "2026-07-16T22:31:08.555867+00:00"
-  },
-  {
-    "url": "https://zenn.dev/optimisuke/articles/8f2ce41b9a7d30",
-    "sent_at": "2026-07-16T22:31:08.555867+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2607/17/news003.html",
-    "sent_at": "2026-07-16T22:31:08.555867+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2607/16/news094.html",
-    "sent_at": "2026-07-16T22:31:08.555867+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2607/16/news032.html",
-    "sent_at": "2026-07-16T22:31:08.555867+00:00"
-  },
-  {
-    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "sent_at": "2026-07-16T22:31:08.555867+00:00"
-  },
-  {
-    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-    "sent_at": "2026-07-16T22:31:08.555867+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2607/17/news041.html",
-    "sent_at": "2026-07-16T22:31:08.555867+00:00"
-  },
-  {
-    "url": "https://qiita.com/y_abe_bc/items/02617ceb3fb71464dd04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-16T22:31:08.555867+00:00"
-  },
-  {
     "url": "https://zenn.dev/aldagram_tech/articles/c407ae672c9c0e",
     "sent_at": "2026-07-17T22:31:08.590799+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
     "sent_at": "2026-08-15T22:30:39.959910+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2608/17/news055.html",
+    "sent_at": "2026-08-16T22:30:39.168553+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
+    "sent_at": "2026-08-16T22:30:39.168553+00:00"
+  },
+  {
+    "url": "https://qiita.com/Maruhoppe8/items/70b9777bac0159c840ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-16T22:30:39.168553+00:00"
+  },
+  {
+    "url": "https://qiita.com/helloworld_0203/items/2f076de853266d6c8325?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-16T22:30:39.168553+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49324078",
+    "sent_at": "2026-08-16T22:30:39.168553+00:00"
+  },
+  {
+    "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+    "sent_at": "2026-08-16T22:30:39.168553+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49322107",
+    "sent_at": "2026-08-16T22:30:39.168553+00:00"
+  },
+  {
+    "url": "https://qiita.com/minorun365/items/320b4230c0b0c169ba13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-16T22:30:39.168553+00:00"
+  },
+  {
+    "url": "https://qiita.com/heurekaijoh/items/5b4004dcc3e854b413d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-16T22:30:39.168553+00:00"
+  },
+  {
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "sent_at": "2026-08-16T22:30:39.168553+00:00"
   }
 ]

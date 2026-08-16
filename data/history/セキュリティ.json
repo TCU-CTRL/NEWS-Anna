@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
-    "sent_at": "2026-07-16T22:31:25.719982+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
-    "sent_at": "2026-07-16T22:31:25.719982+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
-    "sent_at": "2026-07-16T22:31:25.719982+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
-    "sent_at": "2026-07-16T22:31:25.719982+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
-    "sent_at": "2026-07-16T22:31:25.719982+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/17/065349",
-    "sent_at": "2026-07-16T22:31:25.719982+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
-    "sent_at": "2026-07-16T22:31:25.719982+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187478",
-    "sent_at": "2026-07-16T22:31:25.719982+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187449",
-    "sent_at": "2026-07-16T22:31:25.719982+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
-    "sent_at": "2026-07-16T22:31:25.719982+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
     "sent_at": "2026-07-17T22:31:16.532297+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#8",
     "sent_at": "2026-08-15T22:30:49.375565+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/17/053005",
+    "sent_at": "2026-08-16T22:30:49.613539+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/17/065349",
+    "sent_at": "2026-08-16T22:30:49.613539+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+    "sent_at": "2026-08-16T22:30:49.613539+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
+    "sent_at": "2026-08-16T22:30:49.613539+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
+    "sent_at": "2026-08-16T22:30:49.613539+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+    "sent_at": "2026-08-16T22:30:49.613539+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+    "sent_at": "2026-08-16T22:30:49.613539+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
+    "sent_at": "2026-08-16T22:30:49.613539+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/14/020048",
+    "sent_at": "2026-08-16T22:30:49.613539+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188817",
+    "sent_at": "2026-08-16T22:30:49.613539+00:00"
   }
 ]
