@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-    "sent_at": "2026-07-17T22:31:16.532297+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
-    "sent_at": "2026-07-17T22:31:16.532297+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
-    "sent_at": "2026-07-17T22:31:16.532297+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187537",
-    "sent_at": "2026-07-17T22:31:16.532297+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-    "sent_at": "2026-07-17T22:31:16.532297+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187509",
-    "sent_at": "2026-07-17T22:31:16.532297+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-    "sent_at": "2026-07-17T22:31:16.532297+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
-    "sent_at": "2026-07-17T22:31:16.532297+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
-    "sent_at": "2026-07-17T22:31:16.532297+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
-    "sent_at": "2026-07-17T22:31:16.532297+00:00"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
     "sent_at": "2026-07-18T22:31:05.662258+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/188817",
     "sent_at": "2026-08-16T22:30:49.613539+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
+    "sent_at": "2026-08-17T22:30:51.970239+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+    "sent_at": "2026-08-17T22:30:51.970239+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+    "sent_at": "2026-08-17T22:30:51.970239+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188915",
+    "sent_at": "2026-08-17T22:30:51.970239+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+    "sent_at": "2026-08-17T22:30:51.970239+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+    "sent_at": "2026-08-17T22:30:51.970239+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+    "sent_at": "2026-08-17T22:30:51.970239+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+    "sent_at": "2026-08-17T22:30:51.970239+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+    "sent_at": "2026-08-17T22:30:51.970239+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188892",
+    "sent_at": "2026-08-17T22:30:51.970239+00:00"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://zenn.dev/aldagram_tech/articles/c407ae672c9c0e",
-    "sent_at": "2026-07-17T22:31:08.590799+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/17/news088.html",
-    "sent_at": "2026-07-17T22:31:08.590799+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/17/news079.html",
-    "sent_at": "2026-07-17T22:31:08.590799+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/17/news065.html",
-    "sent_at": "2026-07-17T22:31:08.590799+00:00"
-  },
-  {
-    "url": "https://zenn.dev/loglass/articles/6aa18c80496ec6",
-    "sent_at": "2026-07-17T22:31:08.590799+00:00"
-  },
-  {
-    "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-    "sent_at": "2026-07-17T22:31:08.590799+00:00"
-  },
-  {
-    "url": "https://qiita.com/shivvvvvv/items/d9f0617a4e46c282d52a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-17T22:31:08.590799+00:00"
-  },
-  {
-    "url": "https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-17T22:31:08.590799+00:00"
-  },
-  {
-    "url": "https://qiita.com/koutaro_harada/items/eaa20d6b64457bf7476f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-17T22:31:08.590799+00:00"
-  },
-  {
-    "url": "https://zenn.dev/sonicmoov/articles/8712598f532b18",
-    "sent_at": "2026-07-17T22:31:08.590799+00:00"
-  },
-  {
     "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
     "sent_at": "2026-07-18T22:30:57.844660+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
     "sent_at": "2026-08-16T22:30:39.168553+00:00"
+  },
+  {
+    "url": "https://speko.ai/",
+    "sent_at": "2026-08-17T22:30:42.893738+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000572/",
+    "sent_at": "2026-08-17T22:30:42.893738+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2608/17/news081.html",
+    "sent_at": "2026-08-17T22:30:42.893738+00:00"
+  },
+  {
+    "url": "https://zenn.dev/dev_jp/articles/da537a095f13da",
+    "sent_at": "2026-08-17T22:30:42.893738+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
+    "sent_at": "2026-08-17T22:30:42.893738+00:00"
+  },
+  {
+    "url": "https://qiita.com/kurogoma939/items/565588e1b1dc66012b79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-17T22:30:42.893738+00:00"
+  },
+  {
+    "url": "https://zenn.dev/aws_japan/articles/2b62886aa8735e",
+    "sent_at": "2026-08-17T22:30:42.893738+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2608/18/news033.html",
+    "sent_at": "2026-08-17T22:30:42.893738+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000570/",
+    "sent_at": "2026-08-17T22:30:42.893738+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/17/news071.html",
+    "sent_at": "2026-08-17T22:30:42.893738+00:00"
   }
 ]
