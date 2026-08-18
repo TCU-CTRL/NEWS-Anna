@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-    "sent_at": "2026-07-18T22:31:05.662258+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
-    "sent_at": "2026-07-18T22:31:05.662258+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
-    "sent_at": "2026-07-18T22:31:05.662258+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#16",
-    "sent_at": "2026-07-18T22:31:05.662258+00:00"
-  },
-  {
-    "url": "https://jvn.jp/vu/JVNVU95286373/",
-    "sent_at": "2026-07-18T22:31:05.662258+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/18/191222",
-    "sent_at": "2026-07-18T22:31:05.662258+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#11",
-    "sent_at": "2026-07-18T22:31:05.662258+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187553",
-    "sent_at": "2026-07-18T22:31:05.662258+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187544",
-    "sent_at": "2026-07-18T22:31:05.662258+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
-    "sent_at": "2026-07-18T22:31:05.662258+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/07/19/181822",
     "sent_at": "2026-07-19T22:31:07.638299+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/188892",
     "sent_at": "2026-08-17T22:30:51.970239+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+    "sent_at": "2026-08-18T22:30:48.470284+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
+    "sent_at": "2026-08-18T22:30:48.470284+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/18/145716",
+    "sent_at": "2026-08-18T22:30:48.470284+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188979",
+    "sent_at": "2026-08-18T22:30:48.470284+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188947",
+    "sent_at": "2026-08-18T22:30:48.470284+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
+    "sent_at": "2026-08-18T22:30:48.470284+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
+    "sent_at": "2026-08-18T22:30:48.470284+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
+    "sent_at": "2026-08-18T22:30:48.470284+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+    "sent_at": "2026-08-18T22:30:48.470284+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
+    "sent_at": "2026-08-18T22:30:48.470284+00:00"
   }
 ]

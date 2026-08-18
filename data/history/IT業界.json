@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "sent_at": "2026-07-18T22:30:57.844660+00:00"
-  },
-  {
-    "url": "https://zenn.dev/edash_tech_blog/articles/528ab6bd044c35",
-    "sent_at": "2026-07-18T22:30:57.844660+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
-    "sent_at": "2026-07-18T22:30:57.844660+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
-    "sent_at": "2026-07-18T22:30:57.844660+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/17/news105.html",
-    "sent_at": "2026-07-18T22:30:57.844660+00:00"
-  },
-  {
-    "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-    "sent_at": "2026-07-18T22:30:57.844660+00:00"
-  },
-  {
-    "url": "https://qiita.com/yousukezan/items/7c008947fa48a206882c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-18T22:30:57.844660+00:00"
-  },
-  {
-    "url": "https://zenn.dev/arufian/articles/4676070054c347",
-    "sent_at": "2026-07-18T22:30:57.844660+00:00"
-  },
-  {
-    "url": "https://qiita.com/shoko3168/items/e8985c8c5a040213ab72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-18T22:30:57.844660+00:00"
-  },
-  {
-    "url": "https://qiita.com/asahide/items/5d75ecb979504042bd8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-18T22:30:57.844660+00:00"
-  },
-  {
     "url": "https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide",
     "sent_at": "2026-07-19T22:30:54.513147+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.itmedia.co.jp/enterprise/articles/2608/17/news071.html",
     "sent_at": "2026-08-17T22:30:42.893738+00:00"
+  },
+  {
+    "url": "https://machine0.io",
+    "sent_at": "2026-08-18T22:30:39.210539+00:00"
+  },
+  {
+    "url": "https://github.com/biw/keychain-store",
+    "sent_at": "2026-08-18T22:30:39.210539+00:00"
+  },
+  {
+    "url": "https://zenn.dev/tsukulink/articles/2026-08-workspace-studio-support-bot",
+    "sent_at": "2026-08-18T22:30:39.210539+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000600/",
+    "sent_at": "2026-08-18T22:30:39.210539+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000580/",
+    "sent_at": "2026-08-18T22:30:39.210539+00:00"
+  },
+  {
+    "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+    "sent_at": "2026-08-18T22:30:39.210539+00:00"
+  },
+  {
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+    "sent_at": "2026-08-18T22:30:39.210539+00:00"
+  },
+  {
+    "url": "https://qiita.com/haystacker/items/853234c38ae36adbca1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-18T22:30:39.210539+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
+    "sent_at": "2026-08-18T22:30:39.210539+00:00"
+  },
+  {
+    "url": "https://qiita.com/take-yoda/items/4f561e8ad7c069c71001?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-18T22:30:39.210539+00:00"
   }
 ]
