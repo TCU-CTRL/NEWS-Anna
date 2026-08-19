@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/19/181822",
-    "sent_at": "2026-07-19T22:31:07.638299+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
-    "sent_at": "2026-07-19T22:31:07.638299+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-    "sent_at": "2026-07-19T22:31:07.638299+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
-    "sent_at": "2026-07-19T22:31:07.638299+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-    "sent_at": "2026-07-19T22:31:07.638299+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
-    "sent_at": "2026-07-19T22:31:07.638299+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
-    "sent_at": "2026-07-19T22:31:07.638299+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
-    "sent_at": "2026-07-19T22:31:07.638299+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032",
-    "sent_at": "2026-07-19T22:31:07.638299+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260715.html#15",
-    "sent_at": "2026-07-19T22:31:07.638299+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
     "sent_at": "2026-07-20T22:31:03.150536+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
     "sent_at": "2026-08-18T22:30:48.470284+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/19/181822",
+    "sent_at": "2026-08-19T22:30:53.650711+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+    "sent_at": "2026-08-19T22:30:53.650711+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/20/023850",
+    "sent_at": "2026-08-19T22:30:53.650711+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+    "sent_at": "2026-08-19T22:30:53.650711+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#3",
+    "sent_at": "2026-08-19T22:30:53.650711+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#12",
+    "sent_at": "2026-08-19T22:30:53.650711+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+    "sent_at": "2026-08-19T22:30:53.650711+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/19/101739",
+    "sent_at": "2026-08-19T22:30:53.650711+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#14",
+    "sent_at": "2026-08-19T22:30:53.650711+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189013",
+    "sent_at": "2026-08-19T22:30:53.650711+00:00"
   }
 ]
