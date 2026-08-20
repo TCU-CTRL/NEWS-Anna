@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-    "sent_at": "2026-07-20T22:31:03.150536+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-    "sent_at": "2026-07-20T22:31:03.150536+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-    "sent_at": "2026-07-20T22:31:03.150536+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-    "sent_at": "2026-07-20T22:31:03.150536+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-    "sent_at": "2026-07-20T22:31:03.150536+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-    "sent_at": "2026-07-20T22:31:03.150536+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-    "sent_at": "2026-07-20T22:31:03.150536+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-    "sent_at": "2026-07-20T22:31:03.150536+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
-    "sent_at": "2026-07-20T22:31:03.150536+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-    "sent_at": "2026-07-20T22:31:03.150536+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
     "sent_at": "2026-07-21T22:30:50.642935+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/189013",
     "sent_at": "2026-08-19T22:30:53.650711+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+    "sent_at": "2026-08-20T22:30:49.904442+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
+    "sent_at": "2026-08-20T22:30:49.904442+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+    "sent_at": "2026-08-20T22:30:49.904442+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
+    "sent_at": "2026-08-20T22:30:49.904442+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+    "sent_at": "2026-08-20T22:30:49.904442+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+    "sent_at": "2026-08-20T22:30:49.904442+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+    "sent_at": "2026-08-20T22:30:49.904442+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
+    "sent_at": "2026-08-20T22:30:49.904442+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189101",
+    "sent_at": "2026-08-20T22:30:49.904442+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189122",
+    "sent_at": "2026-08-20T22:30:49.904442+00:00"
   }
 ]

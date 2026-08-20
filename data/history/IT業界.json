@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://news.ycombinator.com/item?id=48981136",
-    "sent_at": "2026-07-20T22:30:53.922056+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
-    "sent_at": "2026-07-20T22:30:53.922056+00:00"
-  },
-  {
-    "url": "https://qiita.com/jw-automation/items/7a2f85593a2e2ba71306?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-20T22:30:53.922056+00:00"
-  },
-  {
-    "url": "https://qiita.com/sphereSky/items/995f987058a77b49fca3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-20T22:30:53.922056+00:00"
-  },
-  {
-    "url": "https://qiita.com/maskot1977/items/02357fd5b91be7b806cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-20T22:30:53.922056+00:00"
-  },
-  {
-    "url": "https://qiita.com/keisuke_fukuchi/items/c7ab9d18084b90686612?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-20T22:30:53.922056+00:00"
-  },
-  {
-    "url": "https://qiita.com/sphereSky/items/33b5047ed11651c10f91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-20T22:30:53.922056+00:00"
-  },
-  {
-    "url": "https://zenn.dev/mini_bg_pro_n/articles/d2c5d965ac068a",
-    "sent_at": "2026-07-20T22:30:53.922056+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2607/21/news036.html",
-    "sent_at": "2026-07-20T22:30:53.922056+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2607/21/news049.html",
-    "sent_at": "2026-07-20T22:30:53.922056+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/mobile/articles/2607/21/news113.html",
     "sent_at": "2026-07-21T22:30:41.598046+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://zenn.dev/finatext/articles/0d1e6dd99ec34d",
     "sent_at": "2026-08-19T22:30:42.595537+00:00"
+  },
+  {
+    "url": "https://zenn.dev/yujif/articles/90696ac3f098e2",
+    "sent_at": "2026-08-20T22:30:40.204731+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
+    "sent_at": "2026-08-20T22:30:40.204731+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2608/20/news079.html",
+    "sent_at": "2026-08-20T22:30:40.204731+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2608/20/news088.html",
+    "sent_at": "2026-08-20T22:30:40.204731+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000634/",
+    "sent_at": "2026-08-20T22:30:40.204731+00:00"
+  },
+  {
+    "url": "https://github.com/zachahn/vomit",
+    "sent_at": "2026-08-20T22:30:40.204731+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
+    "sent_at": "2026-08-20T22:30:40.204731+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000639/",
+    "sent_at": "2026-08-20T22:30:40.204731+00:00"
+  },
+  {
+    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+    "sent_at": "2026-08-20T22:30:40.204731+00:00"
+  },
+  {
+    "url": "https://qiita.com/y_abe_bc/items/d46dfb07c9599a487fbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-20T22:30:40.204731+00:00"
   }
 ]
