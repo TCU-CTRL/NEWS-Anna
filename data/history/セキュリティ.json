@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-    "sent_at": "2026-07-21T22:30:50.642935+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-    "sent_at": "2026-07-21T22:30:50.642935+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187598",
-    "sent_at": "2026-07-21T22:30:50.642935+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-    "sent_at": "2026-07-21T22:30:50.642935+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-    "sent_at": "2026-07-21T22:30:50.642935+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-    "sent_at": "2026-07-21T22:30:50.642935+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-    "sent_at": "2026-07-21T22:30:50.642935+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
-    "sent_at": "2026-07-21T22:30:50.642935+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187649",
-    "sent_at": "2026-07-21T22:30:50.642935+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187576",
-    "sent_at": "2026-07-21T22:30:50.642935+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
     "sent_at": "2026-07-22T22:30:53.908894+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/189122",
     "sent_at": "2026-08-20T22:30:49.904442+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+    "sent_at": "2026-08-21T22:30:47.950503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+    "sent_at": "2026-08-21T22:30:47.950503+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/22/033313",
+    "sent_at": "2026-08-21T22:30:47.950503+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+    "sent_at": "2026-08-21T22:30:47.950503+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189206",
+    "sent_at": "2026-08-21T22:30:47.950503+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189049",
+    "sent_at": "2026-08-21T22:30:47.950503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+    "sent_at": "2026-08-21T22:30:47.950503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+    "sent_at": "2026-08-21T22:30:47.950503+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
+    "sent_at": "2026-08-21T22:30:47.950503+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+    "sent_at": "2026-08-21T22:30:47.950503+00:00"
   }
 ]

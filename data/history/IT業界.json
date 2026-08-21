@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2607/21/news113.html",
-    "sent_at": "2026-07-21T22:30:41.598046+00:00"
-  },
-  {
-    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-    "sent_at": "2026-07-21T22:30:41.598046+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2607/22/news028.html",
-    "sent_at": "2026-07-21T22:30:41.598046+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2607/21/news093.html",
-    "sent_at": "2026-07-21T22:30:41.598046+00:00"
-  },
-  {
-    "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-    "sent_at": "2026-07-21T22:30:41.598046+00:00"
-  },
-  {
-    "url": "https://libretto.sh/browser-tools",
-    "sent_at": "2026-07-21T22:30:41.598046+00:00"
-  },
-  {
-    "url": "https://zenn.dev/takkuhiro/articles/eval-as-reward-rl-mechanics",
-    "sent_at": "2026-07-21T22:30:41.598046+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/21/news099.html",
-    "sent_at": "2026-07-21T22:30:41.598046+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/20/news007.html",
-    "sent_at": "2026-07-21T22:30:41.598046+00:00"
-  },
-  {
-    "url": "https://github.com/Kalcode/spaceprojectsim",
-    "sent_at": "2026-07-21T22:30:41.598046+00:00"
-  },
-  {
     "url": "https://cruciblebench.ai/",
     "sent_at": "2026-07-22T22:30:45.535636+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://qiita.com/y_abe_bc/items/d46dfb07c9599a487fbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-08-20T22:30:40.204731+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/",
+    "sent_at": "2026-08-21T22:30:38.905280+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/21/news019.html",
+    "sent_at": "2026-08-21T22:30:38.905280+00:00"
+  },
+  {
+    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+    "sent_at": "2026-08-21T22:30:38.905280+00:00"
+  },
+  {
+    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+    "sent_at": "2026-08-21T22:30:38.905280+00:00"
+  },
+  {
+    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+    "sent_at": "2026-08-21T22:30:38.905280+00:00"
+  },
+  {
+    "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+    "sent_at": "2026-08-21T22:30:38.905280+00:00"
+  },
+  {
+    "url": "https://qiita.com/a_sato_JQIT/items/a82fccf6d52c05156384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-21T22:30:38.905280+00:00"
+  },
+  {
+    "url": "https://zenn.dev/rb_engineering/articles/f5e5fa60ae0d96",
+    "sent_at": "2026-08-21T22:30:38.905280+00:00"
+  },
+  {
+    "url": "https://zenn.dev/mizchi/articles/quint-application-modeling",
+    "sent_at": "2026-08-21T22:30:38.905280+00:00"
+  },
+  {
+    "url": "https://zenn.dev/dev_commune/articles/acb91817341f8f",
+    "sent_at": "2026-08-21T22:30:38.905280+00:00"
   }
 ]
