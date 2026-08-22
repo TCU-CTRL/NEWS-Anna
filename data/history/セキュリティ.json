@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
-    "sent_at": "2026-07-22T22:30:53.908894+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
-    "sent_at": "2026-07-22T22:30:53.908894+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
-    "sent_at": "2026-07-22T22:30:53.908894+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
-    "sent_at": "2026-07-22T22:30:53.908894+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187672",
-    "sent_at": "2026-07-22T22:30:53.908894+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-    "sent_at": "2026-07-22T22:30:53.908894+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187662",
-    "sent_at": "2026-07-22T22:30:53.908894+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-    "sent_at": "2026-07-22T22:30:53.908894+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
-    "sent_at": "2026-07-22T22:30:53.908894+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-    "sent_at": "2026-07-22T22:30:53.908894+00:00"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
     "sent_at": "2026-07-23T22:30:53.263913+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
     "sent_at": "2026-08-21T22:30:47.950503+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/23/033006",
+    "sent_at": "2026-08-22T22:30:48.985659+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#13",
+    "sent_at": "2026-08-22T22:30:48.985659+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+    "sent_at": "2026-08-22T22:30:48.985659+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189093",
+    "sent_at": "2026-08-22T22:30:48.985659+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+    "sent_at": "2026-08-22T22:30:48.985659+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+    "sent_at": "2026-08-22T22:30:48.985659+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189174",
+    "sent_at": "2026-08-22T22:30:48.985659+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+    "sent_at": "2026-08-22T22:30:48.985659+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+    "sent_at": "2026-08-22T22:30:48.985659+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189158",
+    "sent_at": "2026-08-22T22:30:48.985659+00:00"
   }
 ]

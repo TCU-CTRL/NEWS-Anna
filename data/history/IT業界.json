@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://cruciblebench.ai/",
-    "sent_at": "2026-07-22T22:30:45.535636+00:00"
-  },
-  {
-    "url": "https://bento.page/slides/",
-    "sent_at": "2026-07-22T22:30:45.535636+00:00"
-  },
-  {
-    "url": "https://unlayer.com",
-    "sent_at": "2026-07-22T22:30:45.535636+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2607/23/news029.html",
-    "sent_at": "2026-07-22T22:30:45.535636+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
-    "sent_at": "2026-07-22T22:30:45.535636+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2607/22/news116.html",
-    "sent_at": "2026-07-22T22:30:45.535636+00:00"
-  },
-  {
-    "url": "https://qiita.com/bbrfkr/items/03d5a65dd364c0fa5709?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-22T22:30:45.535636+00:00"
-  },
-  {
-    "url": "https://qiita.com/sumomoo/items/700e37b3240717217b37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-07-22T22:30:45.535636+00:00"
-  },
-  {
-    "url": "https://zenn.dev/serio/articles/c7cbdad5fc1dd1",
-    "sent_at": "2026-07-22T22:30:45.535636+00:00"
-  },
-  {
-    "url": "https://zenn.dev/green_tea/articles/e39e3726a449c9",
-    "sent_at": "2026-07-22T22:30:45.535636+00:00"
-  },
-  {
     "url": "https://news.ycombinator.com/item?id=49024620",
     "sent_at": "2026-07-23T22:30:45.612168+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://zenn.dev/dev_commune/articles/acb91817341f8f",
     "sent_at": "2026-08-21T22:30:38.905280+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2608/23/news005.html",
+    "sent_at": "2026-08-22T22:30:38.710079+00:00"
+  },
+  {
+    "url": "https://zenn.dev/holy_fox/articles/53b82eed45f956",
+    "sent_at": "2026-08-22T22:30:38.710079+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/22/news002.html",
+    "sent_at": "2026-08-22T22:30:38.710079+00:00"
+  },
+  {
+    "url": "https://zenn.dev/watany/articles/8809b00df25dab",
+    "sent_at": "2026-08-22T22:30:38.710079+00:00"
+  },
+  {
+    "url": "https://qiita.com/chaochire/items/80000bf7cf8bbe5b36ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-22T22:30:38.710079+00:00"
+  },
+  {
+    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+    "sent_at": "2026-08-22T22:30:38.710079+00:00"
+  },
+  {
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "sent_at": "2026-08-22T22:30:38.710079+00:00"
+  },
+  {
+    "url": "https://twitter.com/argofowl/status/2091150597374537729",
+    "sent_at": "2026-08-22T22:30:38.710079+00:00"
+  },
+  {
+    "url": "https://qiita.com/tomada/items/42537e0b14b38797d218?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-08-22T22:30:38.710079+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/",
+    "sent_at": "2026-08-22T22:30:38.710079+00:00"
   }
 ]
