@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-    "sent_at": "2026-07-23T22:30:53.263913+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
-    "sent_at": "2026-07-23T22:30:53.263913+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187759",
-    "sent_at": "2026-07-23T22:30:53.263913+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187737",
-    "sent_at": "2026-07-23T22:30:53.263913+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
-    "sent_at": "2026-07-23T22:30:53.263913+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-    "sent_at": "2026-07-23T22:30:53.263913+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
-    "sent_at": "2026-07-23T22:30:53.263913+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#5",
-    "sent_at": "2026-07-23T22:30:53.263913+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187303",
-    "sent_at": "2026-07-23T22:30:53.263913+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-    "sent_at": "2026-07-23T22:30:53.263913+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
     "sent_at": "2026-07-24T22:31:08.254513+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/189158",
     "sent_at": "2026-08-22T22:30:48.985659+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+    "sent_at": "2026-08-23T22:30:43.269203+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
+    "sent_at": "2026-08-23T22:30:43.269203+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+    "sent_at": "2026-08-23T22:30:43.269203+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+    "sent_at": "2026-08-23T22:30:43.269203+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189109",
+    "sent_at": "2026-08-23T22:30:43.269203+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189114",
+    "sent_at": "2026-08-23T22:30:43.269203+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
+    "sent_at": "2026-08-23T22:30:43.269203+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+    "sent_at": "2026-08-23T22:30:43.269203+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+    "sent_at": "2026-08-23T22:30:43.269203+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+    "sent_at": "2026-08-23T22:30:43.269203+00:00"
   }
 ]
