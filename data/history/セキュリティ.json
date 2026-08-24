@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
-    "sent_at": "2026-07-24T22:31:08.254513+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
-    "sent_at": "2026-07-24T22:31:08.254513+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-    "sent_at": "2026-07-24T22:31:08.254513+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187798",
-    "sent_at": "2026-07-24T22:31:08.254513+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187829",
-    "sent_at": "2026-07-24T22:31:08.254513+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
-    "sent_at": "2026-07-24T22:31:08.254513+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
-    "sent_at": "2026-07-24T22:31:08.254513+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-    "sent_at": "2026-07-24T22:31:08.254513+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-    "sent_at": "2026-07-24T22:31:08.254513+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#1",
-    "sent_at": "2026-07-24T22:31:08.254513+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-    "sent_at": "2026-07-25T22:30:46.784213+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-    "sent_at": "2026-07-25T22:30:46.784213+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-    "sent_at": "2026-07-25T22:30:46.784213+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-    "sent_at": "2026-07-25T22:30:46.784213+00:00"
-  },
-  {
-    "url": "https://jvn.jp/vu/JVNVU98875819/",
-    "sent_at": "2026-07-25T22:30:46.784213+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-    "sent_at": "2026-07-25T22:30:46.784213+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-    "sent_at": "2026-07-25T22:30:46.784213+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-    "sent_at": "2026-07-25T22:30:46.784213+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-    "sent_at": "2026-07-25T22:30:46.784213+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-    "sent_at": "2026-07-25T22:30:46.784213+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2025/12/08/113316",
     "sent_at": "2026-07-26T22:30:55.729274+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
     "sent_at": "2026-08-23T22:30:43.269203+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+    "sent_at": "2026-08-24T22:30:52.357345+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+    "sent_at": "2026-08-24T22:30:52.357345+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
+    "sent_at": "2026-08-24T22:30:52.357345+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+    "sent_at": "2026-08-24T22:30:52.357345+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189155",
+    "sent_at": "2026-08-24T22:30:52.357345+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+    "sent_at": "2026-08-24T22:30:52.357345+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+    "sent_at": "2026-08-24T22:30:52.357345+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189268",
+    "sent_at": "2026-08-24T22:30:52.357345+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189254",
+    "sent_at": "2026-08-24T22:30:52.357345+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/188144",
+    "sent_at": "2026-08-24T22:30:52.357345+00:00"
   }
 ]
