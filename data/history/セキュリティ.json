@@ -1198,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/188144",
     "sent_at": "2026-08-24T22:30:52.357345+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
+    "sent_at": "2026-08-25T22:30:44.649001+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+    "sent_at": "2026-08-25T22:30:44.649001+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+    "sent_at": "2026-08-25T22:30:44.649001+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
+    "sent_at": "2026-08-25T22:30:44.649001+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+    "sent_at": "2026-08-25T22:30:44.649001+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189386",
+    "sent_at": "2026-08-25T22:30:44.649001+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189331",
+    "sent_at": "2026-08-25T22:30:44.649001+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189322",
+    "sent_at": "2026-08-25T22:30:44.649001+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189348",
+    "sent_at": "2026-08-25T22:30:44.649001+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
+    "sent_at": "2026-08-25T22:30:44.649001+00:00"
   }
 ]
