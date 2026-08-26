@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/12/08/113316",
-    "sent_at": "2026-07-26T22:30:55.729274+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/05/31/010131",
-    "sent_at": "2026-07-26T22:30:55.729274+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/09/12/160227",
-    "sent_at": "2026-07-26T22:30:55.729274+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-    "sent_at": "2026-07-26T22:30:55.729274+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-    "sent_at": "2026-07-26T22:30:55.729274+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-    "sent_at": "2026-07-26T22:30:55.729274+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-    "sent_at": "2026-07-26T22:30:55.729274+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
-    "sent_at": "2026-07-26T22:30:55.729274+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-    "sent_at": "2026-07-26T22:30:55.729274+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260723.html#8",
-    "sent_at": "2026-07-26T22:30:55.729274+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187883",
-    "sent_at": "2026-07-27T22:30:53.473519+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187871",
-    "sent_at": "2026-07-27T22:30:53.473519+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-    "sent_at": "2026-07-27T22:30:53.473519+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
-    "sent_at": "2026-07-27T22:30:53.473519+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
-    "sent_at": "2026-07-27T22:30:53.473519+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-    "sent_at": "2026-07-27T22:30:53.473519+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-    "sent_at": "2026-07-27T22:30:53.473519+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
-    "sent_at": "2026-07-27T22:30:53.473519+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
-    "sent_at": "2026-07-27T22:30:53.473519+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
-    "sent_at": "2026-07-27T22:30:53.473519+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/07/29/051323",
     "sent_at": "2026-07-28T22:31:10.024165+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
     "sent_at": "2026-08-25T22:30:44.649001+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+    "sent_at": "2026-08-26T22:31:01.498647+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189416",
+    "sent_at": "2026-08-26T22:31:01.498647+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
+    "sent_at": "2026-08-26T22:31:01.498647+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+    "sent_at": "2026-08-26T22:31:01.498647+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+    "sent_at": "2026-08-26T22:31:01.498647+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/26/090522",
+    "sent_at": "2026-08-26T22:31:01.498647+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#19",
+    "sent_at": "2026-08-26T22:31:01.498647+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
+    "sent_at": "2026-08-26T22:31:01.498647+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189392",
+    "sent_at": "2026-08-26T22:31:01.498647+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189396",
+    "sent_at": "2026-08-26T22:31:01.498647+00:00"
   }
 ]
