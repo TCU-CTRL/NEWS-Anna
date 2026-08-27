@@ -1198,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/189396",
     "sent_at": "2026-08-26T22:31:01.498647+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
+    "sent_at": "2026-08-27T22:30:54.177962+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
+    "sent_at": "2026-08-27T22:30:54.177962+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
+    "sent_at": "2026-08-27T22:30:54.177962+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
+    "sent_at": "2026-08-27T22:30:54.177962+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+    "sent_at": "2026-08-27T22:30:54.177962+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
+    "sent_at": "2026-08-27T22:30:54.177962+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
+    "sent_at": "2026-08-27T22:30:54.177962+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
+    "sent_at": "2026-08-27T22:30:54.177962+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189464",
+    "sent_at": "2026-08-27T22:30:54.177962+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189491",
+    "sent_at": "2026-08-27T22:30:54.177962+00:00"
   }
 ]
