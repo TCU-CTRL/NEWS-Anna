@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/29/051323",
-    "sent_at": "2026-07-28T22:31:10.024165+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
-    "sent_at": "2026-07-28T22:31:10.024165+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187935",
-    "sent_at": "2026-07-28T22:31:10.024165+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-    "sent_at": "2026-07-28T22:31:10.024165+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
-    "sent_at": "2026-07-28T22:31:10.024165+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-    "sent_at": "2026-07-28T22:31:10.024165+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-    "sent_at": "2026-07-28T22:31:10.024165+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-    "sent_at": "2026-07-28T22:31:10.024165+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-    "sent_at": "2026-07-28T22:31:10.024165+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187957",
-    "sent_at": "2026-07-28T22:31:10.024165+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
     "sent_at": "2026-07-29T22:31:08.950158+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/189491",
     "sent_at": "2026-08-27T22:30:54.177962+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/29/051323",
+    "sent_at": "2026-08-28T22:30:52.762848+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
+    "sent_at": "2026-08-28T22:30:52.762848+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+    "sent_at": "2026-08-28T22:30:52.762848+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
+    "sent_at": "2026-08-28T22:30:52.762848+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
+    "sent_at": "2026-08-28T22:30:52.762848+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
+    "sent_at": "2026-08-28T22:30:52.762848+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+    "sent_at": "2026-08-28T22:30:52.762848+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
+    "sent_at": "2026-08-28T22:30:52.762848+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
+    "sent_at": "2026-08-28T22:30:52.762848+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+    "sent_at": "2026-08-28T22:30:52.762848+00:00"
   }
 ]
