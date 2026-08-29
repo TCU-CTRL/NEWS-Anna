@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-    "sent_at": "2026-07-29T22:31:08.950158+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-    "sent_at": "2026-07-29T22:31:08.950158+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-    "sent_at": "2026-07-29T22:31:08.950158+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-    "sent_at": "2026-07-29T22:31:08.950158+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-    "sent_at": "2026-07-29T22:31:08.950158+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-    "sent_at": "2026-07-29T22:31:08.950158+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2025/03/27/022634",
-    "sent_at": "2026-07-29T22:31:08.950158+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187979",
-    "sent_at": "2026-07-29T22:31:08.950158+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188019",
-    "sent_at": "2026-07-29T22:31:08.950158+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/187984",
-    "sent_at": "2026-07-29T22:31:08.950158+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
-    "sent_at": "2026-07-30T22:30:47.976691+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-    "sent_at": "2026-07-30T22:30:47.976691+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-    "sent_at": "2026-07-30T22:30:47.976691+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/at/2026/at260021.html",
-    "sent_at": "2026-07-30T22:30:47.976691+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
-    "sent_at": "2026-07-30T22:30:47.976691+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188041",
-    "sent_at": "2026-07-30T22:30:47.976691+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
-    "sent_at": "2026-07-30T22:30:47.976691+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
-    "sent_at": "2026-07-30T22:30:47.976691+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188070",
-    "sent_at": "2026-07-30T22:30:47.976691+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188052",
-    "sent_at": "2026-07-30T22:30:47.976691+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/07/31/214935",
     "sent_at": "2026-07-31T22:31:02.718686+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
     "sent_at": "2026-08-28T22:30:52.762848+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+    "sent_at": "2026-08-29T22:30:48.413486+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#18",
+    "sent_at": "2026-08-29T22:30:48.413486+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189551",
+    "sent_at": "2026-08-29T22:30:48.413486+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189544",
+    "sent_at": "2026-08-29T22:30:48.413486+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
+    "sent_at": "2026-08-29T22:30:48.413486+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+    "sent_at": "2026-08-29T22:30:48.413486+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#5",
+    "sent_at": "2026-08-29T22:30:48.413486+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#15",
+    "sent_at": "2026-08-29T22:30:48.413486+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189538",
+    "sent_at": "2026-08-29T22:30:48.413486+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189532",
+    "sent_at": "2026-08-29T22:30:48.413486+00:00"
   }
 ]
