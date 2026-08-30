@@ -1198,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/189532",
     "sent_at": "2026-08-29T22:30:48.413486+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260021.html",
+    "sent_at": "2026-08-30T22:30:49.455718+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+    "sent_at": "2026-08-30T22:30:49.455718+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
+    "sent_at": "2026-08-30T22:30:49.455718+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189528",
+    "sent_at": "2026-08-30T22:30:49.455718+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+    "sent_at": "2026-08-30T22:30:49.455718+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
+    "sent_at": "2026-08-30T22:30:49.455718+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
+    "sent_at": "2026-08-30T22:30:49.455718+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
+    "sent_at": "2026-08-30T22:30:49.455718+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
+    "sent_at": "2026-08-30T22:30:49.455718+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+    "sent_at": "2026-08-30T22:30:49.455718+00:00"
   }
 ]
