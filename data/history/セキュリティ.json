@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/31/214935",
-    "sent_at": "2026-07-31T22:31:02.718686+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-    "sent_at": "2026-07-31T22:31:02.718686+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188153",
-    "sent_at": "2026-07-31T22:31:02.718686+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-    "sent_at": "2026-07-31T22:31:02.718686+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188126",
-    "sent_at": "2026-07-31T22:31:02.718686+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188156",
-    "sent_at": "2026-07-31T22:31:02.718686+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
-    "sent_at": "2026-07-31T22:31:02.718686+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
-    "sent_at": "2026-07-31T22:31:02.718686+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
-    "sent_at": "2026-07-31T22:31:02.718686+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
-    "sent_at": "2026-07-31T22:31:02.718686+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/08/02/021509",
     "sent_at": "2026-08-01T22:30:54.976268+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
     "sent_at": "2026-08-30T22:30:49.455718+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/31/214935",
+    "sent_at": "2026-08-31T22:30:50.184321+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+    "sent_at": "2026-08-31T22:30:50.184321+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+    "sent_at": "2026-08-31T22:30:50.184321+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189591",
+    "sent_at": "2026-08-31T22:30:50.184321+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+    "sent_at": "2026-08-31T22:30:50.184321+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+    "sent_at": "2026-08-31T22:30:50.184321+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+    "sent_at": "2026-08-31T22:30:50.184321+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+    "sent_at": "2026-08-31T22:30:50.184321+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
+    "sent_at": "2026-08-31T22:30:50.184321+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189600",
+    "sent_at": "2026-08-31T22:30:50.184321+00:00"
   }
 ]
