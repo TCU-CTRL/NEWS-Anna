@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/02/021509",
-    "sent_at": "2026-08-01T22:30:54.976268+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
-    "sent_at": "2026-08-01T22:30:54.976268+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-    "sent_at": "2026-08-01T22:30:54.976268+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-    "sent_at": "2026-08-01T22:30:54.976268+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188066",
-    "sent_at": "2026-08-01T22:30:54.976268+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188087",
-    "sent_at": "2026-08-01T22:30:54.976268+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
-    "sent_at": "2026-08-01T22:30:54.976268+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-    "sent_at": "2026-08-01T22:30:54.976268+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-    "sent_at": "2026-08-01T22:30:54.976268+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/30/075612",
-    "sent_at": "2026-08-01T22:30:54.976268+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/02/165033",
-    "sent_at": "2026-08-02T22:30:47.966743+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-    "sent_at": "2026-08-02T22:30:47.966743+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-    "sent_at": "2026-08-02T22:30:47.966743+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-    "sent_at": "2026-08-02T22:30:47.966743+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
-    "sent_at": "2026-08-02T22:30:47.966743+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-    "sent_at": "2026-08-02T22:30:47.966743+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
-    "sent_at": "2026-08-02T22:30:47.966743+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-    "sent_at": "2026-08-02T22:30:47.966743+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
-    "sent_at": "2026-08-02T22:30:47.966743+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-    "sent_at": "2026-08-02T22:30:47.966743+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/08/04/025755",
     "sent_at": "2026-08-03T22:30:56.034409+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/189600",
     "sent_at": "2026-08-31T22:30:50.184321+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/02/021509",
+    "sent_at": "2026-09-01T22:31:29.334830+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+    "sent_at": "2026-09-01T22:31:29.334830+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/02/022540",
+    "sent_at": "2026-09-01T22:31:29.334830+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+    "sent_at": "2026-09-01T22:31:29.334830+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
+    "sent_at": "2026-09-01T22:31:29.334830+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+    "sent_at": "2026-09-01T22:31:29.334830+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189666",
+    "sent_at": "2026-09-01T22:31:29.334830+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189686",
+    "sent_at": "2026-09-01T22:31:29.334830+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
+    "sent_at": "2026-09-01T22:31:29.334830+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189471",
+    "sent_at": "2026-09-01T22:31:29.334830+00:00"
   }
 ]

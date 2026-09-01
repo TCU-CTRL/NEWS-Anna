@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://qiita.com/ryotani3/items/af4244bb68009412ee83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-01T22:30:44.844377+00:00"
-  },
-  {
-    "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-    "sent_at": "2026-08-01T22:30:44.844377+00:00"
-  },
-  {
-    "url": "https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-01T22:30:44.844377+00:00"
-  },
-  {
-    "url": "https://zenn.dev/cybozu_frontend/articles/web-streams-api-guide",
-    "sent_at": "2026-08-01T22:30:44.844377+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2608/01/news009.html",
-    "sent_at": "2026-08-01T22:30:44.844377+00:00"
-  },
-  {
-    "url": "https://kaisel.dev/",
-    "sent_at": "2026-08-01T22:30:44.844377+00:00"
-  },
-  {
-    "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-    "sent_at": "2026-08-01T22:30:44.844377+00:00"
-  },
-  {
-    "url": "https://qiita.com/y104autumn/items/6132bcc74fb8d43d4cd3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-01T22:30:44.844377+00:00"
-  },
-  {
-    "url": "https://qiita.com/RyoWakabayashi/items/4095d86be797008d799e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-01T22:30:44.844377+00:00"
-  },
-  {
-    "url": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
-    "sent_at": "2026-08-01T22:30:44.844377+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
-    "sent_at": "2026-08-02T22:30:37.677855+00:00"
-  },
-  {
-    "url": "https://github.com/paoloanzn/microcodex",
-    "sent_at": "2026-08-02T22:30:37.677855+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
-    "sent_at": "2026-08-02T22:30:37.677855+00:00"
-  },
-  {
-    "url": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-02T22:30:37.677855+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2608/03/news046.html",
-    "sent_at": "2026-08-02T22:30:37.677855+00:00"
-  },
-  {
-    "url": "https://frogs.vaguespac.es/",
-    "sent_at": "2026-08-02T22:30:37.677855+00:00"
-  },
-  {
-    "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-    "sent_at": "2026-08-02T22:30:37.677855+00:00"
-  },
-  {
-    "url": "https://fuselang.org",
-    "sent_at": "2026-08-02T22:30:37.677855+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
-    "sent_at": "2026-08-02T22:30:37.677855+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
-    "sent_at": "2026-08-02T22:30:37.677855+00:00"
-  },
-  {
     "url": "https://hoplite.sh",
     "sent_at": "2026-08-03T22:30:43.692242+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/",
     "sent_at": "2026-08-31T22:30:41.724077+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001023/",
+    "sent_at": "2026-09-01T22:31:15.389692+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001045/",
+    "sent_at": "2026-09-01T22:31:15.389692+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/01/news084.html",
+    "sent_at": "2026-09-01T22:31:15.389692+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2609/01/news074.html",
+    "sent_at": "2026-09-01T22:31:15.389692+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000743/",
+    "sent_at": "2026-09-01T22:31:15.389692+00:00"
+  },
+  {
+    "url": "https://hnmatchmaker.com/",
+    "sent_at": "2026-09-01T22:31:15.389692+00:00"
+  },
+  {
+    "url": "https://openai.com/index/path-to-astra/",
+    "sent_at": "2026-09-01T22:31:15.389692+00:00"
+  },
+  {
+    "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+    "sent_at": "2026-09-01T22:31:15.389692+00:00"
+  },
+  {
+    "url": "https://www.norirobotics.com/",
+    "sent_at": "2026-09-01T22:31:15.389692+00:00"
+  },
+  {
+    "url": "https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor",
+    "sent_at": "2026-09-01T22:31:15.389692+00:00"
   }
 ]
