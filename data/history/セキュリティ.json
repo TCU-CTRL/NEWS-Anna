@@ -1198,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/189471",
     "sent_at": "2026-09-01T22:31:29.334830+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+    "sent_at": "2026-09-02T22:30:54.253524+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+    "sent_at": "2026-09-02T22:30:54.253524+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+    "sent_at": "2026-09-02T22:30:54.253524+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+    "sent_at": "2026-09-02T22:30:54.253524+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+    "sent_at": "2026-09-02T22:30:54.253524+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
+    "sent_at": "2026-09-02T22:30:54.253524+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+    "sent_at": "2026-09-02T22:30:54.253524+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189711",
+    "sent_at": "2026-09-02T22:30:54.253524+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189739",
+    "sent_at": "2026-09-02T22:30:54.253524+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189721",
+    "sent_at": "2026-09-02T22:30:54.253524+00:00"
   }
 ]
