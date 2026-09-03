@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
-    "sent_at": "2026-08-04T22:30:46.969833+00:00"
-  },
-  {
-    "url": "https://zenn.dev/aws_japan/articles/opencode-bedrock-lab",
-    "sent_at": "2026-08-04T22:30:46.969833+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000382/",
-    "sent_at": "2026-08-04T22:30:46.969833+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000377/",
-    "sent_at": "2026-08-04T22:30:46.969833+00:00"
-  },
-  {
-    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-    "sent_at": "2026-08-04T22:30:46.969833+00:00"
-  },
-  {
-    "url": "https://edotenv.com/",
-    "sent_at": "2026-08-04T22:30:46.969833+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "sent_at": "2026-08-04T22:30:46.969833+00:00"
-  },
-  {
-    "url": "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
-    "sent_at": "2026-08-04T22:30:46.969833+00:00"
-  },
-  {
-    "url": "https://qiita.com/jqit_suwa/items/2dee3e3d53080c3676a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-04T22:30:46.969833+00:00"
-  },
-  {
-    "url": "https://qiita.com/KA026/items/23b0952b181807b5dabd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-04T22:30:46.969833+00:00"
-  },
-  {
     "url": "https://www.hyperprobe.co",
     "sent_at": "2026-08-05T22:30:43.630660+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
     "sent_at": "2026-09-02T22:30:46.274956+00:00"
+  },
+  {
+    "url": "https://qiita.com/ssfujita/items/1b902f20dfc2c64ad44f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-03T22:30:55.112316+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001130/",
+    "sent_at": "2026-09-03T22:30:55.112316+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49551096",
+    "sent_at": "2026-09-03T22:30:55.112316+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001115/",
+    "sent_at": "2026-09-03T22:30:55.112316+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2609/03/news043.html",
+    "sent_at": "2026-09-03T22:30:55.112316+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/03/news041.html",
+    "sent_at": "2026-09-03T22:30:55.112316+00:00"
+  },
+  {
+    "url": "https://arcprize.org/blog/astra",
+    "sent_at": "2026-09-03T22:30:55.112316+00:00"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "sent_at": "2026-09-03T22:30:55.112316+00:00"
+  },
+  {
+    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+    "sent_at": "2026-09-03T22:30:55.112316+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/",
+    "sent_at": "2026-09-03T22:30:55.112316+00:00"
   }
 ]

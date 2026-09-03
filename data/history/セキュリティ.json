@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/04/025755",
-    "sent_at": "2026-08-03T22:30:56.034409+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-    "sent_at": "2026-08-03T22:30:56.034409+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-    "sent_at": "2026-08-03T22:30:56.034409+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-    "sent_at": "2026-08-03T22:30:56.034409+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
-    "sent_at": "2026-08-03T22:30:56.034409+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-    "sent_at": "2026-08-03T22:30:56.034409+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188205",
-    "sent_at": "2026-08-03T22:30:56.034409+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188229",
-    "sent_at": "2026-08-03T22:30:56.034409+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-    "sent_at": "2026-08-03T22:30:56.034409+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188223",
-    "sent_at": "2026-08-03T22:30:56.034409+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/04/183114",
-    "sent_at": "2026-08-04T22:30:57.489759+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
-    "sent_at": "2026-08-04T22:30:57.489759+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
-    "sent_at": "2026-08-04T22:30:57.489759+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-    "sent_at": "2026-08-04T22:30:57.489759+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188299",
-    "sent_at": "2026-08-04T22:30:57.489759+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188284",
-    "sent_at": "2026-08-04T22:30:57.489759+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188315",
-    "sent_at": "2026-08-04T22:30:57.489759+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-    "sent_at": "2026-08-04T22:30:57.489759+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
-    "sent_at": "2026-08-04T22:30:57.489759+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-    "sent_at": "2026-08-04T22:30:57.489759+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/08/06/014225",
     "sent_at": "2026-08-05T22:30:55.095644+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/189721",
     "sent_at": "2026-09-02T22:30:54.253524+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/04/183114",
+    "sent_at": "2026-09-03T22:31:02.289729+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/04/025755",
+    "sent_at": "2026-09-03T22:31:02.289729+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+    "sent_at": "2026-09-03T22:31:02.289729+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+    "sent_at": "2026-09-03T22:31:02.289729+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+    "sent_at": "2026-09-03T22:31:02.289729+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189782",
+    "sent_at": "2026-09-03T22:31:02.289729+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189796",
+    "sent_at": "2026-09-03T22:31:02.289729+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+    "sent_at": "2026-09-03T22:31:02.289729+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189805",
+    "sent_at": "2026-09-03T22:31:02.289729+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
+    "sent_at": "2026-09-03T22:31:02.289729+00:00"
   }
 ]
