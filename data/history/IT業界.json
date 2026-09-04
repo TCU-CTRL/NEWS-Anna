@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.hyperprobe.co",
-    "sent_at": "2026-08-05T22:30:43.630660+00:00"
-  },
-  {
-    "url": "https://naomibashkansky.com/blog/telepathy/",
-    "sent_at": "2026-08-05T22:30:43.630660+00:00"
-  },
-  {
-    "url": "https://zenn.dev/lambdalisue/articles/introduce-cclens",
-    "sent_at": "2026-08-05T22:30:43.630660+00:00"
-  },
-  {
-    "url": "https://zenn.dev/cybozu_frontend/articles/llm-wiki-for-design-systems",
-    "sent_at": "2026-08-05T22:30:43.630660+00:00"
-  },
-  {
-    "url": "https://securelist.com/cloud-platforms-in-phishing/120832/",
-    "sent_at": "2026-08-05T22:30:43.630660+00:00"
-  },
-  {
-    "url": "https://zenn.dev/wn_engineering/articles/95911ca28a7b1f",
-    "sent_at": "2026-08-05T22:30:43.630660+00:00"
-  },
-  {
-    "url": "https://zenn.dev/codatum/articles/80b99faba75704",
-    "sent_at": "2026-08-05T22:30:43.630660+00:00"
-  },
-  {
-    "url": "https://qiita.com/s_horikoshi/items/2242dbfcaf003b714c96?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-05T22:30:43.630660+00:00"
-  },
-  {
-    "url": "https://qiita.com/keiichi_m_ari/items/b9ac10f813ece54c7db9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-05T22:30:43.630660+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
-    "sent_at": "2026-08-05T22:30:43.630660+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/enterprise/articles/2608/06/news056.html",
     "sent_at": "2026-08-06T22:30:48.050036+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/",
     "sent_at": "2026-09-03T22:30:55.112316+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/04/news034.html",
+    "sent_at": "2026-09-04T22:30:45.040317+00:00"
+  },
+  {
+    "url": "https://qiita.com/ennagara128/items/873e105fe3f8e24fcc5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-04T22:30:45.040317+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001197/",
+    "sent_at": "2026-09-04T22:30:45.040317+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001192/",
+    "sent_at": "2026-09-04T22:30:45.040317+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001167/",
+    "sent_at": "2026-09-04T22:30:45.040317+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001161/",
+    "sent_at": "2026-09-04T22:30:45.040317+00:00"
+  },
+  {
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "sent_at": "2026-09-04T22:30:45.040317+00:00"
+  },
+  {
+    "url": "https://qiita.com/Western24/items/5159a1009c02a48330f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-04T22:30:45.040317+00:00"
+  },
+  {
+    "url": "https://qiita.com/nolanlover0527/items/f38f36091aa35979fe61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-04T22:30:45.040317+00:00"
+  },
+  {
+    "url": "https://zenn.dev/hubble/articles/ee2f962e0a69f1",
+    "sent_at": "2026-09-04T22:30:45.040317+00:00"
   }
 ]
