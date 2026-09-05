@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/06/014225",
-    "sent_at": "2026-08-05T22:30:55.095644+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
-    "sent_at": "2026-08-05T22:30:55.095644+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-    "sent_at": "2026-08-05T22:30:55.095644+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
-    "sent_at": "2026-08-05T22:30:55.095644+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-    "sent_at": "2026-08-05T22:30:55.095644+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-    "sent_at": "2026-08-05T22:30:55.095644+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#8",
-    "sent_at": "2026-08-05T22:30:55.095644+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-    "sent_at": "2026-08-05T22:30:55.095644+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188340",
-    "sent_at": "2026-08-05T22:30:55.095644+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-    "sent_at": "2026-08-05T22:30:55.095644+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/08/07/010001",
     "sent_at": "2026-08-06T22:30:56.724864+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/189848",
     "sent_at": "2026-09-04T22:30:53.387036+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/06/014225",
+    "sent_at": "2026-09-05T22:30:54.038152+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+    "sent_at": "2026-09-05T22:30:54.038152+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+    "sent_at": "2026-09-05T22:30:54.038152+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+    "sent_at": "2026-09-05T22:30:54.038152+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+    "sent_at": "2026-09-05T22:30:54.038152+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+    "sent_at": "2026-09-05T22:30:54.038152+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+    "sent_at": "2026-09-05T22:30:54.038152+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+    "sent_at": "2026-09-05T22:30:54.038152+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+    "sent_at": "2026-09-05T22:30:54.038152+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/02/165033",
+    "sent_at": "2026-09-05T22:30:54.038152+00:00"
   }
 ]
