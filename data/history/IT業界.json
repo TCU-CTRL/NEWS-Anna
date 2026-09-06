@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/06/news056.html",
-    "sent_at": "2026-08-06T22:30:48.050036+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000435/",
-    "sent_at": "2026-08-06T22:30:48.050036+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2608/06/news084.html",
-    "sent_at": "2026-08-06T22:30:48.050036+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2608/06/news064.html",
-    "sent_at": "2026-08-06T22:30:48.050036+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000370/",
-    "sent_at": "2026-08-06T22:30:48.050036+00:00"
-  },
-  {
-    "url": "https://qiita.com/nakasato310/items/be985526859d59a0a8b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-06T22:30:48.050036+00:00"
-  },
-  {
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-    "sent_at": "2026-08-06T22:30:48.050036+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/07/news010.html",
-    "sent_at": "2026-08-06T22:30:48.050036+00:00"
-  },
-  {
-    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "sent_at": "2026-08-06T22:30:48.050036+00:00"
-  },
-  {
-    "url": "https://qiita.com/Syoitu/items/e529a09b3d840c85c339?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-06T22:30:48.050036+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000456/",
     "sent_at": "2026-08-07T22:30:50.534343+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
     "sent_at": "2026-09-05T22:30:43.802125+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/07/news042.html",
+    "sent_at": "2026-09-06T22:30:44.067014+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
+    "sent_at": "2026-09-06T22:30:44.067014+00:00"
+  },
+  {
+    "url": "https://qiita.com/yama3133/items/16907c517a6e745adda1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-06T22:30:44.067014+00:00"
+  },
+  {
+    "url": "https://openai.com/index/an-alien-mind/",
+    "sent_at": "2026-09-06T22:30:44.067014+00:00"
+  },
+  {
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "sent_at": "2026-09-06T22:30:44.067014+00:00"
+  },
+  {
+    "url": "https://qiita.com/Sicut_study/items/8fa7302bbb5bc1c897bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-06T22:30:44.067014+00:00"
+  },
+  {
+    "url": "https://qiita.com/songchong/items/94df4fbdeabaaf8f8ef5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-06T22:30:44.067014+00:00"
+  },
+  {
+    "url": "https://qiita.com/blue_islands/items/d65fcd34c40302dbaa9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-06T22:30:44.067014+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2609/07/news012.html",
+    "sent_at": "2026-09-06T22:30:44.067014+00:00"
+  },
+  {
+    "url": "https://getvodforge.com/",
+    "sent_at": "2026-09-06T22:30:44.067014+00:00"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/07/010001",
-    "sent_at": "2026-08-06T22:30:56.724864+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
-    "sent_at": "2026-08-06T22:30:56.724864+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
-    "sent_at": "2026-08-06T22:30:56.724864+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
-    "sent_at": "2026-08-06T22:30:56.724864+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188441",
-    "sent_at": "2026-08-06T22:30:56.724864+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
-    "sent_at": "2026-08-06T22:30:56.724864+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-    "sent_at": "2026-08-06T22:30:56.724864+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
-    "sent_at": "2026-08-06T22:30:56.724864+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
-    "sent_at": "2026-08-06T22:30:56.724864+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188424",
-    "sent_at": "2026-08-06T22:30:56.724864+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/08/08/020650",
     "sent_at": "2026-08-07T22:31:01.358783+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/08/02/165033",
     "sent_at": "2026-09-05T22:30:54.038152+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/07/010001",
+    "sent_at": "2026-09-06T22:30:51.582420+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#14",
+    "sent_at": "2026-09-06T22:30:51.582420+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#2",
+    "sent_at": "2026-09-06T22:30:51.582420+00:00"
+  },
+  {
+    "url": "https://jvn.jp/vu/JVNVU96558110/",
+    "sent_at": "2026-09-06T22:30:51.582420+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#10",
+    "sent_at": "2026-09-06T22:30:51.582420+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#13",
+    "sent_at": "2026-09-06T22:30:51.582420+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189854",
+    "sent_at": "2026-09-06T22:30:51.582420+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+    "sent_at": "2026-09-06T22:30:51.582420+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+    "sent_at": "2026-09-06T22:30:51.582420+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+    "sent_at": "2026-09-06T22:30:51.582420+00:00"
   }
 ]
