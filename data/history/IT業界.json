@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000456/",
-    "sent_at": "2026-08-07T22:30:50.534343+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000454/",
-    "sent_at": "2026-08-07T22:30:50.534343+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2608/07/news076.html",
-    "sent_at": "2026-08-07T22:30:50.534343+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2608/07/news070.html",
-    "sent_at": "2026-08-07T22:30:50.534343+00:00"
-  },
-  {
-    "url": "https://qiita.com/moritalous/items/1968a359d8eb54585421?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-07T22:30:50.534343+00:00"
-  },
-  {
-    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-    "sent_at": "2026-08-07T22:30:50.534343+00:00"
-  },
-  {
-    "url": "https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro",
-    "sent_at": "2026-08-07T22:30:50.534343+00:00"
-  },
-  {
-    "url": "https://qiita.com/TaichiYamasaki/items/c75b139044362e18fa68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-07T22:30:50.534343+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
-    "sent_at": "2026-08-07T22:30:50.534343+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000448/",
-    "sent_at": "2026-08-07T22:30:50.534343+00:00"
-  },
-  {
-    "url": "https://zenn.dev/kaerururu/articles/2b2a82ba6f3ba2",
-    "sent_at": "2026-08-08T22:30:33.859708+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000460/",
-    "sent_at": "2026-08-08T22:30:33.859708+00:00"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-    "sent_at": "2026-08-08T22:30:33.859708+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
-    "sent_at": "2026-08-08T22:30:33.859708+00:00"
-  },
-  {
-    "url": "https://qiita.com/k2_naka/items/024172f90e049d5643ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-08T22:30:33.859708+00:00"
-  },
-  {
-    "url": "https://qiita.com/nattogohan123/items/fdeda32ceb783a6c8981?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-08T22:30:33.859708+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
-    "sent_at": "2026-08-08T22:30:33.859708+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2608/08/news007.html",
-    "sent_at": "2026-08-08T22:30:33.859708+00:00"
-  },
-  {
-    "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-    "sent_at": "2026-08-08T22:30:33.859708+00:00"
-  },
-  {
-    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
-    "sent_at": "2026-08-08T22:30:33.859708+00:00"
-  },
-  {
     "url": "https://zenn.dev/yuichirominato/articles/dc8cf3915f1c6f",
     "sent_at": "2026-08-09T22:30:43.797137+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://getvodforge.com/",
     "sent_at": "2026-09-06T22:30:44.067014+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/06/news003.html",
+    "sent_at": "2026-09-07T22:30:48.584431+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/16/news002.html",
+    "sent_at": "2026-09-07T22:30:48.584431+00:00"
+  },
+  {
+    "url": "https://zenn.dev/yumeno/articles/rtx5060ti-qwen38-ollama-context-tuning",
+    "sent_at": "2026-09-07T22:30:48.584431+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2609/07/news075.html",
+    "sent_at": "2026-09-07T22:30:48.584431+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2609/07/news057.html",
+    "sent_at": "2026-09-07T22:30:48.584431+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/07/2000001204/",
+    "sent_at": "2026-09-07T22:30:48.584431+00:00"
+  },
+  {
+    "url": "https://tiiny.ai/",
+    "sent_at": "2026-09-07T22:30:48.584431+00:00"
+  },
+  {
+    "url": "https://qiita.com/sai029/items/f0073f1ea5ad30f71ac5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-07T22:30:48.584431+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
+    "sent_at": "2026-09-07T22:30:48.584431+00:00"
+  },
+  {
+    "url": "https://qiita.com/im_yoneda/items/f27e52d2f852ba017a7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-07T22:30:48.584431+00:00"
   }
 ]
