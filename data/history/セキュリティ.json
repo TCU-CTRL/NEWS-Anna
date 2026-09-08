@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/09/222807",
-    "sent_at": "2026-08-09T22:30:52.716320+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#4",
-    "sent_at": "2026-08-09T22:30:52.716320+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188437",
-    "sent_at": "2026-08-09T22:30:52.716320+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188432",
-    "sent_at": "2026-08-09T22:30:52.716320+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-    "sent_at": "2026-08-09T22:30:52.716320+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-    "sent_at": "2026-08-09T22:30:52.716320+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
-    "sent_at": "2026-08-09T22:30:52.716320+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-    "sent_at": "2026-08-09T22:30:52.716320+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-    "sent_at": "2026-08-09T22:30:52.716320+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/08/232742",
-    "sent_at": "2026-08-09T22:30:52.716320+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/07/10/082142",
     "sent_at": "2026-08-10T22:30:47.584214+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
     "sent_at": "2026-09-07T22:30:57.355736+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/08/164128",
+    "sent_at": "2026-09-08T22:30:56.356350+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+    "sent_at": "2026-09-08T22:30:56.356350+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/",
+    "sent_at": "2026-09-08T22:30:56.356350+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189963",
+    "sent_at": "2026-09-08T22:30:56.356350+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190000",
+    "sent_at": "2026-09-08T22:30:56.356350+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
+    "sent_at": "2026-09-08T22:30:56.356350+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
+    "sent_at": "2026-09-08T22:30:56.356350+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189970",
+    "sent_at": "2026-09-08T22:30:56.356350+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/189995",
+    "sent_at": "2026-09-08T22:30:56.356350+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
+    "sent_at": "2026-09-08T22:30:56.356350+00:00"
   }
 ]
