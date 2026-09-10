@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-    "sent_at": "2026-08-11T22:30:42.255969+00:00"
-  },
-  {
-    "url": "https://zenn.dev/tokium_dev/articles/gui-agent-zero-extra-cost",
-    "sent_at": "2026-08-11T22:30:42.255969+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
-    "sent_at": "2026-08-11T22:30:42.255969+00:00"
-  },
-  {
-    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-    "sent_at": "2026-08-11T22:30:42.255969+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000474/",
-    "sent_at": "2026-08-11T22:30:42.255969+00:00"
-  },
-  {
-    "url": "https://stolen-thoughts.com/",
-    "sent_at": "2026-08-11T22:30:42.255969+00:00"
-  },
-  {
-    "url": "https://zenn.dev/aws_japan/articles/agent-plugins-1-0-deep-dive",
-    "sent_at": "2026-08-11T22:30:42.255969+00:00"
-  },
-  {
-    "url": "https://qiita.com/manaty/items/694668a58aa40e0e44ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-11T22:30:42.255969+00:00"
-  },
-  {
-    "url": "https://zenn.dev/akari1106/articles/9d2abbc63a4abb",
-    "sent_at": "2026-08-11T22:30:42.255969+00:00"
-  },
-  {
-    "url": "https://zenn.dev/ikuosaito1989/articles/47a9b4d4177d87",
-    "sent_at": "2026-08-11T22:30:42.255969+00:00"
-  },
-  {
     "url": "https://knownagents.com/insights",
     "sent_at": "2026-08-12T22:30:43.369801+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
     "sent_at": "2026-09-09T22:30:57.243343+00:00"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "sent_at": "2026-09-10T22:30:50.145932+00:00"
+  },
+  {
+    "url": "https://zenn.dev/peoplex_blog/articles/65768c769de4b0",
+    "sent_at": "2026-09-10T22:30:50.145932+00:00"
+  },
+  {
+    "url": "https://qiita.com/ryosuke_ohori/items/f8eaad0ddba954e2ebb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-10T22:30:50.145932+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2609/11/news012.html",
+    "sent_at": "2026-09-10T22:30:50.145932+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001346/",
+    "sent_at": "2026-09-10T22:30:50.145932+00:00"
+  },
+  {
+    "url": "https://qiita.com/dev-hasegawa/items/d4ca857a4976f5db9357?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-10T22:30:50.145932+00:00"
+  },
+  {
+    "url": "https://zenn.dev/imaimai17468/articles/4fe1531b71929b",
+    "sent_at": "2026-09-10T22:30:50.145932+00:00"
+  },
+  {
+    "url": "https://qiita.com/ntaka329/items/1cc88224caee4ac57a53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-10T22:30:50.145932+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
+    "sent_at": "2026-09-10T22:30:50.145932+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001384/",
+    "sent_at": "2026-09-10T22:30:50.145932+00:00"
   }
 ]
