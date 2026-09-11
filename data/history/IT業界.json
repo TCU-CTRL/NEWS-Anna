@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://knownagents.com/insights",
-    "sent_at": "2026-08-12T22:30:43.369801+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
-    "sent_at": "2026-08-12T22:30:43.369801+00:00"
-  },
-  {
-    "url": "https://zenn.dev/kibe/articles/df74c2e9fe76b6",
-    "sent_at": "2026-08-12T22:30:43.369801+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
-    "sent_at": "2026-08-12T22:30:43.369801+00:00"
-  },
-  {
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "sent_at": "2026-08-12T22:30:43.369801+00:00"
-  },
-  {
-    "url": "https://zenn.dev/phpmyadmin/articles/used-server-gpu-local-llm",
-    "sent_at": "2026-08-12T22:30:43.369801+00:00"
-  },
-  {
-    "url": "https://zenn.dev/naofumik/articles/4fdfcbb5cf083e",
-    "sent_at": "2026-08-12T22:30:43.369801+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000518/",
-    "sent_at": "2026-08-12T22:30:43.369801+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2608/12/news046.html",
-    "sent_at": "2026-08-12T22:30:43.369801+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2608/12/news047.html",
-    "sent_at": "2026-08-12T22:30:43.369801+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/mobile/articles/2608/13/news003.html",
     "sent_at": "2026-08-13T22:30:46.605894+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001384/",
     "sent_at": "2026-09-10T22:30:50.145932+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001409/",
+    "sent_at": "2026-09-11T22:30:49.966295+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001418/",
+    "sent_at": "2026-09-11T22:30:49.966295+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001399/",
+    "sent_at": "2026-09-11T22:30:49.966295+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001396/",
+    "sent_at": "2026-09-11T22:30:49.966295+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001392/",
+    "sent_at": "2026-09-11T22:30:49.966295+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001390/",
+    "sent_at": "2026-09-11T22:30:49.966295+00:00"
+  },
+  {
+    "url": "https://mathandai.org/",
+    "sent_at": "2026-09-11T22:30:49.966295+00:00"
+  },
+  {
+    "url": "https://github.com/godot-pty/gpty",
+    "sent_at": "2026-09-11T22:30:49.966295+00:00"
+  },
+  {
+    "url": "https://qiita.com/cyokozai/items/700dbe31e3d0af5349f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-11T22:30:49.966295+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2609/11/news043.html",
+    "sent_at": "2026-09-11T22:30:49.966295+00:00"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-    "sent_at": "2026-08-12T22:30:51.929544+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-    "sent_at": "2026-08-12T22:30:51.929544+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-    "sent_at": "2026-08-12T22:30:51.929544+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-    "sent_at": "2026-08-12T22:30:51.929544+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
-    "sent_at": "2026-08-12T22:30:51.929544+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-    "sent_at": "2026-08-12T22:30:51.929544+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188685",
-    "sent_at": "2026-08-12T22:30:51.929544+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-    "sent_at": "2026-08-12T22:30:51.929544+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188663",
-    "sent_at": "2026-08-12T22:30:51.929544+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-    "sent_at": "2026-08-12T22:30:51.929544+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/07/13/123024",
     "sent_at": "2026-08-13T22:30:58.740475+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/190076",
     "sent_at": "2026-09-10T22:30:57.750323+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/11/220855",
+    "sent_at": "2026-09-11T22:31:01.010759+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+    "sent_at": "2026-09-11T22:31:01.010759+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+    "sent_at": "2026-09-11T22:31:01.010759+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+    "sent_at": "2026-09-11T22:31:01.010759+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
+    "sent_at": "2026-09-11T22:31:01.010759+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+    "sent_at": "2026-09-11T22:31:01.010759+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/12/072307",
+    "sent_at": "2026-09-11T22:31:01.010759+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190194",
+    "sent_at": "2026-09-11T22:31:01.010759+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190189",
+    "sent_at": "2026-09-11T22:31:01.010759+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+    "sent_at": "2026-09-11T22:31:01.010759+00:00"
   }
 ]
