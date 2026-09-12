@@ -1198,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
     "sent_at": "2026-09-11T22:31:01.010759+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+    "sent_at": "2026-09-12T22:30:55.892920+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+    "sent_at": "2026-09-12T22:30:55.892920+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+    "sent_at": "2026-09-12T22:30:55.892920+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html#4",
+    "sent_at": "2026-09-12T22:30:55.892920+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190208",
+    "sent_at": "2026-09-12T22:30:55.892920+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190035",
+    "sent_at": "2026-09-12T22:30:55.892920+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+    "sent_at": "2026-09-12T22:30:55.892920+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260909.html#7",
+    "sent_at": "2026-09-12T22:30:55.892920+00:00"
+  },
+  {
+    "url": "https://jvn.jp/vu/JVNVU95258183/",
+    "sent_at": "2026-09-12T22:30:55.892920+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+    "sent_at": "2026-09-12T22:30:55.892920+00:00"
   }
 ]
