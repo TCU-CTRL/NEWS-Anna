@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/13/123024",
-    "sent_at": "2026-08-13T22:30:58.740475+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/13/073841",
-    "sent_at": "2026-08-13T22:30:58.740475+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-    "sent_at": "2026-08-13T22:30:58.740475+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/newsflash/2026081301.html",
-    "sent_at": "2026-08-13T22:30:58.740475+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188759",
-    "sent_at": "2026-08-13T22:30:58.740475+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188742",
-    "sent_at": "2026-08-13T22:30:58.740475+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-    "sent_at": "2026-08-13T22:30:58.740475+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
-    "sent_at": "2026-08-13T22:30:58.740475+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188757",
-    "sent_at": "2026-08-13T22:30:58.740475+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
-    "sent_at": "2026-08-13T22:30:58.740475+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/14/115527",
-    "sent_at": "2026-08-14T22:30:48.222029+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/14/225515",
-    "sent_at": "2026-08-14T22:30:48.222029+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188829",
-    "sent_at": "2026-08-14T22:30:48.222029+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-    "sent_at": "2026-08-14T22:30:48.222029+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-    "sent_at": "2026-08-14T22:30:48.222029+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188755",
-    "sent_at": "2026-08-14T22:30:48.222029+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188747",
-    "sent_at": "2026-08-14T22:30:48.222029+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188719",
-    "sent_at": "2026-08-14T22:30:48.222029+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
-    "sent_at": "2026-08-14T22:30:48.222029+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-    "sent_at": "2026-08-14T22:30:48.222029+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/08/15/075403",
     "sent_at": "2026-08-15T22:30:49.375565+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
     "sent_at": "2026-09-12T22:30:55.892920+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/14/115527",
+    "sent_at": "2026-09-13T22:30:55.809207+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+    "sent_at": "2026-09-13T22:30:55.809207+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/13/073841",
+    "sent_at": "2026-09-13T22:30:55.809207+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/newsflash/2026081301.html",
+    "sent_at": "2026-09-13T22:30:55.809207+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+    "sent_at": "2026-09-13T22:30:55.809207+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+    "sent_at": "2026-09-13T22:30:55.809207+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
+    "sent_at": "2026-09-13T22:30:55.809207+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+    "sent_at": "2026-09-13T22:30:55.809207+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+    "sent_at": "2026-09-13T22:30:55.809207+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+    "sent_at": "2026-09-13T22:30:55.809207+00:00"
   }
 ]

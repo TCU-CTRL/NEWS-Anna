@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2608/13/news003.html",
-    "sent_at": "2026-08-13T22:30:46.605894+00:00"
-  },
-  {
-    "url": "https://zenn.dev/murasanlab/books/dcf7ed4826a797",
-    "sent_at": "2026-08-13T22:30:46.605894+00:00"
-  },
-  {
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "sent_at": "2026-08-13T22:30:46.605894+00:00"
-  },
-  {
-    "url": "https://zenn.dev/hellorusk/articles/3328866ca9e922",
-    "sent_at": "2026-08-13T22:30:46.605894+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/12/news033.html",
-    "sent_at": "2026-08-13T22:30:46.605894+00:00"
-  },
-  {
-    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-    "sent_at": "2026-08-13T22:30:46.605894+00:00"
-  },
-  {
-    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-    "sent_at": "2026-08-13T22:30:46.605894+00:00"
-  },
-  {
-    "url": "https://zenn.dev/hako_hako/books/nexus-product-new-development",
-    "sent_at": "2026-08-13T22:30:46.605894+00:00"
-  },
-  {
-    "url": "https://qiita.com/M_Ozu/items/346f6c8ab4b662a08f3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-13T22:30:46.605894+00:00"
-  },
-  {
-    "url": "https://qiita.com/hiroto15/items/ea3acc4277a52f8ac468?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-13T22:30:46.605894+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2608/14/news067.html",
-    "sent_at": "2026-08-14T22:30:38.540753+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2608/14/news083.html",
-    "sent_at": "2026-08-14T22:30:38.540753+00:00"
-  },
-  {
-    "url": "https://github.com/lajosdeme/mole",
-    "sent_at": "2026-08-14T22:30:38.540753+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2608.12700",
-    "sent_at": "2026-08-14T22:30:38.540753+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2608/14/news053.html",
-    "sent_at": "2026-08-14T22:30:38.540753+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/14/news023.html",
-    "sent_at": "2026-08-14T22:30:38.540753+00:00"
-  },
-  {
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "sent_at": "2026-08-14T22:30:38.540753+00:00"
-  },
-  {
-    "url": "https://qiita.com/mhamadajp/items/7b159e09813f4c99a513?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-14T22:30:38.540753+00:00"
-  },
-  {
-    "url": "https://qiita.com/tkmt0322/items/60956fb3f8390a58c6b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-14T22:30:38.540753+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2608/14/news071.html",
-    "sent_at": "2026-08-14T22:30:38.540753+00:00"
-  },
-  {
     "url": "https://qiita.com/tomada/items/0bfbaffce6fae70be17f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-08-15T22:30:39.959910+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/pcuser/articles/2609/11/news084.html",
     "sent_at": "2026-09-12T22:30:46.533331+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
+    "sent_at": "2026-09-13T22:30:46.066559+00:00"
+  },
+  {
+    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "sent_at": "2026-09-13T22:30:46.066559+00:00"
+  },
+  {
+    "url": "https://qiita.com/songchong/items/e630bf05f4adf0c16ce5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-13T22:30:46.066559+00:00"
+  },
+  {
+    "url": "https://qiita.com/songchong/items/9dc9ee419d2764d2aa06?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-13T22:30:46.066559+00:00"
+  },
+  {
+    "url": "https://qiita.com/megmogmog1965/items/334ced1537fcdf0fe21a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-13T22:30:46.066559+00:00"
+  },
+  {
+    "url": "https://zenn.dev/hampen2929/books/ai-agent-evaluation-guide",
+    "sent_at": "2026-09-13T22:30:46.066559+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001430/",
+    "sent_at": "2026-09-13T22:30:46.066559+00:00"
+  },
+  {
+    "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+    "sent_at": "2026-09-13T22:30:46.066559+00:00"
+  },
+  {
+    "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+    "sent_at": "2026-09-13T22:30:46.066559+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "sent_at": "2026-09-13T22:30:46.066559+00:00"
   }
 ]
