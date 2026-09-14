@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/15/075403",
-    "sent_at": "2026-08-15T22:30:49.375565+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/at/2026/at260024.html",
-    "sent_at": "2026-08-15T22:30:49.375565+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/31/171928",
-    "sent_at": "2026-08-15T22:30:49.375565+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/at/2026/at260023.html",
-    "sent_at": "2026-08-15T22:30:49.375565+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#6",
-    "sent_at": "2026-08-15T22:30:49.375565+00:00"
-  },
-  {
-    "url": "https://jvn.jp/vu/JVNVU96623328/",
-    "sent_at": "2026-08-15T22:30:49.375565+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-    "sent_at": "2026-08-15T22:30:49.375565+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#2",
-    "sent_at": "2026-08-15T22:30:49.375565+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#7",
-    "sent_at": "2026-08-15T22:30:49.375565+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260813.html#8",
-    "sent_at": "2026-08-15T22:30:49.375565+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/08/17/053005",
     "sent_at": "2026-08-16T22:30:49.613539+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
     "sent_at": "2026-09-13T22:30:55.809207+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/15/075403",
+    "sent_at": "2026-09-14T22:30:57.955752+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+    "sent_at": "2026-09-14T22:30:57.955752+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+    "sent_at": "2026-09-14T22:30:57.955752+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+    "sent_at": "2026-09-14T22:30:57.955752+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260024.html",
+    "sent_at": "2026-09-14T22:30:57.955752+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+    "sent_at": "2026-09-14T22:30:57.955752+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+    "sent_at": "2026-09-14T22:30:57.955752+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190278",
+    "sent_at": "2026-09-14T22:30:57.955752+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190275",
+    "sent_at": "2026-09-14T22:30:57.955752+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+    "sent_at": "2026-09-14T22:30:57.955752+00:00"
   }
 ]

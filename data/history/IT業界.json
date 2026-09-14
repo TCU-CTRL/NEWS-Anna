@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://qiita.com/tomada/items/0bfbaffce6fae70be17f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-15T22:30:39.959910+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2608/15/news017.html",
-    "sent_at": "2026-08-15T22:30:39.959910+00:00"
-  },
-  {
-    "url": "https://qiita.com/haru-qiita/items/e00ebc98c598a1c4411a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-15T22:30:39.959910+00:00"
-  },
-  {
-    "url": "https://zenn.dev/colum2131/articles/46b5560dce0e3a",
-    "sent_at": "2026-08-15T22:30:39.959910+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2608/16/news009.html",
-    "sent_at": "2026-08-15T22:30:39.959910+00:00"
-  },
-  {
-    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "sent_at": "2026-08-15T22:30:39.959910+00:00"
-  },
-  {
-    "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
-    "sent_at": "2026-08-15T22:30:39.959910+00:00"
-  },
-  {
-    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "sent_at": "2026-08-15T22:30:39.959910+00:00"
-  },
-  {
-    "url": "https://www.nature.com/articles/d41586-026-02448-x",
-    "sent_at": "2026-08-15T22:30:39.959910+00:00"
-  },
-  {
-    "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-    "sent_at": "2026-08-15T22:30:39.959910+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/pcuser/articles/2608/17/news055.html",
     "sent_at": "2026-08-16T22:30:39.168553+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
     "sent_at": "2026-09-13T22:30:46.066559+00:00"
+  },
+  {
+    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+    "sent_at": "2026-09-14T22:30:50.446208+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/14/news025.html",
+    "sent_at": "2026-09-14T22:30:50.446208+00:00"
+  },
+  {
+    "url": "https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-14T22:30:50.446208+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2609/15/news055.html",
+    "sent_at": "2026-09-14T22:30:50.446208+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2609/14/news091.html",
+    "sent_at": "2026-09-14T22:30:50.446208+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001458/",
+    "sent_at": "2026-09-14T22:30:50.446208+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
+    "sent_at": "2026-09-14T22:30:50.446208+00:00"
+  },
+  {
+    "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+    "sent_at": "2026-09-14T22:30:50.446208+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/",
+    "sent_at": "2026-09-14T22:30:50.446208+00:00"
+  },
+  {
+    "url": "https://qiita.com/kataoka_se_sionic/items/b4b00bc39a0ed1fbd73c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-14T22:30:50.446208+00:00"
   }
 ]
