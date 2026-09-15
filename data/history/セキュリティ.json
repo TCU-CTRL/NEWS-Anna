@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/17/053005",
-    "sent_at": "2026-08-16T22:30:49.613539+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/17/065349",
-    "sent_at": "2026-08-16T22:30:49.613539+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-    "sent_at": "2026-08-16T22:30:49.613539+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-    "sent_at": "2026-08-16T22:30:49.613539+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
-    "sent_at": "2026-08-16T22:30:49.613539+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-    "sent_at": "2026-08-16T22:30:49.613539+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-    "sent_at": "2026-08-16T22:30:49.613539+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-    "sent_at": "2026-08-16T22:30:49.613539+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/14/020048",
-    "sent_at": "2026-08-16T22:30:49.613539+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188817",
-    "sent_at": "2026-08-16T22:30:49.613539+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
     "sent_at": "2026-08-17T22:30:51.970239+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
     "sent_at": "2026-09-14T22:30:57.955752+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/15/141320",
+    "sent_at": "2026-09-15T22:31:03.904567+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+    "sent_at": "2026-09-15T22:31:03.904567+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+    "sent_at": "2026-09-15T22:31:03.904567+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+    "sent_at": "2026-09-15T22:31:03.904567+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+    "sent_at": "2026-09-15T22:31:03.904567+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
+    "sent_at": "2026-09-15T22:31:03.904567+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+    "sent_at": "2026-09-15T22:31:03.904567+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/17/053005",
+    "sent_at": "2026-09-15T22:31:03.904567+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190301",
+    "sent_at": "2026-09-15T22:31:03.904567+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+    "sent_at": "2026-09-15T22:31:03.904567+00:00"
   }
 ]
