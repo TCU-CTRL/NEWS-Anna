@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
-    "sent_at": "2026-08-17T22:30:51.970239+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
-    "sent_at": "2026-08-17T22:30:51.970239+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
-    "sent_at": "2026-08-17T22:30:51.970239+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188915",
-    "sent_at": "2026-08-17T22:30:51.970239+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
-    "sent_at": "2026-08-17T22:30:51.970239+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-    "sent_at": "2026-08-17T22:30:51.970239+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-    "sent_at": "2026-08-17T22:30:51.970239+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-    "sent_at": "2026-08-17T22:30:51.970239+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-    "sent_at": "2026-08-17T22:30:51.970239+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188892",
-    "sent_at": "2026-08-17T22:30:51.970239+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
     "sent_at": "2026-08-18T22:30:48.470284+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
     "sent_at": "2026-09-15T22:31:03.904567+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/16/085611",
+    "sent_at": "2026-09-16T22:31:09.953093+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/17/032044",
+    "sent_at": "2026-09-16T22:31:09.953093+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+    "sent_at": "2026-09-16T22:31:09.953093+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+    "sent_at": "2026-09-16T22:31:09.953093+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+    "sent_at": "2026-09-16T22:31:09.953093+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+    "sent_at": "2026-09-16T22:31:09.953093+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+    "sent_at": "2026-09-16T22:31:09.953093+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
+    "sent_at": "2026-09-16T22:31:09.953093+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+    "sent_at": "2026-09-16T22:31:09.953093+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260916.html#16",
+    "sent_at": "2026-09-16T22:31:09.953093+00:00"
   }
 ]
