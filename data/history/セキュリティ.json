@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-    "sent_at": "2026-08-18T22:30:48.470284+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
-    "sent_at": "2026-08-18T22:30:48.470284+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/18/145716",
-    "sent_at": "2026-08-18T22:30:48.470284+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188979",
-    "sent_at": "2026-08-18T22:30:48.470284+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/188947",
-    "sent_at": "2026-08-18T22:30:48.470284+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
-    "sent_at": "2026-08-18T22:30:48.470284+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
-    "sent_at": "2026-08-18T22:30:48.470284+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
-    "sent_at": "2026-08-18T22:30:48.470284+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-    "sent_at": "2026-08-18T22:30:48.470284+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
-    "sent_at": "2026-08-18T22:30:48.470284+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/07/19/181822",
     "sent_at": "2026-08-19T22:30:53.650711+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.jpcert.or.jp/wr/2026/wr260916.html#16",
     "sent_at": "2026-09-16T22:31:09.953093+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
+    "sent_at": "2026-09-17T22:31:02.241805+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
+    "sent_at": "2026-09-17T22:31:02.241805+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+    "sent_at": "2026-09-17T22:31:02.241805+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190434",
+    "sent_at": "2026-09-17T22:31:02.241805+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190443",
+    "sent_at": "2026-09-17T22:31:02.241805+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+    "sent_at": "2026-09-17T22:31:02.241805+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190456",
+    "sent_at": "2026-09-17T22:31:02.241805+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190462",
+    "sent_at": "2026-09-17T22:31:02.241805+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+    "sent_at": "2026-09-17T22:31:02.241805+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+    "sent_at": "2026-09-17T22:31:02.241805+00:00"
   }
 ]

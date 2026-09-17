@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://machine0.io",
-    "sent_at": "2026-08-18T22:30:39.210539+00:00"
-  },
-  {
-    "url": "https://github.com/biw/keychain-store",
-    "sent_at": "2026-08-18T22:30:39.210539+00:00"
-  },
-  {
-    "url": "https://zenn.dev/tsukulink/articles/2026-08-workspace-studio-support-bot",
-    "sent_at": "2026-08-18T22:30:39.210539+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000600/",
-    "sent_at": "2026-08-18T22:30:39.210539+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000580/",
-    "sent_at": "2026-08-18T22:30:39.210539+00:00"
-  },
-  {
-    "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-    "sent_at": "2026-08-18T22:30:39.210539+00:00"
-  },
-  {
-    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-    "sent_at": "2026-08-18T22:30:39.210539+00:00"
-  },
-  {
-    "url": "https://qiita.com/haystacker/items/853234c38ae36adbca1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-18T22:30:39.210539+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
-    "sent_at": "2026-08-18T22:30:39.210539+00:00"
-  },
-  {
-    "url": "https://qiita.com/take-yoda/items/4f561e8ad7c069c71001?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-18T22:30:39.210539+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/business/articles/2608/20/news003.html",
     "sent_at": "2026-08-19T22:30:42.595537+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/mobile/articles/2609/16/news089.html",
     "sent_at": "2026-09-16T22:31:01.633499+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/",
+    "sent_at": "2026-09-17T22:30:54.839803+00:00"
+  },
+  {
+    "url": "https://qiita.com/yuji-arakawa/items/2d49b6e23cdf45fc22d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-17T22:30:54.839803+00:00"
+  },
+  {
+    "url": "https://bend-lang.com/",
+    "sent_at": "2026-09-17T22:30:54.839803+00:00"
+  },
+  {
+    "url": "https://openai.com/index/astra-for-law/",
+    "sent_at": "2026-09-17T22:30:54.839803+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49743049",
+    "sent_at": "2026-09-17T22:30:54.839803+00:00"
+  },
+  {
+    "url": "https://zenn.dev/usen_ict/articles/a9051de6bf2b84",
+    "sent_at": "2026-09-17T22:30:54.839803+00:00"
+  },
+  {
+    "url": "https://zenn.dev/layerx/articles/c835873212b601",
+    "sent_at": "2026-09-17T22:30:54.839803+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/17/news011.html",
+    "sent_at": "2026-09-17T22:30:54.839803+00:00"
+  },
+  {
+    "url": "https://mag.executive.itmedia.co.jp/executive/article/2609/17/2000001574/",
+    "sent_at": "2026-09-17T22:30:54.839803+00:00"
+  },
+  {
+    "url": "https://qiita.com/nasuvitz/items/44f20ed515b9734afb26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-17T22:30:54.839803+00:00"
   }
 ]
