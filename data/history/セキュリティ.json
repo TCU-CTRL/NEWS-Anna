@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/19/181822",
-    "sent_at": "2026-08-19T22:30:53.650711+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-    "sent_at": "2026-08-19T22:30:53.650711+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/20/023850",
-    "sent_at": "2026-08-19T22:30:53.650711+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-    "sent_at": "2026-08-19T22:30:53.650711+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#3",
-    "sent_at": "2026-08-19T22:30:53.650711+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#12",
-    "sent_at": "2026-08-19T22:30:53.650711+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
-    "sent_at": "2026-08-19T22:30:53.650711+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/19/101739",
-    "sent_at": "2026-08-19T22:30:53.650711+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260819.html#14",
-    "sent_at": "2026-08-19T22:30:53.650711+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189013",
-    "sent_at": "2026-08-19T22:30:53.650711+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
     "sent_at": "2026-08-20T22:30:49.904442+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
     "sent_at": "2026-09-17T22:31:02.241805+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+    "sent_at": "2026-09-18T22:31:00.041477+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+    "sent_at": "2026-09-18T22:31:00.041477+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+    "sent_at": "2026-09-18T22:31:00.041477+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+    "sent_at": "2026-09-18T22:31:00.041477+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+    "sent_at": "2026-09-18T22:31:00.041477+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/20/023850",
+    "sent_at": "2026-09-18T22:31:00.041477+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+    "sent_at": "2026-09-18T22:31:00.041477+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190502",
+    "sent_at": "2026-09-18T22:31:00.041477+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190497",
+    "sent_at": "2026-09-18T22:31:00.041477+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190534",
+    "sent_at": "2026-09-18T22:31:00.041477+00:00"
   }
 ]
