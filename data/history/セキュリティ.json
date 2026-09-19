@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-    "sent_at": "2026-08-20T22:30:49.904442+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-    "sent_at": "2026-08-20T22:30:49.904442+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-    "sent_at": "2026-08-20T22:30:49.904442+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
-    "sent_at": "2026-08-20T22:30:49.904442+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-    "sent_at": "2026-08-20T22:30:49.904442+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-    "sent_at": "2026-08-20T22:30:49.904442+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-    "sent_at": "2026-08-20T22:30:49.904442+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
-    "sent_at": "2026-08-20T22:30:49.904442+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189101",
-    "sent_at": "2026-08-20T22:30:49.904442+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189122",
-    "sent_at": "2026-08-20T22:30:49.904442+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
     "sent_at": "2026-08-21T22:30:47.950503+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/190534",
     "sent_at": "2026-09-18T22:31:00.041477+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+    "sent_at": "2026-09-19T22:30:55.337887+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+    "sent_at": "2026-09-19T22:30:55.337887+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+    "sent_at": "2026-09-19T22:30:55.337887+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+    "sent_at": "2026-09-19T22:30:55.337887+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+    "sent_at": "2026-09-19T22:30:55.337887+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+    "sent_at": "2026-09-19T22:30:55.337887+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/18/145716",
+    "sent_at": "2026-09-19T22:30:55.337887+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/19/101739",
+    "sent_at": "2026-09-19T22:30:55.337887+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+    "sent_at": "2026-09-19T22:30:55.337887+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+    "sent_at": "2026-09-19T22:30:55.337887+00:00"
   }
 ]

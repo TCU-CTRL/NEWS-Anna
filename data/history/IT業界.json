@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://zenn.dev/yujif/articles/90696ac3f098e2",
-    "sent_at": "2026-08-20T22:30:40.204731+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
-    "sent_at": "2026-08-20T22:30:40.204731+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2608/20/news079.html",
-    "sent_at": "2026-08-20T22:30:40.204731+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2608/20/news088.html",
-    "sent_at": "2026-08-20T22:30:40.204731+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000634/",
-    "sent_at": "2026-08-20T22:30:40.204731+00:00"
-  },
-  {
-    "url": "https://github.com/zachahn/vomit",
-    "sent_at": "2026-08-20T22:30:40.204731+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
-    "sent_at": "2026-08-20T22:30:40.204731+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000639/",
-    "sent_at": "2026-08-20T22:30:40.204731+00:00"
-  },
-  {
-    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-    "sent_at": "2026-08-20T22:30:40.204731+00:00"
-  },
-  {
-    "url": "https://qiita.com/y_abe_bc/items/d46dfb07c9599a487fbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-20T22:30:40.204731+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/",
     "sent_at": "2026-08-21T22:30:38.905280+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/business/articles/2609/18/news021.html",
     "sent_at": "2026-09-18T22:30:51.920444+00:00"
+  },
+  {
+    "url": "https://github.com/trycua/cua",
+    "sent_at": "2026-09-19T22:30:47.655018+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/19/news004.html",
+    "sent_at": "2026-09-19T22:30:47.655018+00:00"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+    "sent_at": "2026-09-19T22:30:47.655018+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/20/news008.html",
+    "sent_at": "2026-09-19T22:30:47.655018+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
+    "sent_at": "2026-09-19T22:30:47.655018+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
+    "sent_at": "2026-09-19T22:30:47.655018+00:00"
+  },
+  {
+    "url": "https://qiita.com/Isaka-code/items/8944ef8b521517f92da0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-19T22:30:47.655018+00:00"
+  },
+  {
+    "url": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-19T22:30:47.655018+00:00"
+  },
+  {
+    "url": "https://zenn.dev/hakotech/articles/5c2fe2eb8a6051",
+    "sent_at": "2026-09-19T22:30:47.655018+00:00"
+  },
+  {
+    "url": "https://zenn.dev/watany/articles/36e11a20ce3743",
+    "sent_at": "2026-09-19T22:30:47.655018+00:00"
   }
 ]
