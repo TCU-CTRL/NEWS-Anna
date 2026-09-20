@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/",
-    "sent_at": "2026-08-21T22:30:38.905280+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/21/news019.html",
-    "sent_at": "2026-08-21T22:30:38.905280+00:00"
-  },
-  {
-    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-    "sent_at": "2026-08-21T22:30:38.905280+00:00"
-  },
-  {
-    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-    "sent_at": "2026-08-21T22:30:38.905280+00:00"
-  },
-  {
-    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-    "sent_at": "2026-08-21T22:30:38.905280+00:00"
-  },
-  {
-    "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
-    "sent_at": "2026-08-21T22:30:38.905280+00:00"
-  },
-  {
-    "url": "https://qiita.com/a_sato_JQIT/items/a82fccf6d52c05156384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-21T22:30:38.905280+00:00"
-  },
-  {
-    "url": "https://zenn.dev/rb_engineering/articles/f5e5fa60ae0d96",
-    "sent_at": "2026-08-21T22:30:38.905280+00:00"
-  },
-  {
-    "url": "https://zenn.dev/mizchi/articles/quint-application-modeling",
-    "sent_at": "2026-08-21T22:30:38.905280+00:00"
-  },
-  {
-    "url": "https://zenn.dev/dev_commune/articles/acb91817341f8f",
-    "sent_at": "2026-08-21T22:30:38.905280+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/pcuser/articles/2608/23/news005.html",
     "sent_at": "2026-08-22T22:30:38.710079+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://zenn.dev/watany/articles/36e11a20ce3743",
     "sent_at": "2026-09-19T22:30:47.655018+00:00"
+  },
+  {
+    "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
+    "sent_at": "2026-09-20T22:30:48.749614+00:00"
+  },
+  {
+    "url": "https://zenn.dev/hirata_infosys/articles/598068e56ae342",
+    "sent_at": "2026-09-20T22:30:48.749614+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001665/",
+    "sent_at": "2026-09-20T22:30:48.749614+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2609/20/news009.html",
+    "sent_at": "2026-09-20T22:30:48.749614+00:00"
+  },
+  {
+    "url": "https://qiita.com/ubakichi_sr_mc_ai_06/items/8041fa1a2aa024f121b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-20T22:30:48.749614+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/20/news007.html",
+    "sent_at": "2026-09-20T22:30:48.749614+00:00"
+  },
+  {
+    "url": "https://qiita.com/nasuvitz/items/4d27833640ff36b5d8c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-20T22:30:48.749614+00:00"
+  },
+  {
+    "url": "https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations",
+    "sent_at": "2026-09-20T22:30:48.749614+00:00"
+  },
+  {
+    "url": "https://zenn.dev/nwn/articles/824026c76116e0",
+    "sent_at": "2026-09-20T22:30:48.749614+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/20/news026.html",
+    "sent_at": "2026-09-20T22:30:48.749614+00:00"
   }
 ]

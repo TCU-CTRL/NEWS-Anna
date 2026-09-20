@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-    "sent_at": "2026-08-21T22:30:47.950503+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-    "sent_at": "2026-08-21T22:30:47.950503+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/22/033313",
-    "sent_at": "2026-08-21T22:30:47.950503+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-    "sent_at": "2026-08-21T22:30:47.950503+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189206",
-    "sent_at": "2026-08-21T22:30:47.950503+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189049",
-    "sent_at": "2026-08-21T22:30:47.950503+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-    "sent_at": "2026-08-21T22:30:47.950503+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-    "sent_at": "2026-08-21T22:30:47.950503+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
-    "sent_at": "2026-08-21T22:30:47.950503+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-    "sent_at": "2026-08-21T22:30:47.950503+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/08/23/033006",
     "sent_at": "2026-08-22T22:30:48.985659+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
     "sent_at": "2026-09-19T22:30:55.337887+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+    "sent_at": "2026-09-20T22:30:57.164330+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/22/033313",
+    "sent_at": "2026-09-20T22:30:57.164330+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260027.html",
+    "sent_at": "2026-09-20T22:30:57.164330+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260023.html",
+    "sent_at": "2026-09-20T22:30:57.164330+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260916.html#6",
+    "sent_at": "2026-09-20T22:30:57.164330+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260916.html#11",
+    "sent_at": "2026-09-20T22:30:57.164330+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260916.html#15",
+    "sent_at": "2026-09-20T22:30:57.164330+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260916.html#17",
+    "sent_at": "2026-09-20T22:30:57.164330+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+    "sent_at": "2026-09-20T22:30:57.164330+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
+    "sent_at": "2026-09-20T22:30:57.164330+00:00"
   }
 ]
