@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-    "sent_at": "2026-08-23T22:30:43.269203+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-    "sent_at": "2026-08-23T22:30:43.269203+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
-    "sent_at": "2026-08-23T22:30:43.269203+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-    "sent_at": "2026-08-23T22:30:43.269203+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189109",
-    "sent_at": "2026-08-23T22:30:43.269203+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189114",
-    "sent_at": "2026-08-23T22:30:43.269203+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
-    "sent_at": "2026-08-23T22:30:43.269203+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
-    "sent_at": "2026-08-23T22:30:43.269203+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-    "sent_at": "2026-08-23T22:30:43.269203+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
-    "sent_at": "2026-08-23T22:30:43.269203+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
     "sent_at": "2026-08-24T22:30:52.357345+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
     "sent_at": "2026-09-21T22:31:03.475031+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+    "sent_at": "2026-09-22T22:30:58.353269+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+    "sent_at": "2026-09-22T22:30:58.353269+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+    "sent_at": "2026-09-22T22:30:58.353269+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+    "sent_at": "2026-09-22T22:30:58.353269+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+    "sent_at": "2026-09-22T22:30:58.353269+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+    "sent_at": "2026-09-22T22:30:58.353269+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+    "sent_at": "2026-09-22T22:30:58.353269+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+    "sent_at": "2026-09-22T22:30:58.353269+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+    "sent_at": "2026-09-22T22:30:58.353269+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+    "sent_at": "2026-09-22T22:30:58.353269+00:00"
   }
 ]
