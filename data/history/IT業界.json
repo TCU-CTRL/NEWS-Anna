@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://github.com/getkern/kern",
-    "sent_at": "2026-08-24T22:30:44.657085+00:00"
-  },
-  {
-    "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-    "sent_at": "2026-08-24T22:30:44.657085+00:00"
-  },
-  {
-    "url": "https://qiita.com/ryoji9702/items/3c296a6e002064e20090?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-24T22:30:44.657085+00:00"
-  },
-  {
-    "url": "https://zenn.dev/kimushun1101/articles/family-ai-agents-on-discord",
-    "sent_at": "2026-08-24T22:30:44.657085+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000730/",
-    "sent_at": "2026-08-24T22:30:44.657085+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news075.html",
-    "sent_at": "2026-08-24T22:30:44.657085+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000710/",
-    "sent_at": "2026-08-24T22:30:44.657085+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2608/24/news082.html",
-    "sent_at": "2026-08-24T22:30:44.657085+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000662/",
-    "sent_at": "2026-08-24T22:30:44.657085+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2608/24/news068.html",
-    "sent_at": "2026-08-24T22:30:44.657085+00:00"
-  },
-  {
     "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "sent_at": "2026-08-25T22:30:37.254321+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
     "sent_at": "2026-09-22T22:30:51.115624+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
+    "sent_at": "2026-09-23T22:31:04.567130+00:00"
+  },
+  {
+    "url": "https://zenn.dev/toshipon/articles/claude-code-japanese-gemini-3-8",
+    "sent_at": "2026-09-23T22:31:04.567130+00:00"
+  },
+  {
+    "url": "https://qiita.com/songchong/items/7306e0b1a9207e08d86e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-23T22:31:04.567130+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2609/23/news004.html",
+    "sent_at": "2026-09-23T22:31:04.567130+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2609/23/news008.html",
+    "sent_at": "2026-09-23T22:31:04.567130+00:00"
+  },
+  {
+    "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+    "sent_at": "2026-09-23T22:31:04.567130+00:00"
+  },
+  {
+    "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+    "sent_at": "2026-09-23T22:31:04.567130+00:00"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+    "sent_at": "2026-09-23T22:31:04.567130+00:00"
+  },
+  {
+    "url": "https://qiita.com/songchong/items/89175eaa7a30f71d0351?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-23T22:31:04.567130+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
+    "sent_at": "2026-09-23T22:31:04.567130+00:00"
   }
 ]
