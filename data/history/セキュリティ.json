@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-    "sent_at": "2026-08-25T22:30:44.649001+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-    "sent_at": "2026-08-25T22:30:44.649001+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-    "sent_at": "2026-08-25T22:30:44.649001+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
-    "sent_at": "2026-08-25T22:30:44.649001+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-    "sent_at": "2026-08-25T22:30:44.649001+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189386",
-    "sent_at": "2026-08-25T22:30:44.649001+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189331",
-    "sent_at": "2026-08-25T22:30:44.649001+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189322",
-    "sent_at": "2026-08-25T22:30:44.649001+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189348",
-    "sent_at": "2026-08-25T22:30:44.649001+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-    "sent_at": "2026-08-25T22:30:44.649001+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
     "sent_at": "2026-08-26T22:31:01.498647+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
     "sent_at": "2026-09-23T22:31:12.197314+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+    "sent_at": "2026-09-24T22:31:13.501018+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190654",
+    "sent_at": "2026-09-24T22:31:13.501018+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/24/141557",
+    "sent_at": "2026-09-24T22:31:13.501018+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+    "sent_at": "2026-09-24T22:31:13.501018+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+    "sent_at": "2026-09-24T22:31:13.501018+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190629",
+    "sent_at": "2026-09-24T22:31:13.501018+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+    "sent_at": "2026-09-24T22:31:13.501018+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190638",
+    "sent_at": "2026-09-24T22:31:13.501018+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190619",
+    "sent_at": "2026-09-24T22:31:13.501018+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+    "sent_at": "2026-09-24T22:31:13.501018+00:00"
   }
 ]
