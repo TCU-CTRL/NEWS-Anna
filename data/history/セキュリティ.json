@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
-    "sent_at": "2026-08-26T22:31:01.498647+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189416",
-    "sent_at": "2026-08-26T22:31:01.498647+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-    "sent_at": "2026-08-26T22:31:01.498647+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
-    "sent_at": "2026-08-26T22:31:01.498647+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
-    "sent_at": "2026-08-26T22:31:01.498647+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/26/090522",
-    "sent_at": "2026-08-26T22:31:01.498647+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#19",
-    "sent_at": "2026-08-26T22:31:01.498647+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-    "sent_at": "2026-08-26T22:31:01.498647+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189392",
-    "sent_at": "2026-08-26T22:31:01.498647+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189396",
-    "sent_at": "2026-08-26T22:31:01.498647+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
     "sent_at": "2026-08-27T22:30:54.177962+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
     "sent_at": "2026-09-24T22:31:13.501018+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/25/141110",
+    "sent_at": "2026-09-25T22:31:04.347075+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+    "sent_at": "2026-09-25T22:31:04.347075+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+    "sent_at": "2026-09-25T22:31:04.347075+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/26/070036",
+    "sent_at": "2026-09-25T22:31:04.347075+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+    "sent_at": "2026-09-25T22:31:04.347075+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+    "sent_at": "2026-09-25T22:31:04.347075+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/25/130414",
+    "sent_at": "2026-09-25T22:31:04.347075+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190675",
+    "sent_at": "2026-09-25T22:31:04.347075+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190616",
+    "sent_at": "2026-09-25T22:31:04.347075+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190695",
+    "sent_at": "2026-09-25T22:31:04.347075+00:00"
   }
 ]
