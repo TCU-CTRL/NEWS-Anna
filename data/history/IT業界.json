@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://qiita.com/songchong/items/dc75c6f3789348408f9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-27T22:30:46.943831+00:00"
-  },
-  {
-    "url": "https://github.com/experientiallabs/experiential",
-    "sent_at": "2026-08-27T22:30:46.943831+00:00"
-  },
-  {
-    "url": "https://news.ycombinator.com/item?id=49466715",
-    "sent_at": "2026-08-27T22:30:46.943831+00:00"
-  },
-  {
-    "url": "https://qiita.com/inoyu-qiita/items/601e7b70fc3a6b214a2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-27T22:30:46.943831+00:00"
-  },
-  {
-    "url": "https://qiita.com/nakasato310/items/836f78b074ac38f54434?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-27T22:30:46.943831+00:00"
-  },
-  {
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-    "sent_at": "2026-08-27T22:30:46.943831+00:00"
-  },
-  {
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-    "sent_at": "2026-08-27T22:30:46.943831+00:00"
-  },
-  {
-    "url": "https://github.com/opslane/opslane",
-    "sent_at": "2026-08-27T22:30:46.943831+00:00"
-  },
-  {
-    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-    "sent_at": "2026-08-27T22:30:46.943831+00:00"
-  },
-  {
-    "url": "https://qiita.com/moritalous/items/4a70f0bee16d5d690a73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-27T22:30:46.943831+00:00"
-  },
-  {
     "url": "https://zenn.dev/highreso/articles/9d74b825b83e8f",
     "sent_at": "2026-08-28T22:30:40.057351+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://zenn.dev/toshipon/articles/jev-paper-screening-vs-llm",
     "sent_at": "2026-09-25T22:30:54.540939+00:00"
+  },
+  {
+    "url": "https://www.gptbeyond.com/try?home=1",
+    "sent_at": "2026-09-26T22:30:47.215168+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/27/news007.html",
+    "sent_at": "2026-09-26T22:30:47.215168+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49861047",
+    "sent_at": "2026-09-26T22:30:47.215168+00:00"
+  },
+  {
+    "url": "https://qiita.com/TechStudioLab/items/83349e8b4cdf07b97cd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-26T22:30:47.215168+00:00"
+  },
+  {
+    "url": "https://github.com/reladraw/reladraw",
+    "sent_at": "2026-09-26T22:30:47.215168+00:00"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+    "sent_at": "2026-09-26T22:30:47.215168+00:00"
+  },
+  {
+    "url": "https://qiita.com/TechStudioLab/items/906d86684fbcb92eedbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-26T22:30:47.215168+00:00"
+  },
+  {
+    "url": "https://zenn.dev/ymotongpoo/books/observability-platform-with-otel",
+    "sent_at": "2026-09-26T22:30:47.215168+00:00"
+  },
+  {
+    "url": "https://zenn.dev/devuloper/articles/vercel_import_candidates_email",
+    "sent_at": "2026-09-26T22:30:47.215168+00:00"
+  },
+  {
+    "url": "https://zenn.dev/nanora/articles/20260925-claude-prompt-audit-opus55",
+    "sent_at": "2026-09-26T22:30:47.215168+00:00"
   }
 ]
