@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://zenn.dev/highreso/articles/9d74b825b83e8f",
-    "sent_at": "2026-08-28T22:30:40.057351+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000901/",
-    "sent_at": "2026-08-28T22:30:40.057351+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
-    "sent_at": "2026-08-28T22:30:40.057351+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000892/",
-    "sent_at": "2026-08-28T22:30:40.057351+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000633/",
-    "sent_at": "2026-08-28T22:30:40.057351+00:00"
-  },
-  {
-    "url": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
-    "sent_at": "2026-08-28T22:30:40.057351+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000895/",
-    "sent_at": "2026-08-28T22:30:40.057351+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/28/news015.html",
-    "sent_at": "2026-08-28T22:30:40.057351+00:00"
-  },
-  {
-    "url": "https://usesesame.app/",
-    "sent_at": "2026-08-28T22:30:40.057351+00:00"
-  },
-  {
-    "url": "https://qiita.com/moritalous/items/728b20d34d36275c0a33?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-28T22:30:40.057351+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/enterprise/articles/2608/29/news008.html",
     "sent_at": "2026-08-29T22:30:40.629252+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://zenn.dev/nanora/articles/20260925-claude-prompt-audit-opus55",
     "sent_at": "2026-09-26T22:30:47.215168+00:00"
+  },
+  {
+    "url": "https://qiita.com/songchong/items/9122c8a264ff07cc2d83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-27T22:30:49.391040+00:00"
+  },
+  {
+    "url": "https://zenn.dev/key60228/articles/d4f2591a42a876",
+    "sent_at": "2026-09-27T22:30:49.391040+00:00"
+  },
+  {
+    "url": "https://qiita.com/songchong/items/97ba76b89c3840bc498e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-27T22:30:49.391040+00:00"
+  },
+  {
+    "url": "https://qiita.com/cvusk/items/cc557648d907a8399180?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-27T22:30:49.391040+00:00"
+  },
+  {
+    "url": "https://zenn.dev/mazrean/articles/bd9b563ace18db",
+    "sent_at": "2026-09-27T22:30:49.391040+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001776/",
+    "sent_at": "2026-09-27T22:30:49.391040+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2609/27/news009.html",
+    "sent_at": "2026-09-27T22:30:49.391040+00:00"
+  },
+  {
+    "url": "https://github.com/deepfates/imp",
+    "sent_at": "2026-09-27T22:30:49.391040+00:00"
+  },
+  {
+    "url": "https://fireworks.ai/blog/ember-1",
+    "sent_at": "2026-09-27T22:30:49.391040+00:00"
+  },
+  {
+    "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+    "sent_at": "2026-09-27T22:30:49.391040+00:00"
   }
 ]
