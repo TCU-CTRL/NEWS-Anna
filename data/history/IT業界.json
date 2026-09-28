@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/29/news008.html",
-    "sent_at": "2026-08-29T22:30:40.629252+00:00"
-  },
-  {
-    "url": "https://qiita.com/OnuuuumaX/items/4bb47e2770e28207778a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-29T22:30:40.629252+00:00"
-  },
-  {
-    "url": "https://zenn.dev/safie_inc/articles/ee72b837e4a5f1",
-    "sent_at": "2026-08-29T22:30:40.629252+00:00"
-  },
-  {
-    "url": "https://qiita.com/OnuuuumaX/items/8b7ac7751411f79a41d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-29T22:30:40.629252+00:00"
-  },
-  {
-    "url": "https://qiita.com/NTTDATA-Kyushu-Cloud/items/9b43734a2597bc37a48b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-29T22:30:40.629252+00:00"
-  },
-  {
-    "url": "https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval",
-    "sent_at": "2026-08-29T22:30:40.629252+00:00"
-  },
-  {
-    "url": "https://zenn.dev/sc30gsw/articles/953334f11df507",
-    "sent_at": "2026-08-29T22:30:40.629252+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2608/29/news021.html",
-    "sent_at": "2026-08-29T22:30:40.629252+00:00"
-  },
-  {
-    "url": "https://coldtake.dev/blog/domain-driven-agents",
-    "sent_at": "2026-08-29T22:30:40.629252+00:00"
-  },
-  {
-    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-    "sent_at": "2026-08-29T22:30:40.629252+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/pcuser/articles/2608/31/news055.html",
     "sent_at": "2026-08-30T22:30:41.723695+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
     "sent_at": "2026-09-27T22:30:49.391040+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001823/",
+    "sent_at": "2026-09-28T22:30:58.351339+00:00"
+  },
+  {
+    "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+    "sent_at": "2026-09-28T22:30:58.351339+00:00"
+  },
+  {
+    "url": "https://qiita.com/lucnguyen/items/db34e792b5ec7e173254?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-28T22:30:58.351339+00:00"
+  },
+  {
+    "url": "https://qiita.com/jqit-yukiono/items/869751db9269dc2ce84a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-28T22:30:58.351339+00:00"
+  },
+  {
+    "url": "https://qiita.com/nr-mito/items/f8f2216ec3a21b6d6c41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-28T22:30:58.351339+00:00"
+  },
+  {
+    "url": "https://zenn.dev/headwaters/articles/15875671106c54",
+    "sent_at": "2026-09-28T22:30:58.351339+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/29/news055.html",
+    "sent_at": "2026-09-28T22:30:58.351339+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001672/",
+    "sent_at": "2026-09-28T22:30:58.351339+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2609/28/news103.html",
+    "sent_at": "2026-09-28T22:30:58.351339+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001818/",
+    "sent_at": "2026-09-28T22:30:58.351339+00:00"
   }
 ]

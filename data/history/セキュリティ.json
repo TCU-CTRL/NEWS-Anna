@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-    "sent_at": "2026-08-29T22:30:48.413486+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#18",
-    "sent_at": "2026-08-29T22:30:48.413486+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189551",
-    "sent_at": "2026-08-29T22:30:48.413486+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189544",
-    "sent_at": "2026-08-29T22:30:48.413486+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-    "sent_at": "2026-08-29T22:30:48.413486+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
-    "sent_at": "2026-08-29T22:30:48.413486+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#5",
-    "sent_at": "2026-08-29T22:30:48.413486+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260826.html#15",
-    "sent_at": "2026-08-29T22:30:48.413486+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189538",
-    "sent_at": "2026-08-29T22:30:48.413486+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189532",
-    "sent_at": "2026-08-29T22:30:48.413486+00:00"
-  },
-  {
     "url": "https://www.jpcert.or.jp/at/2026/at260021.html",
     "sent_at": "2026-08-30T22:30:49.455718+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
     "sent_at": "2026-09-27T22:30:57.227640+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+    "sent_at": "2026-09-28T22:31:04.914462+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+    "sent_at": "2026-09-28T22:31:04.914462+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+    "sent_at": "2026-09-28T22:31:04.914462+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+    "sent_at": "2026-09-28T22:31:04.914462+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+    "sent_at": "2026-09-28T22:31:04.914462+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+    "sent_at": "2026-09-28T22:31:04.914462+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+    "sent_at": "2026-09-28T22:31:04.914462+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+    "sent_at": "2026-09-28T22:31:04.914462+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/28/082600",
+    "sent_at": "2026-09-28T22:31:04.914462+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260029.html",
+    "sent_at": "2026-09-28T22:31:04.914462+00:00"
   }
 ]
