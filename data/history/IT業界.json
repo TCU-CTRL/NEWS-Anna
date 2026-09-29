@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2608/31/news055.html",
-    "sent_at": "2026-08-30T22:30:41.723695+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
-    "sent_at": "2026-08-30T22:30:41.723695+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2608/30/news008.html",
-    "sent_at": "2026-08-30T22:30:41.723695+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
-    "sent_at": "2026-08-30T22:30:41.723695+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000911/",
-    "sent_at": "2026-08-30T22:30:41.723695+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/30/news005.html",
-    "sent_at": "2026-08-30T22:30:41.723695+00:00"
-  },
-  {
-    "url": "https://qiita.com/yosuke-suzuki/items/3cbd19db1e33853a2f91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-30T22:30:41.723695+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2608/30/news012.html",
-    "sent_at": "2026-08-30T22:30:41.723695+00:00"
-  },
-  {
-    "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-    "sent_at": "2026-08-30T22:30:41.723695+00:00"
-  },
-  {
-    "url": "https://github.com/KodeMunkie/sm750hdmifb",
-    "sent_at": "2026-08-30T22:30:41.723695+00:00"
-  },
-  {
     "url": "https://usealmanac.com/",
     "sent_at": "2026-08-31T22:30:41.724077+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001818/",
     "sent_at": "2026-09-28T22:30:58.351339+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001837/",
+    "sent_at": "2026-09-29T22:30:49.216925+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001839/",
+    "sent_at": "2026-09-29T22:30:49.216925+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001868/",
+    "sent_at": "2026-09-29T22:30:49.216925+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001854/",
+    "sent_at": "2026-09-29T22:30:49.216925+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2609/29/news044.html",
+    "sent_at": "2026-09-29T22:30:49.216925+00:00"
+  },
+  {
+    "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+    "sent_at": "2026-09-29T22:30:49.216925+00:00"
+  },
+  {
+    "url": "https://openai.com/index/introducing-dots/",
+    "sent_at": "2026-09-29T22:30:49.216925+00:00"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "sent_at": "2026-09-29T22:30:49.216925+00:00"
+  },
+  {
+    "url": "https://qiita.com/suwa_nobu/items/5749949156f8df6f728b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-29T22:30:49.216925+00:00"
+  },
+  {
+    "url": "https://qiita.com/itokazu/items/c4bc3f4535a653b4de73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-29T22:30:49.216925+00:00"
   }
 ]
