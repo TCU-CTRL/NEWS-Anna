@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/31/214935",
-    "sent_at": "2026-08-31T22:30:50.184321+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
-    "sent_at": "2026-08-31T22:30:50.184321+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
-    "sent_at": "2026-08-31T22:30:50.184321+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189591",
-    "sent_at": "2026-08-31T22:30:50.184321+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-    "sent_at": "2026-08-31T22:30:50.184321+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-    "sent_at": "2026-08-31T22:30:50.184321+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-    "sent_at": "2026-08-31T22:30:50.184321+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-    "sent_at": "2026-08-31T22:30:50.184321+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
-    "sent_at": "2026-08-31T22:30:50.184321+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189600",
-    "sent_at": "2026-08-31T22:30:50.184321+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/08/02/021509",
     "sent_at": "2026-09-01T22:31:29.334830+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
     "sent_at": "2026-09-29T22:30:56.213345+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/30/080115",
+    "sent_at": "2026-09-30T22:30:59.775629+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+    "sent_at": "2026-09-30T22:30:59.775629+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+    "sent_at": "2026-09-30T22:30:59.775629+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+    "sent_at": "2026-09-30T22:30:59.775629+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+    "sent_at": "2026-09-30T22:30:59.775629+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+    "sent_at": "2026-09-30T22:30:59.775629+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#17",
+    "sent_at": "2026-09-30T22:30:59.775629+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190829",
+    "sent_at": "2026-09-30T22:30:59.775629+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190854",
+    "sent_at": "2026-09-30T22:30:59.775629+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190850",
+    "sent_at": "2026-09-30T22:30:59.775629+00:00"
   }
 ]

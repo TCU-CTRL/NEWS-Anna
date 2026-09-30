@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://usealmanac.com/",
-    "sent_at": "2026-08-31T22:30:41.724077+00:00"
-  },
-  {
-    "url": "https://qiita.com/aokikenichi/items/97b326122334c7f8eea3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-31T22:30:41.724077+00:00"
-  },
-  {
-    "url": "https://qiita.com/Sin9_Ha/items/63b569099fc2f871ba5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-31T22:30:41.724077+00:00"
-  },
-  {
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "sent_at": "2026-08-31T22:30:41.724077+00:00"
-  },
-  {
-    "url": "https://qiita.com/songchong/items/3abbc43f0d7c471e6688?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-31T22:30:41.724077+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2609/01/news007.html",
-    "sent_at": "2026-08-31T22:30:41.724077+00:00"
-  },
-  {
-    "url": "https://zenn.dev/kawarimidoll/articles/d3f1a7542de71a",
-    "sent_at": "2026-08-31T22:30:41.724077+00:00"
-  },
-  {
-    "url": "https://qiita.com/nolanlover0527/items/7650fe71fa0bca85a727?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-08-31T22:30:41.724077+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
-    "sent_at": "2026-08-31T22:30:41.724077+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/",
-    "sent_at": "2026-08-31T22:30:41.724077+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001023/",
     "sent_at": "2026-09-01T22:31:15.389692+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://qiita.com/itokazu/items/c4bc3f4535a653b4de73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-09-29T22:30:49.216925+00:00"
+  },
+  {
+    "url": "https://zenn.dev/labcode/books/c4f81b6a2d9e37",
+    "sent_at": "2026-09-30T22:30:52.863929+00:00"
+  },
+  {
+    "url": "https://github.com/magnitudedev/magnitude",
+    "sent_at": "2026-09-30T22:30:52.863929+00:00"
+  },
+  {
+    "url": "https://zenn.dev/yy7613/articles/c150ef962ccc1f",
+    "sent_at": "2026-09-30T22:30:52.863929+00:00"
+  },
+  {
+    "url": "https://qiita.com/kyuko/items/c113aebe145ddf691796?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-09-30T22:30:52.863929+00:00"
+  },
+  {
+    "url": "https://zenn.dev/schroneko/articles/openai-devday-2026",
+    "sent_at": "2026-09-30T22:30:52.863929+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001892/",
+    "sent_at": "2026-09-30T22:30:52.863929+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001789/",
+    "sent_at": "2026-09-30T22:30:52.863929+00:00"
+  },
+  {
+    "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+    "sent_at": "2026-09-30T22:30:52.863929+00:00"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "sent_at": "2026-09-30T22:30:52.863929+00:00"
+  },
+  {
+    "url": "https://lathoa.ai/en",
+    "sent_at": "2026-09-30T22:30:52.863929+00:00"
   }
 ]
