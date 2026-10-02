@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001023/",
-    "sent_at": "2026-09-01T22:31:15.389692+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001045/",
-    "sent_at": "2026-09-01T22:31:15.389692+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/01/news084.html",
-    "sent_at": "2026-09-01T22:31:15.389692+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2609/01/news074.html",
-    "sent_at": "2026-09-01T22:31:15.389692+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000743/",
-    "sent_at": "2026-09-01T22:31:15.389692+00:00"
-  },
-  {
-    "url": "https://hnmatchmaker.com/",
-    "sent_at": "2026-09-01T22:31:15.389692+00:00"
-  },
-  {
-    "url": "https://openai.com/index/path-to-astra/",
-    "sent_at": "2026-09-01T22:31:15.389692+00:00"
-  },
-  {
-    "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-    "sent_at": "2026-09-01T22:31:15.389692+00:00"
-  },
-  {
-    "url": "https://www.norirobotics.com/",
-    "sent_at": "2026-09-01T22:31:15.389692+00:00"
-  },
-  {
-    "url": "https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor",
-    "sent_at": "2026-09-01T22:31:15.389692+00:00"
-  },
-  {
-    "url": "https://qiita.com/shirok/items/b4b0072073d6edcb0907?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-02T22:30:46.274956+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2609/03/news022.html",
-    "sent_at": "2026-09-02T22:30:46.274956+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001082/",
-    "sent_at": "2026-09-02T22:30:46.274956+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2609/02/news095.html",
-    "sent_at": "2026-09-02T22:30:46.274956+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/02/news025.html",
-    "sent_at": "2026-09-02T22:30:46.274956+00:00"
-  },
-  {
-    "url": "https://github.com/mlc-ai/web-llm",
-    "sent_at": "2026-09-02T22:30:46.274956+00:00"
-  },
-  {
-    "url": "https://zenn.dev/pepabo/articles/minne-ai-native-org-2026",
-    "sent_at": "2026-09-02T22:30:46.274956+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2609/03/news036.html",
-    "sent_at": "2026-09-02T22:30:46.274956+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001062/",
-    "sent_at": "2026-09-02T22:30:46.274956+00:00"
-  },
-  {
-    "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-    "sent_at": "2026-09-02T22:30:46.274956+00:00"
-  },
-  {
     "url": "https://qiita.com/ssfujita/items/1b902f20dfc2c64ad44f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-09-03T22:30:55.112316+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://zenn.dev/algoartis/articles/0b1c731881b25c",
     "sent_at": "2026-10-01T22:30:44.052130+00:00"
+  },
+  {
+    "url": "https://github.com/anteloc/ldraw-nova",
+    "sent_at": "2026-10-02T22:30:51.113344+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001967/",
+    "sent_at": "2026-10-02T22:30:51.113344+00:00"
+  },
+  {
+    "url": "https://qiita.com/ntaka329/items/260b76e087ee593998d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-02T22:30:51.113344+00:00"
+  },
+  {
+    "url": "https://gadgets.muse.ai",
+    "sent_at": "2026-10-02T22:30:51.113344+00:00"
+  },
+  {
+    "url": "https://zenn.dev/85store/articles/574a1a07233283",
+    "sent_at": "2026-10-02T22:30:51.113344+00:00"
+  },
+  {
+    "url": "https://zenn.dev/spookies/articles/e70b80a510f5e2",
+    "sent_at": "2026-10-02T22:30:51.113344+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/02/news072.html",
+    "sent_at": "2026-10-02T22:30:51.113344+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001977/",
+    "sent_at": "2026-10-02T22:30:51.113344+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/02/news061.html",
+    "sent_at": "2026-10-02T22:30:51.113344+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/01/news070.html",
+    "sent_at": "2026-10-02T22:30:51.113344+00:00"
   }
 ]

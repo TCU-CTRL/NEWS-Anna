@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/02/021509",
-    "sent_at": "2026-09-01T22:31:29.334830+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-    "sent_at": "2026-09-01T22:31:29.334830+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/02/022540",
-    "sent_at": "2026-09-01T22:31:29.334830+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-    "sent_at": "2026-09-01T22:31:29.334830+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
-    "sent_at": "2026-09-01T22:31:29.334830+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-    "sent_at": "2026-09-01T22:31:29.334830+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189666",
-    "sent_at": "2026-09-01T22:31:29.334830+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189686",
-    "sent_at": "2026-09-01T22:31:29.334830+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
-    "sent_at": "2026-09-01T22:31:29.334830+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189471",
-    "sent_at": "2026-09-01T22:31:29.334830+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-    "sent_at": "2026-09-02T22:30:54.253524+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-    "sent_at": "2026-09-02T22:30:54.253524+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-    "sent_at": "2026-09-02T22:30:54.253524+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-    "sent_at": "2026-09-02T22:30:54.253524+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-    "sent_at": "2026-09-02T22:30:54.253524+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-    "sent_at": "2026-09-02T22:30:54.253524+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-    "sent_at": "2026-09-02T22:30:54.253524+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189711",
-    "sent_at": "2026-09-02T22:30:54.253524+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189739",
-    "sent_at": "2026-09-02T22:30:54.253524+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189721",
-    "sent_at": "2026-09-02T22:30:54.253524+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/08/04/183114",
     "sent_at": "2026-09-03T22:31:02.289729+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
     "sent_at": "2026-10-01T22:30:52.372158+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/03/001121",
+    "sent_at": "2026-10-02T22:30:58.198729+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+    "sent_at": "2026-10-02T22:30:58.198729+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+    "sent_at": "2026-10-02T22:30:58.198729+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/02/174228",
+    "sent_at": "2026-10-02T22:30:58.198729+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+    "sent_at": "2026-10-02T22:30:58.198729+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+    "sent_at": "2026-10-02T22:30:58.198729+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/02/022540",
+    "sent_at": "2026-10-02T22:30:58.198729+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190943",
+    "sent_at": "2026-10-02T22:30:58.198729+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+    "sent_at": "2026-10-02T22:30:58.198729+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#18",
+    "sent_at": "2026-10-02T22:30:58.198729+00:00"
   }
 ]
