@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/04/183114",
-    "sent_at": "2026-09-03T22:31:02.289729+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/04/025755",
-    "sent_at": "2026-09-03T22:31:02.289729+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
-    "sent_at": "2026-09-03T22:31:02.289729+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-    "sent_at": "2026-09-03T22:31:02.289729+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-    "sent_at": "2026-09-03T22:31:02.289729+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189782",
-    "sent_at": "2026-09-03T22:31:02.289729+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189796",
-    "sent_at": "2026-09-03T22:31:02.289729+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-    "sent_at": "2026-09-03T22:31:02.289729+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189805",
-    "sent_at": "2026-09-03T22:31:02.289729+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-    "sent_at": "2026-09-03T22:31:02.289729+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-    "sent_at": "2026-09-04T22:30:53.387036+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-    "sent_at": "2026-09-04T22:30:53.387036+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
-    "sent_at": "2026-09-04T22:30:53.387036+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/04/115554",
-    "sent_at": "2026-09-04T22:30:53.387036+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189837",
-    "sent_at": "2026-09-04T22:30:53.387036+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/04/134335",
-    "sent_at": "2026-09-04T22:30:53.387036+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189869",
-    "sent_at": "2026-09-04T22:30:53.387036+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-    "sent_at": "2026-09-04T22:30:53.387036+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-    "sent_at": "2026-09-04T22:30:53.387036+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189848",
-    "sent_at": "2026-09-04T22:30:53.387036+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/08/06/014225",
     "sent_at": "2026-09-05T22:30:54.038152+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#21",
     "sent_at": "2026-10-03T22:30:48.159174+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+    "sent_at": "2026-10-04T22:30:57.504280+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/30/013735",
+    "sent_at": "2026-10-04T22:30:57.504280+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/04/115554",
+    "sent_at": "2026-10-04T22:30:57.504280+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/04/134335",
+    "sent_at": "2026-10-04T22:30:57.504280+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/05/023139",
+    "sent_at": "2026-10-04T22:30:57.504280+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+    "sent_at": "2026-10-04T22:30:57.504280+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#25",
+    "sent_at": "2026-10-04T22:30:57.504280+00:00"
+  },
+  {
+    "url": "https://jvn.jp/vu/JVNVU94648869/",
+    "sent_at": "2026-10-04T22:30:57.504280+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190833",
+    "sent_at": "2026-10-04T22:30:57.504280+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+    "sent_at": "2026-10-04T22:30:57.504280+00:00"
   }
 ]
