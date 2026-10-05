@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/06/014225",
-    "sent_at": "2026-09-05T22:30:54.038152+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-    "sent_at": "2026-09-05T22:30:54.038152+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-    "sent_at": "2026-09-05T22:30:54.038152+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-    "sent_at": "2026-09-05T22:30:54.038152+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-    "sent_at": "2026-09-05T22:30:54.038152+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-    "sent_at": "2026-09-05T22:30:54.038152+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-    "sent_at": "2026-09-05T22:30:54.038152+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
-    "sent_at": "2026-09-05T22:30:54.038152+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-    "sent_at": "2026-09-05T22:30:54.038152+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/02/165033",
-    "sent_at": "2026-09-05T22:30:54.038152+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/08/07/010001",
     "sent_at": "2026-09-06T22:30:51.582420+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
     "sent_at": "2026-10-04T22:30:57.504280+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+    "sent_at": "2026-10-05T22:30:54.954238+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+    "sent_at": "2026-10-05T22:30:54.954238+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
+    "sent_at": "2026-10-05T22:30:54.954238+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+    "sent_at": "2026-10-05T22:30:54.954238+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
+    "sent_at": "2026-10-05T22:30:54.954238+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/05/115509",
+    "sent_at": "2026-10-05T22:30:54.954238+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191015",
+    "sent_at": "2026-10-05T22:30:54.954238+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191005",
+    "sent_at": "2026-10-05T22:30:54.954238+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191010",
+    "sent_at": "2026-10-05T22:30:54.954238+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/190961",
+    "sent_at": "2026-10-05T22:30:54.954238+00:00"
   }
 ]

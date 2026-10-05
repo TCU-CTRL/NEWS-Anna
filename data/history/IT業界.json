@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/06/news004.html",
-    "sent_at": "2026-09-05T22:30:43.802125+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
-    "sent_at": "2026-09-05T22:30:43.802125+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/05/news006.html",
-    "sent_at": "2026-09-05T22:30:43.802125+00:00"
-  },
-  {
-    "url": "https://qiita.com/Oborova/items/95b314104ec0538f9b04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-05T22:30:43.802125+00:00"
-  },
-  {
-    "url": "https://zenn.dev/nanasess/articles/noctty-wsl-terminal-contribution",
-    "sent_at": "2026-09-05T22:30:43.802125+00:00"
-  },
-  {
-    "url": "https://qiita.com/adgjmptw0/items/365a4437aad4c939d1cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-05T22:30:43.802125+00:00"
-  },
-  {
-    "url": "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
-    "sent_at": "2026-09-05T22:30:43.802125+00:00"
-  },
-  {
-    "url": "https://zenn.dev/knowledgesense/articles/ad123283bdea26",
-    "sent_at": "2026-09-05T22:30:43.802125+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
-    "sent_at": "2026-09-05T22:30:43.802125+00:00"
-  },
-  {
-    "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-    "sent_at": "2026-09-05T22:30:43.802125+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/pcuser/articles/2609/07/news042.html",
     "sent_at": "2026-09-06T22:30:44.067014+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://github.com/net4people/bbs/issues/672",
     "sent_at": "2026-10-04T22:30:49.955552+00:00"
+  },
+  {
+    "url": "https://qiita.com/songchong/items/873b4f14d26296176cfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-05T22:30:46.612138+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/",
+    "sent_at": "2026-10-05T22:30:46.612138+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/05/news025.html",
+    "sent_at": "2026-10-05T22:30:46.612138+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/05/news036.html",
+    "sent_at": "2026-10-05T22:30:46.612138+00:00"
+  },
+  {
+    "url": "https://openai.com/index/eu-text-provenance/",
+    "sent_at": "2026-10-05T22:30:46.612138+00:00"
+  },
+  {
+    "url": "https://zenn.dev/tetsuro731/articles/6efe77a20b8c1c",
+    "sent_at": "2026-10-05T22:30:46.612138+00:00"
+  },
+  {
+    "url": "https://qiita.com/ssfujita/items/8be112a1d43ab25f0cd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-05T22:30:46.612138+00:00"
+  },
+  {
+    "url": "https://qiita.com/tomokoro/items/69f8d2f1a3504927b6c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-05T22:30:46.612138+00:00"
+  },
+  {
+    "url": "https://zenn.dev/acntechjp/articles/zenn-system1-owata2-realtime",
+    "sent_at": "2026-10-05T22:30:46.612138+00:00"
+  },
+  {
+    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+    "sent_at": "2026-10-05T22:30:46.612138+00:00"
   }
 ]
