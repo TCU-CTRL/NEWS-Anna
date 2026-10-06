@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/07/010001",
-    "sent_at": "2026-09-06T22:30:51.582420+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#14",
-    "sent_at": "2026-09-06T22:30:51.582420+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#2",
-    "sent_at": "2026-09-06T22:30:51.582420+00:00"
-  },
-  {
-    "url": "https://jvn.jp/vu/JVNVU96558110/",
-    "sent_at": "2026-09-06T22:30:51.582420+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#10",
-    "sent_at": "2026-09-06T22:30:51.582420+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260902.html#13",
-    "sent_at": "2026-09-06T22:30:51.582420+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189854",
-    "sent_at": "2026-09-06T22:30:51.582420+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-    "sent_at": "2026-09-06T22:30:51.582420+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-    "sent_at": "2026-09-06T22:30:51.582420+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-    "sent_at": "2026-09-06T22:30:51.582420+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/08/08/020650",
     "sent_at": "2026-09-07T22:30:57.355736+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/190961",
     "sent_at": "2026-10-05T22:30:54.954238+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191061",
+    "sent_at": "2026-10-06T22:33:11.696011+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+    "sent_at": "2026-10-06T22:33:11.696011+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/06/103019",
+    "sent_at": "2026-10-06T22:33:11.696011+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+    "sent_at": "2026-10-06T22:33:11.696011+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
+    "sent_at": "2026-10-06T22:33:11.696011+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+    "sent_at": "2026-10-06T22:33:11.696011+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191078",
+    "sent_at": "2026-10-06T22:33:11.696011+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+    "sent_at": "2026-10-06T22:33:11.696011+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+    "sent_at": "2026-10-06T22:33:11.696011+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191058",
+    "sent_at": "2026-10-06T22:33:11.696011+00:00"
   }
 ]
