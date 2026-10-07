@@ -1198,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/191058",
     "sent_at": "2026-10-06T22:33:11.696011+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+    "sent_at": "2026-10-07T22:30:54.638953+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/08/070606",
+    "sent_at": "2026-10-07T22:30:54.638953+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+    "sent_at": "2026-10-07T22:30:54.638953+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+    "sent_at": "2026-10-07T22:30:54.638953+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/07/120750",
+    "sent_at": "2026-10-07T22:30:54.638953+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/07/094633",
+    "sent_at": "2026-10-07T22:30:54.638953+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191115",
+    "sent_at": "2026-10-07T22:30:54.638953+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+    "sent_at": "2026-10-07T22:30:54.638953+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191125",
+    "sent_at": "2026-10-07T22:30:54.638953+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191141",
+    "sent_at": "2026-10-07T22:30:54.638953+00:00"
   }
 ]
