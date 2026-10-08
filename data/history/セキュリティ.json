@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/08/020650",
-    "sent_at": "2026-09-07T22:30:57.355736+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
-    "sent_at": "2026-09-07T22:30:57.355736+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
-    "sent_at": "2026-09-07T22:30:57.355736+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
-    "sent_at": "2026-09-07T22:30:57.355736+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
-    "sent_at": "2026-09-07T22:30:57.355736+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-    "sent_at": "2026-09-07T22:30:57.355736+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-    "sent_at": "2026-09-07T22:30:57.355736+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/189918",
-    "sent_at": "2026-09-07T22:30:57.355736+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
-    "sent_at": "2026-09-07T22:30:57.355736+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
-    "sent_at": "2026-09-07T22:30:57.355736+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/09/08/164128",
     "sent_at": "2026-09-08T22:30:56.356350+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/191141",
     "sent_at": "2026-10-07T22:30:54.638953+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+    "sent_at": "2026-10-08T22:30:53.829907+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+    "sent_at": "2026-10-08T22:30:53.829907+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+    "sent_at": "2026-10-08T22:30:53.829907+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191184",
+    "sent_at": "2026-10-08T22:30:53.829907+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191180",
+    "sent_at": "2026-10-08T22:30:53.829907+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191191",
+    "sent_at": "2026-10-08T22:30:53.829907+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+    "sent_at": "2026-10-08T22:30:53.829907+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+    "sent_at": "2026-10-08T22:30:53.829907+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+    "sent_at": "2026-10-08T22:30:53.829907+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261007.html#3",
+    "sent_at": "2026-10-08T22:30:53.829907+00:00"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/06/news003.html",
-    "sent_at": "2026-09-07T22:30:48.584431+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/16/news002.html",
-    "sent_at": "2026-09-07T22:30:48.584431+00:00"
-  },
-  {
-    "url": "https://zenn.dev/yumeno/articles/rtx5060ti-qwen38-ollama-context-tuning",
-    "sent_at": "2026-09-07T22:30:48.584431+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2609/07/news075.html",
-    "sent_at": "2026-09-07T22:30:48.584431+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2609/07/news057.html",
-    "sent_at": "2026-09-07T22:30:48.584431+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/07/2000001204/",
-    "sent_at": "2026-09-07T22:30:48.584431+00:00"
-  },
-  {
-    "url": "https://tiiny.ai/",
-    "sent_at": "2026-09-07T22:30:48.584431+00:00"
-  },
-  {
-    "url": "https://qiita.com/sai029/items/f0073f1ea5ad30f71ac5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-07T22:30:48.584431+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
-    "sent_at": "2026-09-07T22:30:48.584431+00:00"
-  },
-  {
-    "url": "https://qiita.com/im_yoneda/items/f27e52d2f852ba017a7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-07T22:30:48.584431+00:00"
-  },
-  {
     "url": "https://qiita.com/quan_le/items/90cc4ebd5481692c8c3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-09-08T22:30:46.628998+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://qiita.com/nakasato310/items/052e2260b0e019da0567?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-10-07T22:30:46.914714+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2610/09/news015.html",
+    "sent_at": "2026-10-08T22:30:46.061273+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
+    "sent_at": "2026-10-08T22:30:46.061273+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002125/",
+    "sent_at": "2026-10-08T22:30:46.061273+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002119/",
+    "sent_at": "2026-10-08T22:30:46.061273+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002112/",
+    "sent_at": "2026-10-08T22:30:46.061273+00:00"
+  },
+  {
+    "url": "https://qiita.com/moritalous/items/92c559a3552db82be060?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-08T22:30:46.061273+00:00"
+  },
+  {
+    "url": "https://qiita.com/suwa_nobu/items/1cc4989b0fdd47e4ea12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-08T22:30:46.061273+00:00"
+  },
+  {
+    "url": "https://qiita.com/yumicat/items/4cbe9d764858bf8ff6bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-08T22:30:46.061273+00:00"
+  },
+  {
+    "url": "https://qiita.com/MilkyWay-M/items/ce20db2c6b68b21fd5ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-08T22:30:46.061273+00:00"
+  },
+  {
+    "url": "https://zenn.dev/kevin_namba/books/afe09c60f698e8",
+    "sent_at": "2026-10-08T22:30:46.061273+00:00"
   }
 ]
