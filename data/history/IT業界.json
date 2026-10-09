@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://qiita.com/quan_le/items/90cc4ebd5481692c8c3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-08T22:30:46.628998+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001256/",
-    "sent_at": "2026-09-08T22:30:46.628998+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2609/08/news066.html",
-    "sent_at": "2026-09-08T22:30:46.628998+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2609/08/news056.html",
-    "sent_at": "2026-09-08T22:30:46.628998+00:00"
-  },
-  {
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-    "sent_at": "2026-09-08T22:30:46.628998+00:00"
-  },
-  {
-    "url": "https://openai.com/index/navier-stokes-solution/",
-    "sent_at": "2026-09-08T22:30:46.628998+00:00"
-  },
-  {
-    "url": "https://qiita.com/shirok/items/3cb311b037a975739948?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-08T22:30:46.628998+00:00"
-  },
-  {
-    "url": "https://zenn.dev/mkj/articles/fad8adf0586665",
-    "sent_at": "2026-09-08T22:30:46.628998+00:00"
-  },
-  {
-    "url": "https://qiita.com/songchong/items/8b48962aa6d5408abe86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-08T22:30:46.628998+00:00"
-  },
-  {
-    "url": "https://qiita.com/NightOwl/items/6ede46ed4b032d3bbaf3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-08T22:30:46.628998+00:00"
-  },
-  {
     "url": "https://github.com/OtoDock/oto-dock",
     "sent_at": "2026-09-09T22:30:57.243343+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://zenn.dev/kevin_namba/books/afe09c60f698e8",
     "sent_at": "2026-10-08T22:30:46.061273+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002179/",
+    "sent_at": "2026-10-09T22:30:45.850129+00:00"
+  },
+  {
+    "url": "https://qiita.com/ntaka329/items/1ad9131353e51c5b99fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-09T22:30:45.850129+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002102/",
+    "sent_at": "2026-10-09T22:30:45.850129+00:00"
+  },
+  {
+    "url": "https://qiita.com/hiroshi_ito9854/items/ff26fe2e239e23305f26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-09T22:30:45.850129+00:00"
+  },
+  {
+    "url": "https://zenn.dev/terass_dev/articles/6e6562d54d5505",
+    "sent_at": "2026-10-09T22:30:45.850129+00:00"
+  },
+  {
+    "url": "https://zenn.dev/headwaters/articles/12175106cd8c79",
+    "sent_at": "2026-10-09T22:30:45.850129+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002176/",
+    "sent_at": "2026-10-09T22:30:45.850129+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002160/",
+    "sent_at": "2026-10-09T22:30:45.850129+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "sent_at": "2026-10-09T22:30:45.850129+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2610/09/news039.html",
+    "sent_at": "2026-10-09T22:30:45.850129+00:00"
   }
 ]
