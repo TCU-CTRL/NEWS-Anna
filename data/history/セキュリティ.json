@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-    "sent_at": "2026-09-09T22:31:41.220283+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
-    "sent_at": "2026-09-09T22:31:41.220283+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
-    "sent_at": "2026-09-09T22:31:41.220283+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-    "sent_at": "2026-09-09T22:31:41.220283+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
-    "sent_at": "2026-09-09T22:31:41.220283+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190057",
-    "sent_at": "2026-09-09T22:31:41.220283+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-    "sent_at": "2026-09-09T22:31:41.220283+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-    "sent_at": "2026-09-09T22:31:41.220283+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-    "sent_at": "2026-09-09T22:31:41.220283+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/10/015745",
-    "sent_at": "2026-09-09T22:31:41.220283+00:00"
-  },
-  {
     "url": "https://www.security-next.com/190139",
     "sent_at": "2026-09-10T22:30:57.750323+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/10/09/165507",
     "sent_at": "2026-10-09T22:30:53.126620+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/004353",
+    "sent_at": "2026-10-10T22:30:55.719322+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/012014",
+    "sent_at": "2026-10-10T22:30:55.719322+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/10/075729",
+    "sent_at": "2026-10-10T22:30:55.719322+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+    "sent_at": "2026-10-10T22:30:55.719322+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+    "sent_at": "2026-10-10T22:30:55.719322+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+    "sent_at": "2026-10-10T22:30:55.719322+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/06/121225",
+    "sent_at": "2026-10-10T22:30:55.719322+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191268",
+    "sent_at": "2026-10-10T22:30:55.719322+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191271",
+    "sent_at": "2026-10-10T22:30:55.719322+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+    "sent_at": "2026-10-10T22:30:55.719322+00:00"
   }
 ]

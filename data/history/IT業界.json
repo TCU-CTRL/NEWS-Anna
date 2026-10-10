@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://github.com/OtoDock/oto-dock",
-    "sent_at": "2026-09-09T22:30:57.243343+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001311/",
-    "sent_at": "2026-09-09T22:30:57.243343+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2609/10/news038.html",
-    "sent_at": "2026-09-09T22:30:57.243343+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001308/",
-    "sent_at": "2026-09-09T22:30:57.243343+00:00"
-  },
-  {
-    "url": "https://zenn.dev/socialplus/articles/f5d9e28470eb99",
-    "sent_at": "2026-09-09T22:30:57.243343+00:00"
-  },
-  {
-    "url": "https://zenn.dev/ml_bear/articles/e5cc1047cba176",
-    "sent_at": "2026-09-09T22:30:57.243343+00:00"
-  },
-  {
-    "url": "https://qiita.com/songchong/items/252947681e7914cd9e2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-09T22:30:57.243343+00:00"
-  },
-  {
-    "url": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-09T22:30:57.243343+00:00"
-  },
-  {
-    "url": "https://qiita.com/asahide/items/ece6e6436244b9d001e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-09T22:30:57.243343+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
-    "sent_at": "2026-09-09T22:30:57.243343+00:00"
-  },
-  {
     "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
     "sent_at": "2026-09-10T22:30:50.145932+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.itmedia.co.jp/business/articles/2610/09/news039.html",
     "sent_at": "2026-10-09T22:30:45.850129+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/11/news004.html",
+    "sent_at": "2026-10-10T22:30:47.308620+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+    "sent_at": "2026-10-10T22:30:47.308620+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news032.html",
+    "sent_at": "2026-10-10T22:30:47.308620+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+    "sent_at": "2026-10-10T22:30:47.308620+00:00"
+  },
+  {
+    "url": "https://github.com/rociiu/talorys",
+    "sent_at": "2026-10-10T22:30:47.308620+00:00"
+  },
+  {
+    "url": "https://qiita.com/maokiXXX/items/171341aa8813db32e213?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-10T22:30:47.308620+00:00"
+  },
+  {
+    "url": "https://zenn.dev/intage_tech/articles/art026-dbt-wizard-try",
+    "sent_at": "2026-10-10T22:30:47.308620+00:00"
+  },
+  {
+    "url": "https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles",
+    "sent_at": "2026-10-10T22:30:47.308620+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
+    "sent_at": "2026-10-10T22:30:47.308620+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2610/10/news010.html",
+    "sent_at": "2026-10-10T22:30:47.308620+00:00"
   }
 ]
