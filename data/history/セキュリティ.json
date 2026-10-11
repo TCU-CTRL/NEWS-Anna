@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://www.security-next.com/190139",
-    "sent_at": "2026-09-10T22:30:57.750323+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
-    "sent_at": "2026-09-10T22:30:57.750323+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-    "sent_at": "2026-09-10T22:30:57.750323+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190081",
-    "sent_at": "2026-09-10T22:30:57.750323+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
-    "sent_at": "2026-09-10T22:30:57.750323+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
-    "sent_at": "2026-09-10T22:30:57.750323+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-    "sent_at": "2026-09-10T22:30:57.750323+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/04/104347",
-    "sent_at": "2026-09-10T22:30:57.750323+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190040",
-    "sent_at": "2026-09-10T22:30:57.750323+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190076",
-    "sent_at": "2026-09-10T22:30:57.750323+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/11/220855",
-    "sent_at": "2026-09-11T22:31:01.010759+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-    "sent_at": "2026-09-11T22:31:01.010759+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
-    "sent_at": "2026-09-11T22:31:01.010759+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-    "sent_at": "2026-09-11T22:31:01.010759+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-    "sent_at": "2026-09-11T22:31:01.010759+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-    "sent_at": "2026-09-11T22:31:01.010759+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/12/072307",
-    "sent_at": "2026-09-11T22:31:01.010759+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190194",
-    "sent_at": "2026-09-11T22:31:01.010759+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190189",
-    "sent_at": "2026-09-11T22:31:01.010759+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-    "sent_at": "2026-09-11T22:31:01.010759+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
     "sent_at": "2026-09-12T22:30:55.892920+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
     "sent_at": "2026-10-10T22:30:55.719322+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+    "sent_at": "2026-10-11T22:31:04.303539+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+    "sent_at": "2026-10-11T22:31:04.303539+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+    "sent_at": "2026-10-11T22:31:04.303539+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
+    "sent_at": "2026-10-11T22:31:04.303539+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+    "sent_at": "2026-10-11T22:31:04.303539+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+    "sent_at": "2026-10-11T22:31:04.303539+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+    "sent_at": "2026-10-11T22:31:04.303539+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+    "sent_at": "2026-10-11T22:31:04.303539+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/07/095650",
+    "sent_at": "2026-10-11T22:31:04.303539+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261007.html#14",
+    "sent_at": "2026-10-11T22:31:04.303539+00:00"
   }
 ]
