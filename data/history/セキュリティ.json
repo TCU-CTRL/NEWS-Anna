@@ -1198,5 +1198,45 @@
   {
     "url": "https://www.jpcert.or.jp/wr/2026/wr261007.html#14",
     "sent_at": "2026-10-11T22:31:04.303539+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+    "sent_at": "2026-10-12T22:30:55.392510+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+    "sent_at": "2026-10-12T22:30:55.392510+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+    "sent_at": "2026-10-12T22:30:55.392510+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+    "sent_at": "2026-10-12T22:30:55.392510+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+    "sent_at": "2026-10-12T22:30:55.392510+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+    "sent_at": "2026-10-12T22:30:55.392510+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+    "sent_at": "2026-10-12T22:30:55.392510+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+    "sent_at": "2026-10-12T22:30:55.392510+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+    "sent_at": "2026-10-12T22:30:55.392510+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+    "sent_at": "2026-10-12T22:30:55.392510+00:00"
   }
 ]
