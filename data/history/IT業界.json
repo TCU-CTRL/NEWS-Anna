@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
-    "sent_at": "2026-09-13T22:30:46.066559+00:00"
-  },
-  {
-    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "sent_at": "2026-09-13T22:30:46.066559+00:00"
-  },
-  {
-    "url": "https://qiita.com/songchong/items/e630bf05f4adf0c16ce5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-13T22:30:46.066559+00:00"
-  },
-  {
-    "url": "https://qiita.com/songchong/items/9dc9ee419d2764d2aa06?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-13T22:30:46.066559+00:00"
-  },
-  {
-    "url": "https://qiita.com/megmogmog1965/items/334ced1537fcdf0fe21a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-13T22:30:46.066559+00:00"
-  },
-  {
-    "url": "https://zenn.dev/hampen2929/books/ai-agent-evaluation-guide",
-    "sent_at": "2026-09-13T22:30:46.066559+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001430/",
-    "sent_at": "2026-09-13T22:30:46.066559+00:00"
-  },
-  {
-    "url": "https://twitter.com/TechEmails/status/2099214399840059428",
-    "sent_at": "2026-09-13T22:30:46.066559+00:00"
-  },
-  {
-    "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
-    "sent_at": "2026-09-13T22:30:46.066559+00:00"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-    "sent_at": "2026-09-13T22:30:46.066559+00:00"
-  },
-  {
     "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
     "sent_at": "2026-09-14T22:30:50.446208+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news042.html",
     "sent_at": "2026-10-12T22:30:48.478243+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50073471",
+    "sent_at": "2026-10-13T22:30:52.075003+00:00"
+  },
+  {
+    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+    "sent_at": "2026-10-13T22:30:52.075003+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002224/",
+    "sent_at": "2026-10-13T22:30:52.075003+00:00"
+  },
+  {
+    "url": "https://qiita.com/take-yoda/items/136d1f5a4deea203c718?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-13T22:30:52.075003+00:00"
+  },
+  {
+    "url": "https://qiita.com/quan_le/items/a33e331a2d7a42891f49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-13T22:30:52.075003+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2610/14/news038.html",
+    "sent_at": "2026-10-13T22:30:52.075003+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002213/",
+    "sent_at": "2026-10-13T22:30:52.075003+00:00"
+  },
+  {
+    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+    "sent_at": "2026-10-13T22:30:52.075003+00:00"
+  },
+  {
+    "url": "https://parsimony.lasu.dev/",
+    "sent_at": "2026-10-13T22:30:52.075003+00:00"
+  },
+  {
+    "url": "https://deepmind.google/models/gemini/",
+    "sent_at": "2026-10-13T22:30:52.075003+00:00"
   }
 ]
