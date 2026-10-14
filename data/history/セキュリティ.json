@@ -1198,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
     "sent_at": "2026-10-13T22:30:59.915269+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/newsflash/2026081301.html",
+    "sent_at": "2026-10-14T22:30:53.416925+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+    "sent_at": "2026-10-14T22:30:53.416925+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+    "sent_at": "2026-10-14T22:30:53.416925+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191386",
+    "sent_at": "2026-10-14T22:30:53.416925+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191382",
+    "sent_at": "2026-10-14T22:30:53.416925+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+    "sent_at": "2026-10-14T22:30:53.416925+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191415",
+    "sent_at": "2026-10-14T22:30:53.416925+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191343",
+    "sent_at": "2026-10-14T22:30:53.416925+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+    "sent_at": "2026-10-14T22:30:53.416925+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+    "sent_at": "2026-10-14T22:30:53.416925+00:00"
   }
 ]
