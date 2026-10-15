@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/15/075403",
-    "sent_at": "2026-09-14T22:30:57.955752+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-    "sent_at": "2026-09-14T22:30:57.955752+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-    "sent_at": "2026-09-14T22:30:57.955752+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
-    "sent_at": "2026-09-14T22:30:57.955752+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/at/2026/at260024.html",
-    "sent_at": "2026-09-14T22:30:57.955752+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-    "sent_at": "2026-09-14T22:30:57.955752+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
-    "sent_at": "2026-09-14T22:30:57.955752+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190278",
-    "sent_at": "2026-09-14T22:30:57.955752+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190275",
-    "sent_at": "2026-09-14T22:30:57.955752+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
-    "sent_at": "2026-09-14T22:30:57.955752+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/09/15/141320",
     "sent_at": "2026-09-15T22:31:03.904567+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
     "sent_at": "2026-10-14T22:30:53.416925+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+    "sent_at": "2026-10-15T22:30:59.688714+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+    "sent_at": "2026-10-15T22:30:59.688714+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+    "sent_at": "2026-10-15T22:30:59.688714+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+    "sent_at": "2026-10-15T22:30:59.688714+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+    "sent_at": "2026-10-15T22:30:59.688714+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+    "sent_at": "2026-10-15T22:30:59.688714+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+    "sent_at": "2026-10-15T22:30:59.688714+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191432",
+    "sent_at": "2026-10-15T22:30:59.688714+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+    "sent_at": "2026-10-15T22:30:59.688714+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+    "sent_at": "2026-10-15T22:30:59.688714+00:00"
   }
 ]
