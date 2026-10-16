@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://github.com/pizza-bot-app/pizza-bot",
-    "sent_at": "2026-09-15T22:30:51.722760+00:00"
-  },
-  {
-    "url": "https://withcapsule.app/",
-    "sent_at": "2026-09-15T22:30:51.722760+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2609/16/news005.html",
-    "sent_at": "2026-09-15T22:30:51.722760+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/15/news092.html",
-    "sent_at": "2026-09-15T22:30:51.722760+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001500/",
-    "sent_at": "2026-09-15T22:30:51.722760+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001483/",
-    "sent_at": "2026-09-15T22:30:51.722760+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2609/15/news067.html",
-    "sent_at": "2026-09-15T22:30:51.722760+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/14/news023.html",
-    "sent_at": "2026-09-15T22:30:51.722760+00:00"
-  },
-  {
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-    "sent_at": "2026-09-15T22:30:51.722760+00:00"
-  },
-  {
-    "url": "https://qiita.com/TOMOSIA-LinhND/items/c6cae189270f120c8448?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-15T22:30:51.722760+00:00"
-  },
-  {
     "url": "https://qiita.com/TsuchiyaK/items/b63a06f9b4a81ea8cb45?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-09-16T22:31:01.633499+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/",
     "sent_at": "2026-10-15T22:30:51.473563+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/16/news111.html",
+    "sent_at": "2026-10-16T22:30:47.930825+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002326/",
+    "sent_at": "2026-10-16T22:30:47.930825+00:00"
+  },
+  {
+    "url": "https://qiita.com/shyamagu/items/b0801dc6016e700d2d61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-16T22:30:47.930825+00:00"
+  },
+  {
+    "url": "https://zenn.dev/aws_japan/articles/strands-robots-llm-teleop",
+    "sent_at": "2026-10-16T22:30:47.930825+00:00"
+  },
+  {
+    "url": "https://qiita.com/meltsuna/items/3a14d8545cc3c0e3f97b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-16T22:30:47.930825+00:00"
+  },
+  {
+    "url": "https://qiita.com/kojikojikojikoji/items/9d0bc3ed1f347933c0a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-16T22:30:47.930825+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/16/news011.html",
+    "sent_at": "2026-10-16T22:30:47.930825+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002336/",
+    "sent_at": "2026-10-16T22:30:47.930825+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html",
+    "sent_at": "2026-10-16T22:30:47.930825+00:00"
+  },
+  {
+    "url": "https://bfl.ai/blog/flux-3-image-klein",
+    "sent_at": "2026-10-16T22:30:47.930825+00:00"
   }
 ]

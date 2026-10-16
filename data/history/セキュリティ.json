@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/15/141320",
-    "sent_at": "2026-09-15T22:31:03.904567+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
-    "sent_at": "2026-09-15T22:31:03.904567+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
-    "sent_at": "2026-09-15T22:31:03.904567+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-    "sent_at": "2026-09-15T22:31:03.904567+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
-    "sent_at": "2026-09-15T22:31:03.904567+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
-    "sent_at": "2026-09-15T22:31:03.904567+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
-    "sent_at": "2026-09-15T22:31:03.904567+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/17/053005",
-    "sent_at": "2026-09-15T22:31:03.904567+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190301",
-    "sent_at": "2026-09-15T22:31:03.904567+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
-    "sent_at": "2026-09-15T22:31:03.904567+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/09/16/085611",
     "sent_at": "2026-09-16T22:31:09.953093+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
     "sent_at": "2026-10-15T22:30:59.688714+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+    "sent_at": "2026-10-16T22:30:56.265899+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+    "sent_at": "2026-10-16T22:30:56.265899+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191434",
+    "sent_at": "2026-10-16T22:30:56.265899+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+    "sent_at": "2026-10-16T22:30:56.265899+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/16/075103",
+    "sent_at": "2026-10-16T22:30:56.265899+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191540",
+    "sent_at": "2026-10-16T22:30:56.265899+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191442",
+    "sent_at": "2026-10-16T22:30:56.265899+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+    "sent_at": "2026-10-16T22:30:56.265899+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
+    "sent_at": "2026-10-16T22:30:56.265899+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#9",
+    "sent_at": "2026-10-16T22:30:56.265899+00:00"
   }
 ]
