@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/16/085611",
-    "sent_at": "2026-09-16T22:31:09.953093+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/17/032044",
-    "sent_at": "2026-09-16T22:31:09.953093+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-    "sent_at": "2026-09-16T22:31:09.953093+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-    "sent_at": "2026-09-16T22:31:09.953093+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
-    "sent_at": "2026-09-16T22:31:09.953093+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-    "sent_at": "2026-09-16T22:31:09.953093+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-    "sent_at": "2026-09-16T22:31:09.953093+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-    "sent_at": "2026-09-16T22:31:09.953093+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-    "sent_at": "2026-09-16T22:31:09.953093+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260916.html#16",
-    "sent_at": "2026-09-16T22:31:09.953093+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
     "sent_at": "2026-09-17T22:31:02.241805+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#9",
     "sent_at": "2026-10-16T22:30:56.265899+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+    "sent_at": "2026-10-17T22:30:56.551440+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+    "sent_at": "2026-10-17T22:30:56.551440+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+    "sent_at": "2026-10-17T22:30:56.551440+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260032.html",
+    "sent_at": "2026-10-17T22:30:56.551440+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#12",
+    "sent_at": "2026-10-17T22:30:56.551440+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#13",
+    "sent_at": "2026-10-17T22:30:56.551440+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#17",
+    "sent_at": "2026-10-17T22:30:56.551440+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+    "sent_at": "2026-10-17T22:30:56.551440+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191516",
+    "sent_at": "2026-10-17T22:30:56.551440+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191538",
+    "sent_at": "2026-10-17T22:30:56.551440+00:00"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://qiita.com/TsuchiyaK/items/b63a06f9b4a81ea8cb45?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-16T22:31:01.633499+00:00"
-  },
-  {
-    "url": "https://zenn.dev/hampen2929/books/ai-dev-team-guide",
-    "sent_at": "2026-09-16T22:31:01.633499+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001524/",
-    "sent_at": "2026-09-16T22:31:01.633499+00:00"
-  },
-  {
-    "url": "https://qiita.com/BaspisKawaE/items/b696c704e6b98611d834?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-16T22:31:01.633499+00:00"
-  },
-  {
-    "url": "https://zenn.dev/flagxs/articles/7a9178c94cc27b",
-    "sent_at": "2026-09-16T22:31:01.633499+00:00"
-  },
-  {
-    "url": "https://qiita.com/nogataka/items/7a6c115e3f988b2188f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-16T22:31:01.633499+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
-    "sent_at": "2026-09-16T22:31:01.633499+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/16/news086.html",
-    "sent_at": "2026-09-16T22:31:01.633499+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001560/",
-    "sent_at": "2026-09-16T22:31:01.633499+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2609/16/news089.html",
-    "sent_at": "2026-09-16T22:31:01.633499+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/",
     "sent_at": "2026-09-17T22:30:54.839803+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://bfl.ai/blog/flux-3-image-klein",
     "sent_at": "2026-10-16T22:30:47.930825+00:00"
+  },
+  {
+    "url": "https://zenn.dev/edash_tech_blog/articles/6250fc61ccf009",
+    "sent_at": "2026-10-17T22:30:47.977149+00:00"
+  },
+  {
+    "url": "https://github.com/openai/codex/issues/25921",
+    "sent_at": "2026-10-17T22:30:47.977149+00:00"
+  },
+  {
+    "url": "https://thingstodoapi.com/",
+    "sent_at": "2026-10-17T22:30:47.977149+00:00"
+  },
+  {
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "sent_at": "2026-10-17T22:30:47.977149+00:00"
+  },
+  {
+    "url": "https://qiita.com/AlohaYos/items/cbf9270113fd03a8ffbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-17T22:30:47.977149+00:00"
+  },
+  {
+    "url": "https://qiita.com/morststs/items/246bdb871fef835a77a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-17T22:30:47.977149+00:00"
+  },
+  {
+    "url": "https://qiita.com/shu15511551/items/75900cded681c2149fe6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-17T22:30:47.977149+00:00"
+  },
+  {
+    "url": "https://qiita.com/ISISI007/items/2368a15f676be6071596?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-17T22:30:47.977149+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/18/news005.html",
+    "sent_at": "2026-10-17T22:30:47.977149+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2610/17/news022.html",
+    "sent_at": "2026-10-17T22:30:47.977149+00:00"
   }
 ]
