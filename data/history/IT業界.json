@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/",
-    "sent_at": "2026-09-17T22:30:54.839803+00:00"
-  },
-  {
-    "url": "https://qiita.com/yuji-arakawa/items/2d49b6e23cdf45fc22d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-17T22:30:54.839803+00:00"
-  },
-  {
-    "url": "https://bend-lang.com/",
-    "sent_at": "2026-09-17T22:30:54.839803+00:00"
-  },
-  {
-    "url": "https://openai.com/index/astra-for-law/",
-    "sent_at": "2026-09-17T22:30:54.839803+00:00"
-  },
-  {
-    "url": "https://news.ycombinator.com/item?id=49743049",
-    "sent_at": "2026-09-17T22:30:54.839803+00:00"
-  },
-  {
-    "url": "https://zenn.dev/usen_ict/articles/a9051de6bf2b84",
-    "sent_at": "2026-09-17T22:30:54.839803+00:00"
-  },
-  {
-    "url": "https://zenn.dev/layerx/articles/c835873212b601",
-    "sent_at": "2026-09-17T22:30:54.839803+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/17/news011.html",
-    "sent_at": "2026-09-17T22:30:54.839803+00:00"
-  },
-  {
-    "url": "https://mag.executive.itmedia.co.jp/executive/article/2609/17/2000001574/",
-    "sent_at": "2026-09-17T22:30:54.839803+00:00"
-  },
-  {
-    "url": "https://qiita.com/nasuvitz/items/44f20ed515b9734afb26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-17T22:30:54.839803+00:00"
-  },
-  {
     "url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
     "sent_at": "2026-09-18T22:30:51.920444+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.itmedia.co.jp/mobile/articles/2610/17/news022.html",
     "sent_at": "2026-10-17T22:30:47.977149+00:00"
+  },
+  {
+    "url": "https://zenn.dev/fusic/articles/a77ba348115364",
+    "sent_at": "2026-10-18T22:30:44.578930+00:00"
+  },
+  {
+    "url": "https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-18T22:30:44.578930+00:00"
+  },
+  {
+    "url": "https://legendofhyrule.com/",
+    "sent_at": "2026-10-18T22:30:44.578930+00:00"
+  },
+  {
+    "url": "https://qiita.com/songchong/items/542892c6d4c569c9c15f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-18T22:30:44.578930+00:00"
+  },
+  {
+    "url": "https://qiita.com/SolitaireEgg/items/820295021d314f050ec1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-18T22:30:44.578930+00:00"
+  },
+  {
+    "url": "https://qiita.com/kotaro_ai_lab/items/7d8a1264b227f2ccef29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-18T22:30:44.578930+00:00"
+  },
+  {
+    "url": "https://qiita.com/kaiyaku_iyada/items/0577951c9f085450ed35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-18T22:30:44.578930+00:00"
+  },
+  {
+    "url": "https://qiita.com/Oskra/items/da16b717fc931a6423e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-18T22:30:44.578930+00:00"
+  },
+  {
+    "url": "https://qiita.com/mnoguchi/items/8ca703ba0b45078c7472?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-18T22:30:44.578930+00:00"
+  },
+  {
+    "url": "https://qiita.com/shou-wordwright555501/items/b4e0ad709b882ed4ad44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-18T22:30:44.578930+00:00"
   }
 ]

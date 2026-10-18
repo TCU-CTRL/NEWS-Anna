@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
-    "sent_at": "2026-09-17T22:31:02.241805+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-    "sent_at": "2026-09-17T22:31:02.241805+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-    "sent_at": "2026-09-17T22:31:02.241805+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190434",
-    "sent_at": "2026-09-17T22:31:02.241805+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190443",
-    "sent_at": "2026-09-17T22:31:02.241805+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-    "sent_at": "2026-09-17T22:31:02.241805+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190456",
-    "sent_at": "2026-09-17T22:31:02.241805+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190462",
-    "sent_at": "2026-09-17T22:31:02.241805+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-    "sent_at": "2026-09-17T22:31:02.241805+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
-    "sent_at": "2026-09-17T22:31:02.241805+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
     "sent_at": "2026-09-18T22:31:00.041477+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/191538",
     "sent_at": "2026-10-17T22:30:56.551440+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/19/032554",
+    "sent_at": "2026-10-18T22:30:51.910038+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+    "sent_at": "2026-10-18T22:30:51.910038+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+    "sent_at": "2026-10-18T22:30:51.910038+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/19/033010",
+    "sent_at": "2026-10-18T22:30:51.910038+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+    "sent_at": "2026-10-18T22:30:51.910038+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+    "sent_at": "2026-10-18T22:30:51.910038+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+    "sent_at": "2026-10-18T22:30:51.910038+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
+    "sent_at": "2026-10-18T22:30:51.910038+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+    "sent_at": "2026-10-18T22:30:51.910038+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+    "sent_at": "2026-10-18T22:30:51.910038+00:00"
   }
 ]
