@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
-    "sent_at": "2026-09-18T22:30:51.920444+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001645/",
-    "sent_at": "2026-09-18T22:30:51.920444+00:00"
-  },
-  {
-    "url": "https://zenn.dev/jtcc/articles/7e74fef42580a1",
-    "sent_at": "2026-09-18T22:30:51.920444+00:00"
-  },
-  {
-    "url": "https://zenn.dev/henteko/articles/1d159d10413312",
-    "sent_at": "2026-09-18T22:30:51.920444+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001633/",
-    "sent_at": "2026-09-18T22:30:51.920444+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001630/",
-    "sent_at": "2026-09-18T22:30:51.920444+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001621/",
-    "sent_at": "2026-09-18T22:30:51.920444+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001618/",
-    "sent_at": "2026-09-18T22:30:51.920444+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/18/news020.html",
-    "sent_at": "2026-09-18T22:30:51.920444+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2609/18/news021.html",
-    "sent_at": "2026-09-18T22:30:51.920444+00:00"
-  },
-  {
-    "url": "https://github.com/trycua/cua",
-    "sent_at": "2026-09-19T22:30:47.655018+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/19/news004.html",
-    "sent_at": "2026-09-19T22:30:47.655018+00:00"
-  },
-  {
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-    "sent_at": "2026-09-19T22:30:47.655018+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/20/news008.html",
-    "sent_at": "2026-09-19T22:30:47.655018+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
-    "sent_at": "2026-09-19T22:30:47.655018+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
-    "sent_at": "2026-09-19T22:30:47.655018+00:00"
-  },
-  {
-    "url": "https://qiita.com/Isaka-code/items/8944ef8b521517f92da0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-19T22:30:47.655018+00:00"
-  },
-  {
-    "url": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-19T22:30:47.655018+00:00"
-  },
-  {
-    "url": "https://zenn.dev/hakotech/articles/5c2fe2eb8a6051",
-    "sent_at": "2026-09-19T22:30:47.655018+00:00"
-  },
-  {
-    "url": "https://zenn.dev/watany/articles/36e11a20ce3743",
-    "sent_at": "2026-09-19T22:30:47.655018+00:00"
-  },
-  {
     "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
     "sent_at": "2026-09-20T22:30:48.749614+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://qiita.com/shou-wordwright555501/items/b4e0ad709b882ed4ad44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-10-18T22:30:44.578930+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50154029",
+    "sent_at": "2026-10-19T22:30:49.408867+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2610/19/news112.html",
+    "sent_at": "2026-10-19T22:30:49.408867+00:00"
+  },
+  {
+    "url": "https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-19T22:30:49.408867+00:00"
+  },
+  {
+    "url": "https://qiita.com/araom/items/f59a75e188824dfdd16c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-19T22:30:49.408867+00:00"
+  },
+  {
+    "url": "https://zenn.dev/rea9r/articles/littles-law-capacity-planning",
+    "sent_at": "2026-10-19T22:30:49.408867+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/19/news111.html",
+    "sent_at": "2026-10-19T22:30:49.408867+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/19/news091.html",
+    "sent_at": "2026-10-19T22:30:49.408867+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/19/news068.html",
+    "sent_at": "2026-10-19T22:30:49.408867+00:00"
+  },
+  {
+    "url": "https://bsd.network/@brynet/117407035545900963",
+    "sent_at": "2026-10-19T22:30:49.408867+00:00"
+  },
+  {
+    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+    "sent_at": "2026-10-19T22:30:49.408867+00:00"
   }
 ]
