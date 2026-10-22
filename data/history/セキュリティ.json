@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/08/23/033006",
-    "sent_at": "2026-09-21T22:31:03.475031+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
-    "sent_at": "2026-09-21T22:31:03.475031+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-    "sent_at": "2026-09-21T22:31:03.475031+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-    "sent_at": "2026-09-21T22:31:03.475031+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
-    "sent_at": "2026-09-21T22:31:03.475031+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
-    "sent_at": "2026-09-21T22:31:03.475031+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-    "sent_at": "2026-09-21T22:31:03.475031+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-    "sent_at": "2026-09-21T22:31:03.475031+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-    "sent_at": "2026-09-21T22:31:03.475031+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-    "sent_at": "2026-09-21T22:31:03.475031+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
     "sent_at": "2026-09-22T22:30:58.353269+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
     "sent_at": "2026-10-21T22:31:00.119833+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+    "sent_at": "2026-10-22T22:30:56.149171+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
+    "sent_at": "2026-10-22T22:30:56.149171+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+    "sent_at": "2026-10-22T22:30:56.149171+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/065256",
+    "sent_at": "2026-10-22T22:30:56.149171+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+    "sent_at": "2026-10-22T22:30:56.149171+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+    "sent_at": "2026-10-22T22:30:56.149171+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191788",
+    "sent_at": "2026-10-22T22:30:56.149171+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/22/113434",
+    "sent_at": "2026-10-22T22:30:56.149171+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+    "sent_at": "2026-10-22T22:30:56.149171+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+    "sent_at": "2026-10-22T22:30:56.149171+00:00"
   }
 ]
