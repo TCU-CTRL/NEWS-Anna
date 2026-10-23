@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.coveragecat.com/",
-    "sent_at": "2026-09-22T22:30:51.115624+00:00"
-  },
-  {
-    "url": "https://benchmarkheaven.com/jev-models",
-    "sent_at": "2026-09-22T22:30:51.115624+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
-    "sent_at": "2026-09-22T22:30:51.115624+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
-    "sent_at": "2026-09-22T22:30:51.115624+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2609/23/news002.html",
-    "sent_at": "2026-09-22T22:30:51.115624+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001671/",
-    "sent_at": "2026-09-22T22:30:51.115624+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
-    "sent_at": "2026-09-22T22:30:51.115624+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/22/news018.html",
-    "sent_at": "2026-09-22T22:30:51.115624+00:00"
-  },
-  {
-    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-    "sent_at": "2026-09-22T22:30:51.115624+00:00"
-  },
-  {
-    "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-    "sent_at": "2026-09-22T22:30:51.115624+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
     "sent_at": "2026-09-23T22:31:04.567130+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://zenn.dev/tyamadadd/articles/c02a27af771dd2",
     "sent_at": "2026-10-22T22:30:48.330988+00:00"
+  },
+  {
+    "url": "https://zenn.dev/yuiseki/articles/54b01670841898",
+    "sent_at": "2026-10-23T22:30:49.540279+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
+    "sent_at": "2026-10-23T22:30:49.540279+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002562/",
+    "sent_at": "2026-10-23T22:30:49.540279+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002527/",
+    "sent_at": "2026-10-23T22:30:49.540279+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/22/news077.html",
+    "sent_at": "2026-10-23T22:30:49.540279+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html",
+    "sent_at": "2026-10-23T22:30:49.540279+00:00"
+  },
+  {
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+    "sent_at": "2026-10-23T22:30:49.540279+00:00"
+  },
+  {
+    "url": "https://zenn.dev/sakagi/articles/8caa896e649005",
+    "sent_at": "2026-10-23T22:30:49.540279+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002513/",
+    "sent_at": "2026-10-23T22:30:49.540279+00:00"
+  },
+  {
+    "url": "https://qiita.com/kodai_kitahara/items/4cb3fbc7c7f081f34986?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-23T22:30:49.540279+00:00"
   }
 ]

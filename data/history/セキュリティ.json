@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-    "sent_at": "2026-09-22T22:30:58.353269+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-    "sent_at": "2026-09-22T22:30:58.353269+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-    "sent_at": "2026-09-22T22:30:58.353269+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-    "sent_at": "2026-09-22T22:30:58.353269+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-    "sent_at": "2026-09-22T22:30:58.353269+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-    "sent_at": "2026-09-22T22:30:58.353269+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-    "sent_at": "2026-09-22T22:30:58.353269+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-    "sent_at": "2026-09-22T22:30:58.353269+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
-    "sent_at": "2026-09-22T22:30:58.353269+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-    "sent_at": "2026-09-22T22:30:58.353269+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
     "sent_at": "2026-09-23T22:31:12.197314+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
     "sent_at": "2026-10-22T22:30:56.149171+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+    "sent_at": "2026-10-23T22:30:57.826589+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191807",
+    "sent_at": "2026-10-23T22:30:57.826589+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+    "sent_at": "2026-10-23T22:30:57.826589+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+    "sent_at": "2026-10-23T22:30:57.826589+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+    "sent_at": "2026-10-23T22:30:57.826589+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191852",
+    "sent_at": "2026-10-23T22:30:57.826589+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+    "sent_at": "2026-10-23T22:30:57.826589+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+    "sent_at": "2026-10-23T22:30:57.826589+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+    "sent_at": "2026-10-23T22:30:57.826589+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191862",
+    "sent_at": "2026-10-23T22:30:57.826589+00:00"
   }
 ]
