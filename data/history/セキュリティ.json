@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-    "sent_at": "2026-09-23T22:31:12.197314+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-    "sent_at": "2026-09-23T22:31:12.197314+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-    "sent_at": "2026-09-23T22:31:12.197314+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-    "sent_at": "2026-09-23T22:31:12.197314+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-    "sent_at": "2026-09-23T22:31:12.197314+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-    "sent_at": "2026-09-23T22:31:12.197314+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-    "sent_at": "2026-09-23T22:31:12.197314+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190566",
-    "sent_at": "2026-09-23T22:31:12.197314+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-    "sent_at": "2026-09-23T22:31:12.197314+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-    "sent_at": "2026-09-23T22:31:12.197314+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
     "sent_at": "2026-09-24T22:31:13.501018+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/191862",
     "sent_at": "2026-10-23T22:30:57.826589+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+    "sent_at": "2026-10-24T22:30:54.200572+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+    "sent_at": "2026-10-24T22:30:54.200572+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+    "sent_at": "2026-10-24T22:30:54.200572+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+    "sent_at": "2026-10-24T22:30:54.200572+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/014520",
+    "sent_at": "2026-10-24T22:30:54.200572+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
+    "sent_at": "2026-10-24T22:30:54.200572+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#8",
+    "sent_at": "2026-10-24T22:30:54.200572+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#11",
+    "sent_at": "2026-10-24T22:30:54.200572+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#21",
+    "sent_at": "2026-10-24T22:30:54.200572+00:00"
+  },
+  {
+    "url": "https://jvn.jp/vu/JVNVU99905564/",
+    "sent_at": "2026-10-24T22:30:54.200572+00:00"
   }
 ]
