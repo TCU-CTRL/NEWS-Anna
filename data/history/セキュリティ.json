@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-    "sent_at": "2026-09-24T22:31:13.501018+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190654",
-    "sent_at": "2026-09-24T22:31:13.501018+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/24/141557",
-    "sent_at": "2026-09-24T22:31:13.501018+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-    "sent_at": "2026-09-24T22:31:13.501018+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-    "sent_at": "2026-09-24T22:31:13.501018+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190629",
-    "sent_at": "2026-09-24T22:31:13.501018+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-    "sent_at": "2026-09-24T22:31:13.501018+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190638",
-    "sent_at": "2026-09-24T22:31:13.501018+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190619",
-    "sent_at": "2026-09-24T22:31:13.501018+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-    "sent_at": "2026-09-24T22:31:13.501018+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/09/25/141110",
     "sent_at": "2026-09-25T22:31:04.347075+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://jvn.jp/vu/JVNVU99905564/",
     "sent_at": "2026-10-24T22:30:54.200572+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+    "sent_at": "2026-10-25T22:30:52.775177+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+    "sent_at": "2026-10-25T22:30:52.775177+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+    "sent_at": "2026-10-25T22:30:52.775177+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#3",
+    "sent_at": "2026-10-25T22:30:52.775177+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#9",
+    "sent_at": "2026-10-25T22:30:52.775177+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#15",
+    "sent_at": "2026-10-25T22:30:52.775177+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#17",
+    "sent_at": "2026-10-25T22:30:52.775177+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#22",
+    "sent_at": "2026-10-25T22:30:52.775177+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191760",
+    "sent_at": "2026-10-25T22:30:52.775177+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+    "sent_at": "2026-10-25T22:30:52.775177+00:00"
   }
 ]

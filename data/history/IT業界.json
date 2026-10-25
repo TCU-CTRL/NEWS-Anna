@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.critic.run/",
-    "sent_at": "2026-09-24T22:31:05.468341+00:00"
-  },
-  {
-    "url": "https://github.com/devdotfast/whiteboard",
-    "sent_at": "2026-09-24T22:31:05.468341+00:00"
-  },
-  {
-    "url": "https://zenn.dev/acntechjp/articles/178e40be12d347",
-    "sent_at": "2026-09-24T22:31:05.468341+00:00"
-  },
-  {
-    "url": "https://qiita.com/shirok/items/a5f34349c0b6ba8f3f62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-24T22:31:05.468341+00:00"
-  },
-  {
-    "url": "https://qiita.com/gomAnomalocaris/items/6c381629f796e8536e9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-24T22:31:05.468341+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001694/",
-    "sent_at": "2026-09-24T22:31:05.468341+00:00"
-  },
-  {
-    "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-    "sent_at": "2026-09-24T22:31:05.468341+00:00"
-  },
-  {
-    "url": "https://zenn.dev/mkj/articles/agent-native-project-work-with-llm-wiki",
-    "sent_at": "2026-09-24T22:31:05.468341+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001703/",
-    "sent_at": "2026-09-24T22:31:05.468341+00:00"
-  },
-  {
-    "url": "https://qiita.com/wright_imagitech/items/4b200f32431c0f9e5878?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-24T22:31:05.468341+00:00"
-  },
-  {
     "url": "https://qiita.com/ryosuke_ohori/items/72ec59a33f8efb9d008a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-09-25T22:30:54.540939+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://qiita.com/berrylove/items/e5ae1c4b9ca20e1f34ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-10-24T22:30:46.797705+00:00"
+  },
+  {
+    "url": "https://minimaxir.com/2026/10/cheap-llms/",
+    "sent_at": "2026-10-25T22:30:45.505343+00:00"
+  },
+  {
+    "url": "https://qiita.com/songchong/items/7144594b0ad9529a168b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-25T22:30:45.505343+00:00"
+  },
+  {
+    "url": "https://qiita.com/hooosberg/items/d9c77e58ec3ae5f8ade1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-25T22:30:45.505343+00:00"
+  },
+  {
+    "url": "https://qiita.com/zumiraku/items/1c456a902613f281356c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-25T22:30:45.505343+00:00"
+  },
+  {
+    "url": "https://qiita.com/shu15511551/items/686fbd8bf5366fc150f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-25T22:30:45.505343+00:00"
+  },
+  {
+    "url": "https://qiita.com/Haradasn/items/5ca041c6fdf418092d59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-25T22:30:45.505343+00:00"
+  },
+  {
+    "url": "https://qiita.com/kikuziro/items/3f23603152b409d4a6ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-25T22:30:45.505343+00:00"
+  },
+  {
+    "url": "https://qiita.com/suikou0/items/d77b4a2158248f618849?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-25T22:30:45.505343+00:00"
+  },
+  {
+    "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
+    "sent_at": "2026-10-25T22:30:45.505343+00:00"
+  },
+  {
+    "url": "https://zenn.dev/loglass/articles/24b2a4776ce8d4",
+    "sent_at": "2026-10-25T22:30:45.505343+00:00"
   }
 ]
