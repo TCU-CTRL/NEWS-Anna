@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/25/141110",
-    "sent_at": "2026-09-25T22:31:04.347075+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-    "sent_at": "2026-09-25T22:31:04.347075+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-    "sent_at": "2026-09-25T22:31:04.347075+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/26/070036",
-    "sent_at": "2026-09-25T22:31:04.347075+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-    "sent_at": "2026-09-25T22:31:04.347075+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-    "sent_at": "2026-09-25T22:31:04.347075+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/25/130414",
-    "sent_at": "2026-09-25T22:31:04.347075+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190675",
-    "sent_at": "2026-09-25T22:31:04.347075+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190616",
-    "sent_at": "2026-09-25T22:31:04.347075+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190695",
-    "sent_at": "2026-09-25T22:31:04.347075+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
     "sent_at": "2026-09-26T22:30:54.450012+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
     "sent_at": "2026-10-25T22:30:52.775177+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+    "sent_at": "2026-10-26T22:30:52.372817+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+    "sent_at": "2026-10-26T22:30:52.372817+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+    "sent_at": "2026-10-26T22:30:52.372817+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191931",
+    "sent_at": "2026-10-26T22:30:52.372817+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+    "sent_at": "2026-10-26T22:30:52.372817+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+    "sent_at": "2026-10-26T22:30:52.372817+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+    "sent_at": "2026-10-26T22:30:52.372817+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+    "sent_at": "2026-10-26T22:30:52.372817+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+    "sent_at": "2026-10-26T22:30:52.372817+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/191902",
+    "sent_at": "2026-10-26T22:30:52.372817+00:00"
   }
 ]

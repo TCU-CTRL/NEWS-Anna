@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://qiita.com/ryosuke_ohori/items/72ec59a33f8efb9d008a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-25T22:30:54.540939+00:00"
-  },
-  {
-    "url": "https://qiita.com/TOMOSIA-LinhND/items/a9f97284ddbef214ac9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-25T22:30:54.540939+00:00"
-  },
-  {
-    "url": "https://swarmtraces.org/",
-    "sent_at": "2026-09-25T22:30:54.540939+00:00"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-    "sent_at": "2026-09-25T22:30:54.540939+00:00"
-  },
-  {
-    "url": "https://mouse.dev/blog/muse-special/",
-    "sent_at": "2026-09-25T22:30:54.540939+00:00"
-  },
-  {
-    "url": "https://zenn.dev/yesodco/articles/yesod-jev-typesafe-inquiry-triage",
-    "sent_at": "2026-09-25T22:30:54.540939+00:00"
-  },
-  {
-    "url": "https://qiita.com/sagochiko/items/ef77b084ff2dee1f859c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-25T22:30:54.540939+00:00"
-  },
-  {
-    "url": "https://qiita.com/jqit-yukiono/items/21973aaa1c605b34c174?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-25T22:30:54.540939+00:00"
-  },
-  {
-    "url": "https://zenn.dev/microsoft/articles/4ab393616e91ec",
-    "sent_at": "2026-09-25T22:30:54.540939+00:00"
-  },
-  {
-    "url": "https://zenn.dev/toshipon/articles/jev-paper-screening-vs-llm",
-    "sent_at": "2026-09-25T22:30:54.540939+00:00"
-  },
-  {
     "url": "https://www.gptbeyond.com/try?home=1",
     "sent_at": "2026-09-26T22:30:47.215168+00:00"
   },
@@ -1238,5 +1198,45 @@
   {
     "url": "https://zenn.dev/loglass/articles/24b2a4776ce8d4",
     "sent_at": "2026-10-25T22:30:45.505343+00:00"
+  },
+  {
+    "url": "https://github.com/FrigadeHQ/hob",
+    "sent_at": "2026-10-26T22:30:44.886132+00:00"
+  },
+  {
+    "url": "https://qiita.com/kodai_kitahara/items/d9b8c30d50e7bc8be317?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-26T22:30:44.886132+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2610/27/news023.html",
+    "sent_at": "2026-10-26T22:30:44.886132+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002578/",
+    "sent_at": "2026-10-26T22:30:44.886132+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002573/",
+    "sent_at": "2026-10-26T22:30:44.886132+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news019.html",
+    "sent_at": "2026-10-26T22:30:44.886132+00:00"
+  },
+  {
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "sent_at": "2026-10-26T22:30:44.886132+00:00"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "sent_at": "2026-10-26T22:30:44.886132+00:00"
+  },
+  {
+    "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+    "sent_at": "2026-10-26T22:30:44.886132+00:00"
+  },
+  {
+    "url": "https://qiita.com/Masaki_Cho/items/8a720994a14538883cda?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-26T22:30:44.886132+00:00"
   }
 ]
