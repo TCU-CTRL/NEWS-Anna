@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-    "sent_at": "2026-09-27T22:30:57.227640+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-    "sent_at": "2026-09-27T22:30:57.227640+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190251",
-    "sent_at": "2026-09-27T22:30:57.227640+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-    "sent_at": "2026-09-27T22:30:57.227640+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/28/015556",
-    "sent_at": "2026-09-27T22:30:57.227640+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-    "sent_at": "2026-09-27T22:30:57.227640+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
-    "sent_at": "2026-09-27T22:30:57.227640+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
-    "sent_at": "2026-09-27T22:30:57.227640+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-    "sent_at": "2026-09-27T22:30:57.227640+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
-    "sent_at": "2026-09-27T22:30:57.227640+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-    "sent_at": "2026-09-28T22:31:04.914462+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
-    "sent_at": "2026-09-28T22:31:04.914462+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-    "sent_at": "2026-09-28T22:31:04.914462+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-    "sent_at": "2026-09-28T22:31:04.914462+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-    "sent_at": "2026-09-28T22:31:04.914462+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-    "sent_at": "2026-09-28T22:31:04.914462+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-    "sent_at": "2026-09-28T22:31:04.914462+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-    "sent_at": "2026-09-28T22:31:04.914462+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/28/082600",
-    "sent_at": "2026-09-28T22:31:04.914462+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/at/2026/at260029.html",
-    "sent_at": "2026-09-28T22:31:04.914462+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
     "sent_at": "2026-09-29T22:30:56.213345+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://jvn.jp/vu/JVNVU97400824/",
     "sent_at": "2026-10-27T22:30:51.404131+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+    "sent_at": "2026-10-28T22:31:11.746358+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/28/172044",
+    "sent_at": "2026-10-28T22:31:11.746358+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+    "sent_at": "2026-10-28T22:31:11.746358+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+    "sent_at": "2026-10-28T22:31:11.746358+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192047",
+    "sent_at": "2026-10-28T22:31:11.746358+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+    "sent_at": "2026-10-28T22:31:11.746358+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#13",
+    "sent_at": "2026-10-28T22:31:11.746358+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+    "sent_at": "2026-10-28T22:31:11.746358+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+    "sent_at": "2026-10-28T22:31:11.746358+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192044",
+    "sent_at": "2026-10-28T22:31:11.746358+00:00"
   }
 ]

@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://qiita.com/songchong/items/9122c8a264ff07cc2d83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-27T22:30:49.391040+00:00"
-  },
-  {
-    "url": "https://zenn.dev/key60228/articles/d4f2591a42a876",
-    "sent_at": "2026-09-27T22:30:49.391040+00:00"
-  },
-  {
-    "url": "https://qiita.com/songchong/items/97ba76b89c3840bc498e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-27T22:30:49.391040+00:00"
-  },
-  {
-    "url": "https://qiita.com/cvusk/items/cc557648d907a8399180?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-27T22:30:49.391040+00:00"
-  },
-  {
-    "url": "https://zenn.dev/mazrean/articles/bd9b563ace18db",
-    "sent_at": "2026-09-27T22:30:49.391040+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001776/",
-    "sent_at": "2026-09-27T22:30:49.391040+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2609/27/news009.html",
-    "sent_at": "2026-09-27T22:30:49.391040+00:00"
-  },
-  {
-    "url": "https://github.com/deepfates/imp",
-    "sent_at": "2026-09-27T22:30:49.391040+00:00"
-  },
-  {
-    "url": "https://fireworks.ai/blog/ember-1",
-    "sent_at": "2026-09-27T22:30:49.391040+00:00"
-  },
-  {
-    "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-    "sent_at": "2026-09-27T22:30:49.391040+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001823/",
-    "sent_at": "2026-09-28T22:30:58.351339+00:00"
-  },
-  {
-    "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
-    "sent_at": "2026-09-28T22:30:58.351339+00:00"
-  },
-  {
-    "url": "https://qiita.com/lucnguyen/items/db34e792b5ec7e173254?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-28T22:30:58.351339+00:00"
-  },
-  {
-    "url": "https://qiita.com/jqit-yukiono/items/869751db9269dc2ce84a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-28T22:30:58.351339+00:00"
-  },
-  {
-    "url": "https://qiita.com/nr-mito/items/f8f2216ec3a21b6d6c41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-28T22:30:58.351339+00:00"
-  },
-  {
-    "url": "https://zenn.dev/headwaters/articles/15875671106c54",
-    "sent_at": "2026-09-28T22:30:58.351339+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2609/29/news055.html",
-    "sent_at": "2026-09-28T22:30:58.351339+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001672/",
-    "sent_at": "2026-09-28T22:30:58.351339+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2609/28/news103.html",
-    "sent_at": "2026-09-28T22:30:58.351339+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001818/",
-    "sent_at": "2026-09-28T22:30:58.351339+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001837/",
     "sent_at": "2026-09-29T22:30:49.216925+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
     "sent_at": "2026-10-27T22:30:44.926779+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html",
+    "sent_at": "2026-10-28T22:31:05.204817+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002661/",
+    "sent_at": "2026-10-28T22:31:05.204817+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news032.html",
+    "sent_at": "2026-10-28T22:31:05.204817+00:00"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "sent_at": "2026-10-28T22:31:05.204817+00:00"
+  },
+  {
+    "url": "https://zenn.dev/sonicmoov/articles/67aaeb49be69ec",
+    "sent_at": "2026-10-28T22:31:05.204817+00:00"
+  },
+  {
+    "url": "https://qiita.com/dev-hasegawa/items/79f612c5a4e6c874eaa9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-28T22:31:05.204817+00:00"
+  },
+  {
+    "url": "https://qiita.com/suwa_nobu/items/e6b2737d3eddb921e40d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-28T22:31:05.204817+00:00"
+  },
+  {
+    "url": "https://qiita.com/GpAraki/items/6aa0ff0c287486e82960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-28T22:31:05.204817+00:00"
+  },
+  {
+    "url": "https://zenn.dev/fraim/articles/50908c30561af5",
+    "sent_at": "2026-10-28T22:31:05.204817+00:00"
+  },
+  {
+    "url": "https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-28T22:31:05.204817+00:00"
   }
 ]
