@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001837/",
-    "sent_at": "2026-09-29T22:30:49.216925+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001839/",
-    "sent_at": "2026-09-29T22:30:49.216925+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001868/",
-    "sent_at": "2026-09-29T22:30:49.216925+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001854/",
-    "sent_at": "2026-09-29T22:30:49.216925+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2609/29/news044.html",
-    "sent_at": "2026-09-29T22:30:49.216925+00:00"
-  },
-  {
-    "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-    "sent_at": "2026-09-29T22:30:49.216925+00:00"
-  },
-  {
-    "url": "https://openai.com/index/introducing-dots/",
-    "sent_at": "2026-09-29T22:30:49.216925+00:00"
-  },
-  {
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-    "sent_at": "2026-09-29T22:30:49.216925+00:00"
-  },
-  {
-    "url": "https://qiita.com/suwa_nobu/items/5749949156f8df6f728b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-29T22:30:49.216925+00:00"
-  },
-  {
-    "url": "https://qiita.com/itokazu/items/c4bc3f4535a653b4de73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-09-29T22:30:49.216925+00:00"
-  },
-  {
     "url": "https://zenn.dev/labcode/books/c4f81b6a2d9e37",
     "sent_at": "2026-09-30T22:30:52.863929+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-10-28T22:31:05.204817+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50291116",
+    "sent_at": "2026-10-29T22:30:50.436193+00:00"
+  },
+  {
+    "url": "https://zenn.dev/sre_holdings/articles/d4acb079680a79",
+    "sent_at": "2026-10-29T22:30:50.436193+00:00"
+  },
+  {
+    "url": "https://github.com/lonthq/overtone-captions",
+    "sent_at": "2026-10-29T22:30:50.436193+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/29/news076.html",
+    "sent_at": "2026-10-29T22:30:50.436193+00:00"
+  },
+  {
+    "url": "https://qiita.com/ennagara128/items/7b149acc0ae4e43471cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-10-29T22:30:50.436193+00:00"
+  },
+  {
+    "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+    "sent_at": "2026-10-29T22:30:50.436193+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
+    "sent_at": "2026-10-29T22:30:50.436193+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002693/",
+    "sent_at": "2026-10-29T22:30:50.436193+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
+    "sent_at": "2026-10-29T22:30:50.436193+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news015.html",
+    "sent_at": "2026-10-29T22:30:50.436193+00:00"
   }
 ]

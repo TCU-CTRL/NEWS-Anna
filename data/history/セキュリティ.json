@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-    "sent_at": "2026-09-29T22:30:56.213345+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-    "sent_at": "2026-09-29T22:30:56.213345+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-    "sent_at": "2026-09-29T22:30:56.213345+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-    "sent_at": "2026-09-29T22:30:56.213345+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/30/021814",
-    "sent_at": "2026-09-29T22:30:56.213345+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190787",
-    "sent_at": "2026-09-29T22:30:56.213345+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-    "sent_at": "2026-09-29T22:30:56.213345+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-    "sent_at": "2026-09-29T22:30:56.213345+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
-    "sent_at": "2026-09-29T22:30:56.213345+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-    "sent_at": "2026-09-29T22:30:56.213345+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/09/30/080115",
     "sent_at": "2026-09-30T22:30:59.775629+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/192044",
     "sent_at": "2026-10-28T22:31:11.746358+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+    "sent_at": "2026-10-29T22:30:58.035788+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/29/170430",
+    "sent_at": "2026-10-29T22:30:58.035788+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+    "sent_at": "2026-10-29T22:30:58.035788+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192142",
+    "sent_at": "2026-10-29T22:30:58.035788+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+    "sent_at": "2026-10-29T22:30:58.035788+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+    "sent_at": "2026-10-29T22:30:58.035788+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+    "sent_at": "2026-10-29T22:30:58.035788+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192097",
+    "sent_at": "2026-10-29T22:30:58.035788+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192102",
+    "sent_at": "2026-10-29T22:30:58.035788+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+    "sent_at": "2026-10-29T22:30:58.035788+00:00"
   }
 ]
