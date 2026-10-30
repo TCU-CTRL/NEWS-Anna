@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/30/080115",
-    "sent_at": "2026-09-30T22:30:59.775629+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-    "sent_at": "2026-09-30T22:30:59.775629+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
-    "sent_at": "2026-09-30T22:30:59.775629+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-    "sent_at": "2026-09-30T22:30:59.775629+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-    "sent_at": "2026-09-30T22:30:59.775629+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-    "sent_at": "2026-09-30T22:30:59.775629+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#17",
-    "sent_at": "2026-09-30T22:30:59.775629+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190829",
-    "sent_at": "2026-09-30T22:30:59.775629+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190854",
-    "sent_at": "2026-09-30T22:30:59.775629+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190850",
-    "sent_at": "2026-09-30T22:30:59.775629+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/10/01/112213",
     "sent_at": "2026-10-01T22:30:52.372158+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
     "sent_at": "2026-10-29T22:30:58.035788+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+    "sent_at": "2026-10-30T22:31:02.040327+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+    "sent_at": "2026-10-30T22:31:02.040327+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+    "sent_at": "2026-10-30T22:31:02.040327+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+    "sent_at": "2026-10-30T22:31:02.040327+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+    "sent_at": "2026-10-30T22:31:02.040327+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/30/120732",
+    "sent_at": "2026-10-30T22:31:02.040327+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/30/230303",
+    "sent_at": "2026-10-30T22:31:02.040327+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+    "sent_at": "2026-10-30T22:31:02.040327+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192222",
+    "sent_at": "2026-10-30T22:31:02.040327+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192200",
+    "sent_at": "2026-10-30T22:31:02.040327+00:00"
   }
 ]
