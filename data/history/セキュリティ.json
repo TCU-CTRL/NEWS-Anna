@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/01/112213",
-    "sent_at": "2026-10-01T22:30:52.372158+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-    "sent_at": "2026-10-01T22:30:52.372158+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190883",
-    "sent_at": "2026-10-01T22:30:52.372158+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-    "sent_at": "2026-10-01T22:30:52.372158+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
-    "sent_at": "2026-10-01T22:30:52.372158+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-    "sent_at": "2026-10-01T22:30:52.372158+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-    "sent_at": "2026-10-01T22:30:52.372158+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190893",
-    "sent_at": "2026-10-01T22:30:52.372158+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190906",
-    "sent_at": "2026-10-01T22:30:52.372158+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-    "sent_at": "2026-10-01T22:30:52.372158+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/10/03/001121",
     "sent_at": "2026-10-02T22:30:58.198729+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/192200",
     "sent_at": "2026-10-30T22:31:02.040327+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+    "sent_at": "2026-10-31T22:30:53.146732+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+    "sent_at": "2026-10-31T22:30:53.146732+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+    "sent_at": "2026-10-31T22:30:53.146732+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+    "sent_at": "2026-10-31T22:30:53.146732+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+    "sent_at": "2026-10-31T22:30:53.146732+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260029.html",
+    "sent_at": "2026-10-31T22:30:53.146732+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192231",
+    "sent_at": "2026-10-31T22:30:53.146732+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261028.html#12",
+    "sent_at": "2026-10-31T22:30:53.146732+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192058",
+    "sent_at": "2026-10-31T22:30:53.146732+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192095",
+    "sent_at": "2026-10-31T22:30:53.146732+00:00"
   }
 ]
