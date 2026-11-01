@@ -1198,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/192095",
     "sent_at": "2026-10-31T22:30:53.146732+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+    "sent_at": "2026-11-01T22:30:55.210087+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+    "sent_at": "2026-11-01T22:30:55.210087+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+    "sent_at": "2026-11-01T22:30:55.210087+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+    "sent_at": "2026-11-01T22:30:55.210087+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+    "sent_at": "2026-11-01T22:30:55.210087+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+    "sent_at": "2026-11-01T22:30:55.210087+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+    "sent_at": "2026-11-01T22:30:55.210087+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+    "sent_at": "2026-11-01T22:30:55.210087+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+    "sent_at": "2026-11-01T22:30:55.210087+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+    "sent_at": "2026-11-01T22:30:55.210087+00:00"
   }
 ]
