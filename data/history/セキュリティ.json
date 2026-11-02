@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/03/001121",
-    "sent_at": "2026-10-02T22:30:58.198729+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-    "sent_at": "2026-10-02T22:30:58.198729+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
-    "sent_at": "2026-10-02T22:30:58.198729+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/02/174228",
-    "sent_at": "2026-10-02T22:30:58.198729+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
-    "sent_at": "2026-10-02T22:30:58.198729+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
-    "sent_at": "2026-10-02T22:30:58.198729+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/02/022540",
-    "sent_at": "2026-10-02T22:30:58.198729+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190943",
-    "sent_at": "2026-10-02T22:30:58.198729+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
-    "sent_at": "2026-10-02T22:30:58.198729+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#18",
-    "sent_at": "2026-10-02T22:30:58.198729+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-    "sent_at": "2026-10-03T22:30:48.159174+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#5",
-    "sent_at": "2026-10-03T22:30:48.159174+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190931",
-    "sent_at": "2026-10-03T22:30:48.159174+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#24",
-    "sent_at": "2026-10-03T22:30:48.159174+00:00"
-  },
-  {
-    "url": "https://jvn.jp/vu/JVNVU93468181/",
-    "sent_at": "2026-10-03T22:30:48.159174+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
-    "sent_at": "2026-10-03T22:30:48.159174+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-    "sent_at": "2026-10-03T22:30:48.159174+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
-    "sent_at": "2026-10-03T22:30:48.159174+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#11",
-    "sent_at": "2026-10-03T22:30:48.159174+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#21",
-    "sent_at": "2026-10-03T22:30:48.159174+00:00"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
     "sent_at": "2026-10-04T22:30:57.504280+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
     "sent_at": "2026-11-01T22:30:55.210087+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192262",
+    "sent_at": "2026-11-02T22:31:30.840385+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+    "sent_at": "2026-11-02T22:31:30.840385+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+    "sent_at": "2026-11-02T22:31:30.840385+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+    "sent_at": "2026-11-02T22:31:30.840385+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+    "sent_at": "2026-11-02T22:31:30.840385+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+    "sent_at": "2026-11-02T22:31:30.840385+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192279",
+    "sent_at": "2026-11-02T22:31:30.840385+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+    "sent_at": "2026-11-02T22:31:30.840385+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+    "sent_at": "2026-11-02T22:31:30.840385+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+    "sent_at": "2026-11-02T22:31:30.840385+00:00"
   }
 ]
