@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
-    "sent_at": "2026-10-04T22:30:57.504280+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/30/013735",
-    "sent_at": "2026-10-04T22:30:57.504280+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/04/115554",
-    "sent_at": "2026-10-04T22:30:57.504280+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/04/134335",
-    "sent_at": "2026-10-04T22:30:57.504280+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/05/023139",
-    "sent_at": "2026-10-04T22:30:57.504280+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-    "sent_at": "2026-10-04T22:30:57.504280+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#25",
-    "sent_at": "2026-10-04T22:30:57.504280+00:00"
-  },
-  {
-    "url": "https://jvn.jp/vu/JVNVU94648869/",
-    "sent_at": "2026-10-04T22:30:57.504280+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190833",
-    "sent_at": "2026-10-04T22:30:57.504280+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
-    "sent_at": "2026-10-04T22:30:57.504280+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
     "sent_at": "2026-10-05T22:30:54.954238+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
     "sent_at": "2026-11-02T22:31:30.840385+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+    "sent_at": "2026-11-03T22:31:00.080123+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+    "sent_at": "2026-11-03T22:31:00.080123+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+    "sent_at": "2026-11-03T22:31:00.080123+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+    "sent_at": "2026-11-03T22:31:00.080123+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+    "sent_at": "2026-11-03T22:31:00.080123+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+    "sent_at": "2026-11-03T22:31:00.080123+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192310",
+    "sent_at": "2026-11-03T22:31:00.080123+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+    "sent_at": "2026-11-03T22:31:00.080123+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+    "sent_at": "2026-11-03T22:31:00.080123+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+    "sent_at": "2026-11-03T22:31:00.080123+00:00"
   }
 ]
