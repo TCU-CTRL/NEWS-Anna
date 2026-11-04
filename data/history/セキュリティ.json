@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-    "sent_at": "2026-10-05T22:30:54.954238+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-    "sent_at": "2026-10-05T22:30:54.954238+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
-    "sent_at": "2026-10-05T22:30:54.954238+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-    "sent_at": "2026-10-05T22:30:54.954238+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
-    "sent_at": "2026-10-05T22:30:54.954238+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/05/115509",
-    "sent_at": "2026-10-05T22:30:54.954238+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191015",
-    "sent_at": "2026-10-05T22:30:54.954238+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191005",
-    "sent_at": "2026-10-05T22:30:54.954238+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191010",
-    "sent_at": "2026-10-05T22:30:54.954238+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/190961",
-    "sent_at": "2026-10-05T22:30:54.954238+00:00"
-  },
-  {
     "url": "https://www.security-next.com/191061",
     "sent_at": "2026-10-06T22:33:11.696011+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
     "sent_at": "2026-11-03T22:31:00.080123+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/04/191450",
+    "sent_at": "2026-11-04T22:31:00.015097+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/05/015717",
+    "sent_at": "2026-11-04T22:31:00.015097+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+    "sent_at": "2026-11-04T22:31:00.015097+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+    "sent_at": "2026-11-04T22:31:00.015097+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+    "sent_at": "2026-11-04T22:31:00.015097+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+    "sent_at": "2026-11-04T22:31:00.015097+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+    "sent_at": "2026-11-04T22:31:00.015097+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/04/132901",
+    "sent_at": "2026-11-04T22:31:00.015097+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192322",
+    "sent_at": "2026-11-04T22:31:00.015097+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+    "sent_at": "2026-11-04T22:31:00.015097+00:00"
   }
 ]
