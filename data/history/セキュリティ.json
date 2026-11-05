@@ -1198,5 +1198,45 @@
   {
     "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
     "sent_at": "2026-11-04T22:31:00.015097+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/05/095634",
+    "sent_at": "2026-11-05T22:31:00.679333+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+    "sent_at": "2026-11-05T22:31:00.679333+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#12",
+    "sent_at": "2026-11-05T22:31:00.679333+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/05/133509",
+    "sent_at": "2026-11-05T22:31:00.679333+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192378",
+    "sent_at": "2026-11-05T22:31:00.679333+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192381",
+    "sent_at": "2026-11-05T22:31:00.679333+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+    "sent_at": "2026-11-05T22:31:00.679333+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+    "sent_at": "2026-11-05T22:31:00.679333+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+    "sent_at": "2026-11-05T22:31:00.679333+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+    "sent_at": "2026-11-05T22:31:00.679333+00:00"
   }
 ]
