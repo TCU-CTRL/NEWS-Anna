@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://zenn.dev/oggata/articles/0893726c1ebf3d",
-    "sent_at": "2026-10-06T22:33:04.385225+00:00"
-  },
-  {
-    "url": "https://zenn.dev/radius5/articles/20261004-j3v7cl3f",
-    "sent_at": "2026-10-06T22:33:04.385225+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002068/",
-    "sent_at": "2026-10-06T22:33:04.385225+00:00"
-  },
-  {
-    "url": "https://zenn.dev/emuni/articles/ooui-agent-skill",
-    "sent_at": "2026-10-06T22:33:04.385225+00:00"
-  },
-  {
-    "url": "https://qiita.com/shu15511551/items/fb6b9a3542ceabee2aab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-06T22:33:04.385225+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002064/",
-    "sent_at": "2026-10-06T22:33:04.385225+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002051/",
-    "sent_at": "2026-10-06T22:33:04.385225+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2610/06/news058.html",
-    "sent_at": "2026-10-06T22:33:04.385225+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002034/",
-    "sent_at": "2026-10-06T22:33:04.385225+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/06/news016.html",
-    "sent_at": "2026-10-06T22:33:04.385225+00:00"
-  },
-  {
-    "url": "https://agent.reviews/",
-    "sent_at": "2026-10-07T22:30:46.914714+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002078/",
-    "sent_at": "2026-10-07T22:30:46.914714+00:00"
-  },
-  {
-    "url": "https://zenn.dev/shikamaru/articles/ef90e326ab8163",
-    "sent_at": "2026-10-07T22:30:46.914714+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2610/07/news062.html",
-    "sent_at": "2026-10-07T22:30:46.914714+00:00"
-  },
-  {
-    "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-    "sent_at": "2026-10-07T22:30:46.914714+00:00"
-  },
-  {
-    "url": "https://www.anthropic.com/claude-haiku-5-5",
-    "sent_at": "2026-10-07T22:30:46.914714+00:00"
-  },
-  {
-    "url": "https://openai.com/index/gpt-6-for-everyone/",
-    "sent_at": "2026-10-07T22:30:46.914714+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002055/",
-    "sent_at": "2026-10-07T22:30:46.914714+00:00"
-  },
-  {
-    "url": "https://qiita.com/suwa_nobu/items/be41c19295ef0e58e7f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-07T22:30:46.914714+00:00"
-  },
-  {
-    "url": "https://qiita.com/nakasato310/items/052e2260b0e019da0567?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-07T22:30:46.914714+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/business/articles/2610/09/news015.html",
     "sent_at": "2026-10-08T22:30:46.061273+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/business/articles/2611/05/news087.html",
     "sent_at": "2026-11-05T22:30:54.410100+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002962/",
+    "sent_at": "2026-11-06T22:30:53.244879+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2611/06/news032.html",
+    "sent_at": "2026-11-06T22:30:53.244879+00:00"
+  },
+  {
+    "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+    "sent_at": "2026-11-06T22:30:53.244879+00:00"
+  },
+  {
+    "url": "https://zenn.dev/genda_jp/articles/7b423bcd20b532",
+    "sent_at": "2026-11-06T22:30:53.244879+00:00"
+  },
+  {
+    "url": "https://qiita.com/Dash3/items/82954e7925fe63ad6a13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-06T22:30:53.244879+00:00"
+  },
+  {
+    "url": "https://qiita.com/taquangku/items/cb89818a44f11d92e4ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-06T22:30:53.244879+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2611/06/news080.html",
+    "sent_at": "2026-11-06T22:30:53.244879+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002976/",
+    "sent_at": "2026-11-06T22:30:53.244879+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2611/06/news078.html",
+    "sent_at": "2026-11-06T22:30:53.244879+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/06/news073.html",
+    "sent_at": "2026-11-06T22:30:53.244879+00:00"
   }
 ]
