@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-    "sent_at": "2026-10-08T22:30:53.829907+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
-    "sent_at": "2026-10-08T22:30:53.829907+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-    "sent_at": "2026-10-08T22:30:53.829907+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191184",
-    "sent_at": "2026-10-08T22:30:53.829907+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191180",
-    "sent_at": "2026-10-08T22:30:53.829907+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191191",
-    "sent_at": "2026-10-08T22:30:53.829907+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-    "sent_at": "2026-10-08T22:30:53.829907+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
-    "sent_at": "2026-10-08T22:30:53.829907+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-    "sent_at": "2026-10-08T22:30:53.829907+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr261007.html#3",
-    "sent_at": "2026-10-08T22:30:53.829907+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
     "sent_at": "2026-10-09T22:30:53.126620+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
     "sent_at": "2026-11-06T22:31:00.192351+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+    "sent_at": "2026-11-07T22:30:57.939105+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#5",
+    "sent_at": "2026-11-07T22:30:57.939105+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#14",
+    "sent_at": "2026-11-07T22:30:57.939105+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#15",
+    "sent_at": "2026-11-07T22:30:57.939105+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192451",
+    "sent_at": "2026-11-07T22:30:57.939105+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+    "sent_at": "2026-11-07T22:30:57.939105+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#2",
+    "sent_at": "2026-11-07T22:30:57.939105+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#9",
+    "sent_at": "2026-11-07T22:30:57.939105+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+    "sent_at": "2026-11-07T22:30:57.939105+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+    "sent_at": "2026-11-07T22:30:57.939105+00:00"
   }
 ]
