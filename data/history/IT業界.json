@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002179/",
-    "sent_at": "2026-10-09T22:30:45.850129+00:00"
-  },
-  {
-    "url": "https://qiita.com/ntaka329/items/1ad9131353e51c5b99fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-09T22:30:45.850129+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002102/",
-    "sent_at": "2026-10-09T22:30:45.850129+00:00"
-  },
-  {
-    "url": "https://qiita.com/hiroshi_ito9854/items/ff26fe2e239e23305f26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-09T22:30:45.850129+00:00"
-  },
-  {
-    "url": "https://zenn.dev/terass_dev/articles/6e6562d54d5505",
-    "sent_at": "2026-10-09T22:30:45.850129+00:00"
-  },
-  {
-    "url": "https://zenn.dev/headwaters/articles/12175106cd8c79",
-    "sent_at": "2026-10-09T22:30:45.850129+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002176/",
-    "sent_at": "2026-10-09T22:30:45.850129+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002160/",
-    "sent_at": "2026-10-09T22:30:45.850129+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "sent_at": "2026-10-09T22:30:45.850129+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2610/09/news039.html",
-    "sent_at": "2026-10-09T22:30:45.850129+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/pcuser/articles/2610/11/news004.html",
     "sent_at": "2026-10-10T22:30:47.308620+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
     "sent_at": "2026-11-07T22:30:51.241729+00:00"
+  },
+  {
+    "url": "https://qiita.com/cw_inada/items/1f36d18c3c60b48b4466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-08T22:30:48.046744+00:00"
+  },
+  {
+    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "sent_at": "2026-11-08T22:30:48.046744+00:00"
+  },
+  {
+    "url": "https://qiita.com/Nana_777/items/6e466fb974972a79a323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-08T22:30:48.046744+00:00"
+  },
+  {
+    "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
+    "sent_at": "2026-11-08T22:30:48.046744+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2611/09/news013.html",
+    "sent_at": "2026-11-08T22:30:48.046744+00:00"
+  },
+  {
+    "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+    "sent_at": "2026-11-08T22:30:48.046744+00:00"
+  },
+  {
+    "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+    "sent_at": "2026-11-08T22:30:48.046744+00:00"
+  },
+  {
+    "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+    "sent_at": "2026-11-08T22:30:48.046744+00:00"
+  },
+  {
+    "url": "https://github.com/synchopate/llama-modchip",
+    "sent_at": "2026-11-08T22:30:48.046744+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
+    "sent_at": "2026-11-08T22:30:48.046744+00:00"
   }
 ]
