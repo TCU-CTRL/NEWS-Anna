@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/11/news004.html",
-    "sent_at": "2026-10-10T22:30:47.308620+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
-    "sent_at": "2026-10-10T22:30:47.308620+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news032.html",
-    "sent_at": "2026-10-10T22:30:47.308620+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-    "sent_at": "2026-10-10T22:30:47.308620+00:00"
-  },
-  {
-    "url": "https://github.com/rociiu/talorys",
-    "sent_at": "2026-10-10T22:30:47.308620+00:00"
-  },
-  {
-    "url": "https://qiita.com/maokiXXX/items/171341aa8813db32e213?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-10T22:30:47.308620+00:00"
-  },
-  {
-    "url": "https://zenn.dev/intage_tech/articles/art026-dbt-wizard-try",
-    "sent_at": "2026-10-10T22:30:47.308620+00:00"
-  },
-  {
-    "url": "https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles",
-    "sent_at": "2026-10-10T22:30:47.308620+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
-    "sent_at": "2026-10-10T22:30:47.308620+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2610/10/news010.html",
-    "sent_at": "2026-10-10T22:30:47.308620+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/business/articles/2610/11/news005.html",
     "sent_at": "2026-10-11T22:30:56.122526+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
     "sent_at": "2026-11-08T22:30:48.046744+00:00"
+  },
+  {
+    "url": "https://qiita.com/ryosuke_ohori/items/ada543a0201752023e25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-09T22:30:52.363915+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50427934",
+    "sent_at": "2026-11-09T22:30:52.363915+00:00"
+  },
+  {
+    "url": "https://zenn.dev/painter/articles/663816c3195cec",
+    "sent_at": "2026-11-09T22:30:52.363915+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003016/",
+    "sent_at": "2026-11-09T22:30:52.363915+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
+    "sent_at": "2026-11-09T22:30:52.363915+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/07/news004.html",
+    "sent_at": "2026-11-09T22:30:52.363915+00:00"
+  },
+  {
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "sent_at": "2026-11-09T22:30:52.363915+00:00"
+  },
+  {
+    "url": "https://github.com/thisisme6598/gemini_files/",
+    "sent_at": "2026-11-09T22:30:52.363915+00:00"
+  },
+  {
+    "url": "https://www.watched.earth",
+    "sent_at": "2026-11-09T22:30:52.363915+00:00"
+  },
+  {
+    "url": "https://meowdisplay.app/",
+    "sent_at": "2026-11-09T22:30:52.363915+00:00"
   }
 ]
