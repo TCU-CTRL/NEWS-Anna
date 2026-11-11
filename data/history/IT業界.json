@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/business/articles/2610/11/news005.html",
-    "sent_at": "2026-10-11T22:30:56.122526+00:00"
-  },
-  {
-    "url": "https://qiita.com/charge0315/items/fcec85cc5250e39bab97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-11T22:30:56.122526+00:00"
-  },
-  {
-    "url": "https://qiita.com/shu15511551/items/ea723c5d81a14f507fba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-11T22:30:56.122526+00:00"
-  },
-  {
-    "url": "https://zenn.dev/uhyo/articles/react-profession-bench-20",
-    "sent_at": "2026-10-11T22:30:56.122526+00:00"
-  },
-  {
-    "url": "https://qiita.com/shu15511551/items/48fb771c427d24405287?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-11T22:30:56.122526+00:00"
-  },
-  {
-    "url": "https://qiita.com/ishizakahiroshi/items/7eb94a303a1aab6e0f98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-11T22:30:56.122526+00:00"
-  },
-  {
-    "url": "https://github.com/mirabilis-agent/lip-ledger",
-    "sent_at": "2026-10-11T22:30:56.122526+00:00"
-  },
-  {
-    "url": "https://twitter.com/karpathy/status/2109361546505966046",
-    "sent_at": "2026-10-11T22:30:56.122526+00:00"
-  },
-  {
-    "url": "https://www.nyc.gov/main/click-to-cancel",
-    "sent_at": "2026-10-11T22:30:56.122526+00:00"
-  },
-  {
-    "url": "https://qiita.com/J-T_ky2g/items/5167206de7795cdfb017?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-11T22:30:56.122526+00:00"
-  },
-  {
-    "url": "https://news.ycombinator.com/item?id=50059096",
-    "sent_at": "2026-10-12T22:30:48.478243+00:00"
-  },
-  {
-    "url": "https://qiita.com/songchong/items/0d759f44eb26f332b897?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-12T22:30:48.478243+00:00"
-  },
-  {
-    "url": "https://qiita.com/kikuziro/items/53465eeb52b464757555?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-12T22:30:48.478243+00:00"
-  },
-  {
-    "url": "https://qiita.com/shu15511551/items/b4907a8a7ccead0e1c98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-12T22:30:48.478243+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news036.html",
-    "sent_at": "2026-10-12T22:30:48.478243+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
-    "sent_at": "2026-10-12T22:30:48.478243+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2610/12/news007.html",
-    "sent_at": "2026-10-12T22:30:48.478243+00:00"
-  },
-  {
-    "url": "https://github.com/openai/codex/issues/48195",
-    "sent_at": "2026-10-12T22:30:48.478243+00:00"
-  },
-  {
-    "url": "https://qiita.com/songchong/items/f80fad42b5a134fa3c14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-12T22:30:48.478243+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news042.html",
-    "sent_at": "2026-10-12T22:30:48.478243+00:00"
-  },
-  {
     "url": "https://news.ycombinator.com/item?id=50073471",
     "sent_at": "2026-10-13T22:30:52.075003+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://qiita.com/meursyphus/items/f3c05ced6a6815c1cf0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-11-10T22:30:52.856061+00:00"
+  },
+  {
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "sent_at": "2026-11-11T22:30:56.616305+00:00"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "sent_at": "2026-11-11T22:30:56.616305+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50455811",
+    "sent_at": "2026-11-11T22:30:56.616305+00:00"
+  },
+  {
+    "url": "https://zenn.dev/tree_and_tree/articles/thoughts-on-claude-fable-5-2",
+    "sent_at": "2026-11-11T22:30:56.616305+00:00"
+  },
+  {
+    "url": "https://qiita.com/N-Kyo/items/23697fc1e92c288b426b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-11T22:30:56.616305+00:00"
+  },
+  {
+    "url": "https://qiita.com/shirok/items/bb1797084e149519279e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-11T22:30:56.616305+00:00"
+  },
+  {
+    "url": "https://zenn.dev/pksha/articles/laplace-build-guide",
+    "sent_at": "2026-11-11T22:30:56.616305+00:00"
+  },
+  {
+    "url": "https://zenn.dev/garasubo/articles/72340052cdd871",
+    "sent_at": "2026-11-11T22:30:56.616305+00:00"
+  },
+  {
+    "url": "https://zenn.dev/peoplex_blog/articles/2611-what-to-face-when-ai-builds-fast",
+    "sent_at": "2026-11-11T22:30:56.616305+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2611/12/news012.html",
+    "sent_at": "2026-11-11T22:30:56.616305+00:00"
   }
 ]

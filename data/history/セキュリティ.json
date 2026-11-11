@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-    "sent_at": "2026-10-11T22:31:04.303539+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-    "sent_at": "2026-10-11T22:31:04.303539+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-    "sent_at": "2026-10-11T22:31:04.303539+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
-    "sent_at": "2026-10-11T22:31:04.303539+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-    "sent_at": "2026-10-11T22:31:04.303539+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-    "sent_at": "2026-10-11T22:31:04.303539+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-    "sent_at": "2026-10-11T22:31:04.303539+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
-    "sent_at": "2026-10-11T22:31:04.303539+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/07/095650",
-    "sent_at": "2026-10-11T22:31:04.303539+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr261007.html#14",
-    "sent_at": "2026-10-11T22:31:04.303539+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-    "sent_at": "2026-10-12T22:30:55.392510+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-    "sent_at": "2026-10-12T22:30:55.392510+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-    "sent_at": "2026-10-12T22:30:55.392510+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-    "sent_at": "2026-10-12T22:30:55.392510+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-    "sent_at": "2026-10-12T22:30:55.392510+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-    "sent_at": "2026-10-12T22:30:55.392510+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-    "sent_at": "2026-10-12T22:30:55.392510+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-    "sent_at": "2026-10-12T22:30:55.392510+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-    "sent_at": "2026-10-12T22:30:55.392510+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-    "sent_at": "2026-10-12T22:30:55.392510+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/10/13/133936",
     "sent_at": "2026-10-13T22:30:59.915269+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
     "sent_at": "2026-11-10T22:30:59.137940+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/11/125745",
+    "sent_at": "2026-11-11T22:31:06.426304+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+    "sent_at": "2026-11-11T22:31:06.426304+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+    "sent_at": "2026-11-11T22:31:06.426304+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+    "sent_at": "2026-11-11T22:31:06.426304+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+    "sent_at": "2026-11-11T22:31:06.426304+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+    "sent_at": "2026-11-11T22:31:06.426304+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#14",
+    "sent_at": "2026-11-11T22:31:06.426304+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/11/075305",
+    "sent_at": "2026-11-11T22:31:06.426304+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192672",
+    "sent_at": "2026-11-11T22:31:06.426304+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+    "sent_at": "2026-11-11T22:31:06.426304+00:00"
   }
 ]
