@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/13/133936",
-    "sent_at": "2026-10-13T22:30:59.915269+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
-    "sent_at": "2026-10-13T22:30:59.915269+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191340",
-    "sent_at": "2026-10-13T22:30:59.915269+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-    "sent_at": "2026-10-13T22:30:59.915269+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191321",
-    "sent_at": "2026-10-13T22:30:59.915269+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
-    "sent_at": "2026-10-13T22:30:59.915269+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
-    "sent_at": "2026-10-13T22:30:59.915269+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/14/014350",
-    "sent_at": "2026-10-13T22:30:59.915269+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191308",
-    "sent_at": "2026-10-13T22:30:59.915269+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-    "sent_at": "2026-10-13T22:30:59.915269+00:00"
-  },
-  {
     "url": "https://www.jpcert.or.jp/newsflash/2026081301.html",
     "sent_at": "2026-10-14T22:30:53.416925+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
     "sent_at": "2026-11-11T22:31:06.426304+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+    "sent_at": "2026-11-12T22:31:04.946130+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+    "sent_at": "2026-11-12T22:31:04.946130+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+    "sent_at": "2026-11-12T22:31:04.946130+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+    "sent_at": "2026-11-12T22:31:04.946130+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+    "sent_at": "2026-11-12T22:31:04.946130+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+    "sent_at": "2026-11-12T22:31:04.946130+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/12/113829",
+    "sent_at": "2026-11-12T22:31:04.946130+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192699",
+    "sent_at": "2026-11-12T22:31:04.946130+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192735",
+    "sent_at": "2026-11-12T22:31:04.946130+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192727",
+    "sent_at": "2026-11-12T22:31:04.946130+00:00"
   }
 ]
