@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002278/",
-    "sent_at": "2026-10-14T22:30:44.667997+00:00"
-  },
-  {
-    "url": "https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-14T22:30:44.667997+00:00"
-  },
-  {
-    "url": "https://zenn.dev/keigoly/articles/8738d8d241b5a1",
-    "sent_at": "2026-10-14T22:30:44.667997+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002265/",
-    "sent_at": "2026-10-14T22:30:44.667997+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002276/",
-    "sent_at": "2026-10-14T22:30:44.667997+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2610/14/news077.html",
-    "sent_at": "2026-10-14T22:30:44.667997+00:00"
-  },
-  {
-    "url": "https://qiita.com/kotowazaman/items/5e2ec143012d661f1e0a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-14T22:30:44.667997+00:00"
-  },
-  {
-    "url": "https://petal.live/",
-    "sent_at": "2026-10-14T22:30:44.667997+00:00"
-  },
-  {
-    "url": "https://zenn.dev/sumasate_tec/articles/test-local-llm",
-    "sent_at": "2026-10-14T22:30:44.667997+00:00"
-  },
-  {
-    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-    "sent_at": "2026-10-14T22:30:44.667997+00:00"
-  },
-  {
     "url": "https://zenn.dev/solvio/articles/6d374a9224327a",
     "sent_at": "2026-10-15T22:30:51.473563+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://zenn.dev/tokium_dev/articles/llm-admin-interface",
     "sent_at": "2026-11-12T22:30:59.488022+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
+    "sent_at": "2026-11-13T22:30:50.585763+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
+    "sent_at": "2026-11-13T22:30:50.585763+00:00"
+  },
+  {
+    "url": "https://qiita.com/ryosuke_ohori/items/17995524b433cf04fd55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-13T22:30:50.585763+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2611/13/news081.html",
+    "sent_at": "2026-11-13T22:30:50.585763+00:00"
+  },
+  {
+    "url": "https://mag.executive.itmedia.co.jp/executive/article/2611/13/2000003081/",
+    "sent_at": "2026-11-13T22:30:50.585763+00:00"
+  },
+  {
+    "url": "https://qiita.com/roripika/items/bdeb5537efc1f27af726?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-13T22:30:50.585763+00:00"
+  },
+  {
+    "url": "https://zenn.dev/ojey/articles/isucon2026-kansousen",
+    "sent_at": "2026-11-13T22:30:50.585763+00:00"
+  },
+  {
+    "url": "https://qiita.com/hiroshi_ito9854/items/a3ea4d3db0d45f12f500?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-13T22:30:50.585763+00:00"
+  },
+  {
+    "url": "https://qiita.com/ntaka329/items/012ad27328ecaae1c469?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-13T22:30:50.585763+00:00"
+  },
+  {
+    "url": "https://qiita.com/suwa_nobu/items/40e9eba3a7d99a2a485b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-13T22:30:50.585763+00:00"
   }
 ]

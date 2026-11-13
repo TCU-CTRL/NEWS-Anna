@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.jpcert.or.jp/newsflash/2026081301.html",
-    "sent_at": "2026-10-14T22:30:53.416925+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-    "sent_at": "2026-10-14T22:30:53.416925+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-    "sent_at": "2026-10-14T22:30:53.416925+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191386",
-    "sent_at": "2026-10-14T22:30:53.416925+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191382",
-    "sent_at": "2026-10-14T22:30:53.416925+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-    "sent_at": "2026-10-14T22:30:53.416925+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191415",
-    "sent_at": "2026-10-14T22:30:53.416925+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191343",
-    "sent_at": "2026-10-14T22:30:53.416925+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-    "sent_at": "2026-10-14T22:30:53.416925+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-    "sent_at": "2026-10-14T22:30:53.416925+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
     "sent_at": "2026-10-15T22:30:59.688714+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/192727",
     "sent_at": "2026-11-12T22:31:04.946130+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+    "sent_at": "2026-11-13T22:30:59.308817+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+    "sent_at": "2026-11-13T22:30:59.308817+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/13/162738",
+    "sent_at": "2026-11-13T22:30:59.308817+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192718",
+    "sent_at": "2026-11-13T22:30:59.308817+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/13/114230",
+    "sent_at": "2026-11-13T22:30:59.308817+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192789",
+    "sent_at": "2026-11-13T22:30:59.308817+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192648",
+    "sent_at": "2026-11-13T22:30:59.308817+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+    "sent_at": "2026-11-13T22:30:59.308817+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192808",
+    "sent_at": "2026-11-13T22:30:59.308817+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192662",
+    "sent_at": "2026-11-13T22:30:59.308817+00:00"
   }
 ]
