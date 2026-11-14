@@ -1198,5 +1198,45 @@
   {
     "url": "https://www.security-next.com/192662",
     "sent_at": "2026-11-13T22:30:59.308817+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+    "sent_at": "2026-11-14T22:30:59.397497+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+    "sent_at": "2026-11-14T22:30:59.397497+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#6",
+    "sent_at": "2026-11-14T22:30:59.397497+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/newsflash/2026110901.html",
+    "sent_at": "2026-11-14T22:30:59.397497+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#2",
+    "sent_at": "2026-11-14T22:30:59.397497+00:00"
+  },
+  {
+    "url": "https://jvn.jp/vu/JVNVU98641453/",
+    "sent_at": "2026-11-14T22:30:59.397497+00:00"
+  },
+  {
+    "url": "https://jvn.jp/vu/JVNVU99429639/",
+    "sent_at": "2026-11-14T22:30:59.397497+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192730",
+    "sent_at": "2026-11-14T22:30:59.397497+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+    "sent_at": "2026-11-14T22:30:59.397497+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#12",
+    "sent_at": "2026-11-14T22:30:59.397497+00:00"
   }
 ]
