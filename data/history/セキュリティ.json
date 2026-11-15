@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-    "sent_at": "2026-10-15T22:30:59.688714+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-    "sent_at": "2026-10-15T22:30:59.688714+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-    "sent_at": "2026-10-15T22:30:59.688714+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-    "sent_at": "2026-10-15T22:30:59.688714+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-    "sent_at": "2026-10-15T22:30:59.688714+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-    "sent_at": "2026-10-15T22:30:59.688714+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-    "sent_at": "2026-10-15T22:30:59.688714+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191432",
-    "sent_at": "2026-10-15T22:30:59.688714+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-    "sent_at": "2026-10-15T22:30:59.688714+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
-    "sent_at": "2026-10-15T22:30:59.688714+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-    "sent_at": "2026-10-16T22:30:56.265899+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
-    "sent_at": "2026-10-16T22:30:56.265899+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191434",
-    "sent_at": "2026-10-16T22:30:56.265899+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-    "sent_at": "2026-10-16T22:30:56.265899+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/16/075103",
-    "sent_at": "2026-10-16T22:30:56.265899+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191540",
-    "sent_at": "2026-10-16T22:30:56.265899+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191442",
-    "sent_at": "2026-10-16T22:30:56.265899+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-    "sent_at": "2026-10-16T22:30:56.265899+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-    "sent_at": "2026-10-16T22:30:56.265899+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#9",
-    "sent_at": "2026-10-16T22:30:56.265899+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
     "sent_at": "2026-10-17T22:30:56.551440+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#12",
     "sent_at": "2026-11-14T22:30:59.397497+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+    "sent_at": "2026-11-15T22:30:59.009420+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+    "sent_at": "2026-11-15T22:30:59.009420+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+    "sent_at": "2026-11-15T22:30:59.009420+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+    "sent_at": "2026-11-15T22:30:59.009420+00:00"
+  },
+  {
+    "url": "https://jvn.jp/jp/JVN76799957/",
+    "sent_at": "2026-11-15T22:30:59.009420+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+    "sent_at": "2026-11-15T22:30:59.009420+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+    "sent_at": "2026-11-15T22:30:59.009420+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+    "sent_at": "2026-11-15T22:30:59.009420+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+    "sent_at": "2026-11-15T22:30:59.009420+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+    "sent_at": "2026-11-15T22:30:59.009420+00:00"
   }
 ]

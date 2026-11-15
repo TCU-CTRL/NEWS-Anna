@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/16/news111.html",
-    "sent_at": "2026-10-16T22:30:47.930825+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002326/",
-    "sent_at": "2026-10-16T22:30:47.930825+00:00"
-  },
-  {
-    "url": "https://qiita.com/shyamagu/items/b0801dc6016e700d2d61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-16T22:30:47.930825+00:00"
-  },
-  {
-    "url": "https://zenn.dev/aws_japan/articles/strands-robots-llm-teleop",
-    "sent_at": "2026-10-16T22:30:47.930825+00:00"
-  },
-  {
-    "url": "https://qiita.com/meltsuna/items/3a14d8545cc3c0e3f97b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-16T22:30:47.930825+00:00"
-  },
-  {
-    "url": "https://qiita.com/kojikojikojikoji/items/9d0bc3ed1f347933c0a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-16T22:30:47.930825+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/16/news011.html",
-    "sent_at": "2026-10-16T22:30:47.930825+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002336/",
-    "sent_at": "2026-10-16T22:30:47.930825+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html",
-    "sent_at": "2026-10-16T22:30:47.930825+00:00"
-  },
-  {
-    "url": "https://bfl.ai/blog/flux-3-image-klein",
-    "sent_at": "2026-10-16T22:30:47.930825+00:00"
-  },
-  {
     "url": "https://zenn.dev/edash_tech_blog/articles/6250fc61ccf009",
     "sent_at": "2026-10-17T22:30:47.977149+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
     "sent_at": "2026-11-14T22:30:51.884842+00:00"
+  },
+  {
+    "url": "https://qiita.com/AllegroMoltoV/items/67e583950029346b6e29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-15T22:30:52.819650+00:00"
+  },
+  {
+    "url": "https://qiita.com/oosawak@github/items/a93703112834983bc1f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-15T22:30:52.819650+00:00"
+  },
+  {
+    "url": "https://zenn.dev/happy_elements/articles/201519107f93de",
+    "sent_at": "2026-11-15T22:30:52.819650+00:00"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+    "sent_at": "2026-11-15T22:30:52.819650+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2611/16/news022.html",
+    "sent_at": "2026-11-15T22:30:52.819650+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2611/16/news020.html",
+    "sent_at": "2026-11-15T22:30:52.819650+00:00"
+  },
+  {
+    "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+    "sent_at": "2026-11-15T22:30:52.819650+00:00"
+  },
+  {
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+    "sent_at": "2026-11-15T22:30:52.819650+00:00"
+  },
+  {
+    "url": "https://baron.by.dai.studio/",
+    "sent_at": "2026-11-15T22:30:52.819650+00:00"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+    "sent_at": "2026-11-15T22:30:52.819650+00:00"
   }
 ]

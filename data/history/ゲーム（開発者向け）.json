@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://automaton-media.com/articles/newsjp/kick-20261010-472937/",
-    "sent_at": "2026-10-11T22:31:24.155567+00:00"
-  },
-  {
-    "url": "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform",
-    "sent_at": "2026-10-11T22:31:24.155567+00:00"
-  },
-  {
-    "url": "https://automaton-media.com/articles/newsjp/20261009-472860/",
-    "sent_at": "2026-10-11T22:31:24.155567+00:00"
-  },
-  {
-    "url": "https://www.4gamer.net/games/609/G060942/20261008042/",
-    "sent_at": "2026-10-11T22:31:24.155567+00:00"
-  },
-  {
-    "url": "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
-    "sent_at": "2026-10-11T22:31:24.155567+00:00"
-  },
-  {
-    "url": "https://automaton-media.com/articles/now-gaming/20261011-473024/",
-    "sent_at": "2026-10-11T22:31:24.155567+00:00"
-  },
-  {
-    "url": "https://automaton-media.com/articles/newsjp/20261011-473016/",
-    "sent_at": "2026-10-11T22:31:24.155567+00:00"
-  },
-  {
-    "url": "https://automaton-media.com/articles/newsjp/20261011-473005/",
-    "sent_at": "2026-10-11T22:31:24.155567+00:00"
-  },
-  {
-    "url": "https://automaton-media.com/articles/special-column/20261011-472996/",
-    "sent_at": "2026-10-11T22:31:24.155567+00:00"
-  },
-  {
-    "url": "https://automaton-media.com/articles/columnjp/20261009-472797/",
-    "sent_at": "2026-10-11T22:31:24.155567+00:00"
-  },
-  {
     "url": "https://automaton-media.com/articles/newsjp/20261017-474053/",
     "sent_at": "2026-10-18T22:31:06.283522+00:00"
   },
@@ -198,5 +158,45 @@
   {
     "url": "https://automaton-media.com/articles/now-gaming/20261108-478148/",
     "sent_at": "2026-11-08T22:31:13.451220+00:00"
+  },
+  {
+    "url": "https://automaton-media.com/articles/newsjp/20261113-479125/",
+    "sent_at": "2026-11-15T22:31:14.886938+00:00"
+  },
+  {
+    "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
+    "sent_at": "2026-11-15T22:31:14.886938+00:00"
+  },
+  {
+    "url": "https://www.gamesindustry.biz/gdcs-mark-deloura-addresses-the-events-dip-in-attendance-in-2026-as-he-details-the-planned-changes-for-2027",
+    "sent_at": "2026-11-15T22:31:14.886938+00:00"
+  },
+  {
+    "url": "https://www.gamesindustry.biz/eve-online-maker-fenris-creations-is-adding-a-rendering-technique-to-its-open-source-carbon-engine-that-promises-more-accurate-shading-and-greater-depth",
+    "sent_at": "2026-11-15T22:31:14.886938+00:00"
+  },
+  {
+    "url": "https://www.4gamer.net/games/902/G090227/20261115001/",
+    "sent_at": "2026-11-15T22:31:14.886938+00:00"
+  },
+  {
+    "url": "https://automaton-media.com/articles/newsjp/20261115-479388/",
+    "sent_at": "2026-11-15T22:31:14.886938+00:00"
+  },
+  {
+    "url": "https://automaton-media.com/articles/now-gaming/20261115-479380/",
+    "sent_at": "2026-11-15T22:31:14.886938+00:00"
+  },
+  {
+    "url": "https://automaton-media.com/articles/reportjp/hogwarts-legacy-dlss5-20261115-479361/",
+    "sent_at": "2026-11-15T22:31:14.886938+00:00"
+  },
+  {
+    "url": "https://automaton-media.com/articles/newsjp/20261115-479352/",
+    "sent_at": "2026-11-15T22:31:14.886938+00:00"
+  },
+  {
+    "url": "https://automaton-media.com/articles/special-column/20261115-479344/",
+    "sent_at": "2026-11-15T22:31:14.886938+00:00"
   }
 ]
