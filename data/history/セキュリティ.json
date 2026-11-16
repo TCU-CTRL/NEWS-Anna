@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-    "sent_at": "2026-10-17T22:30:56.551440+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-    "sent_at": "2026-10-17T22:30:56.551440+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-    "sent_at": "2026-10-17T22:30:56.551440+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/at/2026/at260032.html",
-    "sent_at": "2026-10-17T22:30:56.551440+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#12",
-    "sent_at": "2026-10-17T22:30:56.551440+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#13",
-    "sent_at": "2026-10-17T22:30:56.551440+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr261015.html#17",
-    "sent_at": "2026-10-17T22:30:56.551440+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-    "sent_at": "2026-10-17T22:30:56.551440+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191516",
-    "sent_at": "2026-10-17T22:30:56.551440+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191538",
-    "sent_at": "2026-10-17T22:30:56.551440+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/10/19/032554",
     "sent_at": "2026-10-18T22:30:51.910038+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
     "sent_at": "2026-11-15T22:30:59.009420+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+    "sent_at": "2026-11-16T22:31:02.960500+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192395",
+    "sent_at": "2026-11-16T22:31:02.960500+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+    "sent_at": "2026-11-16T22:31:02.960500+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/at/2026/at260032.html",
+    "sent_at": "2026-11-16T22:31:02.960500+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192877",
+    "sent_at": "2026-11-16T22:31:02.960500+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192887",
+    "sent_at": "2026-11-16T22:31:02.960500+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192892",
+    "sent_at": "2026-11-16T22:31:02.960500+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+    "sent_at": "2026-11-16T22:31:02.960500+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+    "sent_at": "2026-11-16T22:31:02.960500+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+    "sent_at": "2026-11-16T22:31:02.960500+00:00"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://zenn.dev/edash_tech_blog/articles/6250fc61ccf009",
-    "sent_at": "2026-10-17T22:30:47.977149+00:00"
-  },
-  {
-    "url": "https://github.com/openai/codex/issues/25921",
-    "sent_at": "2026-10-17T22:30:47.977149+00:00"
-  },
-  {
-    "url": "https://thingstodoapi.com/",
-    "sent_at": "2026-10-17T22:30:47.977149+00:00"
-  },
-  {
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "sent_at": "2026-10-17T22:30:47.977149+00:00"
-  },
-  {
-    "url": "https://qiita.com/AlohaYos/items/cbf9270113fd03a8ffbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-17T22:30:47.977149+00:00"
-  },
-  {
-    "url": "https://qiita.com/morststs/items/246bdb871fef835a77a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-17T22:30:47.977149+00:00"
-  },
-  {
-    "url": "https://qiita.com/shu15511551/items/75900cded681c2149fe6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-17T22:30:47.977149+00:00"
-  },
-  {
-    "url": "https://qiita.com/ISISI007/items/2368a15f676be6071596?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-17T22:30:47.977149+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/18/news005.html",
-    "sent_at": "2026-10-17T22:30:47.977149+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/mobile/articles/2610/17/news022.html",
-    "sent_at": "2026-10-17T22:30:47.977149+00:00"
-  },
-  {
     "url": "https://zenn.dev/fusic/articles/a77ba348115364",
     "sent_at": "2026-10-18T22:30:44.578930+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
     "sent_at": "2026-11-15T22:30:52.819650+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
+    "sent_at": "2026-11-16T22:30:54.652357+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+    "sent_at": "2026-11-16T22:30:54.652357+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2611/16/news029.html",
+    "sent_at": "2026-11-16T22:30:54.652357+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50522776",
+    "sent_at": "2026-11-16T22:30:54.652357+00:00"
+  },
+  {
+    "url": "https://openai.com/index/strengthening-online-child-safety/",
+    "sent_at": "2026-11-16T22:30:54.652357+00:00"
+  },
+  {
+    "url": "https://zenn.dev/linkedge/articles/claude-code-instead-of-reading-code",
+    "sent_at": "2026-11-16T22:30:54.652357+00:00"
+  },
+  {
+    "url": "https://zenn.dev/sonicmoov/articles/afbc7281c59cb8",
+    "sent_at": "2026-11-16T22:30:54.652357+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2611/16/news031.html",
+    "sent_at": "2026-11-16T22:30:54.652357+00:00"
+  },
+  {
+    "url": "https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-16T22:30:54.652357+00:00"
+  },
+  {
+    "url": "https://qiita.com/inoyu-qiita/items/f2e2d1006407a4d5f28e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-16T22:30:54.652357+00:00"
   }
 ]
