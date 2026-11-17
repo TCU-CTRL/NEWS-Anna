@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://zenn.dev/fusic/articles/a77ba348115364",
-    "sent_at": "2026-10-18T22:30:44.578930+00:00"
-  },
-  {
-    "url": "https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-18T22:30:44.578930+00:00"
-  },
-  {
-    "url": "https://legendofhyrule.com/",
-    "sent_at": "2026-10-18T22:30:44.578930+00:00"
-  },
-  {
-    "url": "https://qiita.com/songchong/items/542892c6d4c569c9c15f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-18T22:30:44.578930+00:00"
-  },
-  {
-    "url": "https://qiita.com/SolitaireEgg/items/820295021d314f050ec1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-18T22:30:44.578930+00:00"
-  },
-  {
-    "url": "https://qiita.com/kotaro_ai_lab/items/7d8a1264b227f2ccef29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-18T22:30:44.578930+00:00"
-  },
-  {
-    "url": "https://qiita.com/kaiyaku_iyada/items/0577951c9f085450ed35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-18T22:30:44.578930+00:00"
-  },
-  {
-    "url": "https://qiita.com/Oskra/items/da16b717fc931a6423e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-18T22:30:44.578930+00:00"
-  },
-  {
-    "url": "https://qiita.com/mnoguchi/items/8ca703ba0b45078c7472?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-18T22:30:44.578930+00:00"
-  },
-  {
-    "url": "https://qiita.com/shou-wordwright555501/items/b4e0ad709b882ed4ad44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-18T22:30:44.578930+00:00"
-  },
-  {
     "url": "https://news.ycombinator.com/item?id=50154029",
     "sent_at": "2026-10-19T22:30:49.408867+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://qiita.com/inoyu-qiita/items/f2e2d1006407a4d5f28e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-11-16T22:30:54.652357+00:00"
+  },
+  {
+    "url": "https://starsling.dev",
+    "sent_at": "2026-11-17T22:30:54.256232+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
+    "sent_at": "2026-11-17T22:30:54.256232+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003254/",
+    "sent_at": "2026-11-17T22:30:54.256232+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news021.html",
+    "sent_at": "2026-11-17T22:30:54.256232+00:00"
+  },
+  {
+    "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
+    "sent_at": "2026-11-17T22:30:54.256232+00:00"
+  },
+  {
+    "url": "https://zenn.dev/gemcook/articles/claude-code-otel-cloudflare",
+    "sent_at": "2026-11-17T22:30:54.256232+00:00"
+  },
+  {
+    "url": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-17T22:30:54.256232+00:00"
+  },
+  {
+    "url": "https://qiita.com/suwa_nobu/items/faf0d787a602cc5ec74c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-17T22:30:54.256232+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2611/17/news011.html",
+    "sent_at": "2026-11-17T22:30:54.256232+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003248/",
+    "sent_at": "2026-11-17T22:30:54.256232+00:00"
   }
 ]

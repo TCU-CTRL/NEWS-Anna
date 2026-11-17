@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/19/032554",
-    "sent_at": "2026-10-18T22:30:51.910038+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-    "sent_at": "2026-10-18T22:30:51.910038+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-    "sent_at": "2026-10-18T22:30:51.910038+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/19/033010",
-    "sent_at": "2026-10-18T22:30:51.910038+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-    "sent_at": "2026-10-18T22:30:51.910038+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-    "sent_at": "2026-10-18T22:30:51.910038+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-    "sent_at": "2026-10-18T22:30:51.910038+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-    "sent_at": "2026-10-18T22:30:51.910038+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
-    "sent_at": "2026-10-18T22:30:51.910038+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-    "sent_at": "2026-10-18T22:30:51.910038+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
     "sent_at": "2026-10-19T22:30:57.100732+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
     "sent_at": "2026-11-16T22:31:02.960500+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+    "sent_at": "2026-11-17T22:31:02.741933+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+    "sent_at": "2026-11-17T22:31:02.741933+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/18/010752",
+    "sent_at": "2026-11-17T22:31:02.741933+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+    "sent_at": "2026-11-17T22:31:02.741933+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+    "sent_at": "2026-11-17T22:31:02.741933+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+    "sent_at": "2026-11-17T22:31:02.741933+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+    "sent_at": "2026-11-17T22:31:02.741933+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/17/192656",
+    "sent_at": "2026-11-17T22:31:02.741933+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192903",
+    "sent_at": "2026-11-17T22:31:02.741933+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192966",
+    "sent_at": "2026-11-17T22:31:02.741933+00:00"
   }
 ]
