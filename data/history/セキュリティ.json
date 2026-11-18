@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-    "sent_at": "2026-10-19T22:30:57.100732+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-    "sent_at": "2026-10-19T22:30:57.100732+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-    "sent_at": "2026-10-19T22:30:57.100732+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191592",
-    "sent_at": "2026-10-19T22:30:57.100732+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-    "sent_at": "2026-10-19T22:30:57.100732+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-    "sent_at": "2026-10-19T22:30:57.100732+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-    "sent_at": "2026-10-19T22:30:57.100732+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-    "sent_at": "2026-10-19T22:30:57.100732+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
-    "sent_at": "2026-10-19T22:30:57.100732+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-    "sent_at": "2026-10-19T22:30:57.100732+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/10/20/073243",
     "sent_at": "2026-10-20T22:30:57.498672+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/192966",
     "sent_at": "2026-11-17T22:31:02.741933+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/19/001205",
+    "sent_at": "2026-11-18T22:31:01.606445+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/19/065715",
+    "sent_at": "2026-11-18T22:31:01.606445+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+    "sent_at": "2026-11-18T22:31:01.606445+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+    "sent_at": "2026-11-18T22:31:01.606445+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+    "sent_at": "2026-11-18T22:31:01.606445+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+    "sent_at": "2026-11-18T22:31:01.606445+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+    "sent_at": "2026-11-18T22:31:01.606445+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/newsflash/2026111801.html",
+    "sent_at": "2026-11-18T22:31:01.606445+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+    "sent_at": "2026-11-18T22:31:01.606445+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/193016",
+    "sent_at": "2026-11-18T22:31:01.606445+00:00"
   }
 ]
