@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://news.ycombinator.com/item?id=50167583",
-    "sent_at": "2026-10-20T22:30:47.976945+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/20/news074.html",
-    "sent_at": "2026-10-20T22:30:47.976945+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002428/",
-    "sent_at": "2026-10-20T22:30:47.976945+00:00"
-  },
-  {
-    "url": "https://mag.executive.itmedia.co.jp/executive/article/2610/19/2000002356/",
-    "sent_at": "2026-10-20T22:30:47.976945+00:00"
-  },
-  {
-    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-    "sent_at": "2026-10-20T22:30:47.976945+00:00"
-  },
-  {
-    "url": "https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49",
-    "sent_at": "2026-10-20T22:30:47.976945+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2610/20/news017.html",
-    "sent_at": "2026-10-20T22:30:47.976945+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2610/20/news012.html",
-    "sent_at": "2026-10-20T22:30:47.976945+00:00"
-  },
-  {
-    "url": "https://qiita.com/kizuku_tabata/items/6d5b58ad0cb832d2a4c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-20T22:30:47.976945+00:00"
-  },
-  {
-    "url": "https://qiita.com/Tivo0921/items/75a7375eeefe6853cf3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-20T22:30:47.976945+00:00"
-  },
-  {
     "url": "https://zenn.dev/hilopon/articles/line-local-ai-photo-voice-capture",
     "sent_at": "2026-10-21T22:30:51.607919+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://qiita.com/Masato_Iwasaki/items/db76e7388cece3cff66e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-11-18T22:30:55.137031+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003321/",
+    "sent_at": "2026-11-19T22:30:56.695536+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
+    "sent_at": "2026-11-19T22:30:56.695536+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
+    "sent_at": "2026-11-19T22:30:56.695536+00:00"
+  },
+  {
+    "url": "https://github.com/onlook-dev/onlook/",
+    "sent_at": "2026-11-19T22:30:56.695536+00:00"
+  },
+  {
+    "url": "https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-19T22:30:56.695536+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/19/news047.html",
+    "sent_at": "2026-11-19T22:30:56.695536+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2611/19/news043.html",
+    "sent_at": "2026-11-19T22:30:56.695536+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003319/",
+    "sent_at": "2026-11-19T22:30:56.695536+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003314/",
+    "sent_at": "2026-11-19T22:30:56.695536+00:00"
+  },
+  {
+    "url": "https://qiita.com/N-Kyo/items/80ac96fd59b08b1a879a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-19T22:30:56.695536+00:00"
   }
 ]

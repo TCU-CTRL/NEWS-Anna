@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/20/073243",
-    "sent_at": "2026-10-20T22:30:57.498672+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
-    "sent_at": "2026-10-20T22:30:57.498672+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/20/205855",
-    "sent_at": "2026-10-20T22:30:57.498672+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-    "sent_at": "2026-10-20T22:30:57.498672+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/20/204342",
-    "sent_at": "2026-10-20T22:30:57.498672+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-    "sent_at": "2026-10-20T22:30:57.498672+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191672",
-    "sent_at": "2026-10-20T22:30:57.498672+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-    "sent_at": "2026-10-20T22:30:57.498672+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-    "sent_at": "2026-10-20T22:30:57.498672+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-    "sent_at": "2026-10-20T22:30:57.498672+00:00"
-  },
-  {
     "url": "https://piyolog.hatenadiary.jp/entry/2026/10/21/174516",
     "sent_at": "2026-10-21T22:31:00.119833+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/193016",
     "sent_at": "2026-11-18T22:31:01.606445+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/20/003148",
+    "sent_at": "2026-11-19T22:31:04.402381+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/19/141704",
+    "sent_at": "2026-11-19T22:31:04.402381+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/19/183634",
+    "sent_at": "2026-11-19T22:31:04.402381+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+    "sent_at": "2026-11-19T22:31:04.402381+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/193114",
+    "sent_at": "2026-11-19T22:31:04.402381+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/193073",
+    "sent_at": "2026-11-19T22:31:04.402381+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+    "sent_at": "2026-11-19T22:31:04.402381+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+    "sent_at": "2026-11-19T22:31:04.402381+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/193112",
+    "sent_at": "2026-11-19T22:31:04.402381+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/193077",
+    "sent_at": "2026-11-19T22:31:04.402381+00:00"
   }
 ]
