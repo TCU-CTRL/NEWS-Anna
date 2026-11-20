@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://zenn.dev/hilopon/articles/line-local-ai-photo-voice-capture",
-    "sent_at": "2026-10-21T22:30:51.607919+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002421/",
-    "sent_at": "2026-10-21T22:30:51.607919+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002447/",
-    "sent_at": "2026-10-21T22:30:51.607919+00:00"
-  },
-  {
-    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-    "sent_at": "2026-10-21T22:30:51.607919+00:00"
-  },
-  {
-    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-    "sent_at": "2026-10-21T22:30:51.607919+00:00"
-  },
-  {
-    "url": "https://qiita.com/yuji-arakawa/items/1df29b844478f9df5960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-21T22:30:51.607919+00:00"
-  },
-  {
-    "url": "https://qiita.com/kobayashi-fuuki/items/a7fbba06bb158dae0e11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-21T22:30:51.607919+00:00"
-  },
-  {
-    "url": "https://qiita.com/kaiyaku_iyada/items/339a7e78ba476ca1c810?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-21T22:30:51.607919+00:00"
-  },
-  {
-    "url": "https://qiita.com/inoyu-qiita/items/2bf7c23b9586ccafb9fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-21T22:30:51.607919+00:00"
-  },
-  {
-    "url": "https://qiita.com/shirok/items/399e0042896dcc4c0b4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-21T22:30:51.607919+00:00"
-  },
-  {
     "url": "https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629",
     "sent_at": "2026-10-22T22:30:48.330988+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://qiita.com/N-Kyo/items/80ac96fd59b08b1a879a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-11-19T22:30:56.695536+00:00"
+  },
+  {
+    "url": "https://qiita.com/ditchcrimson/items/0b312db230db8d0bb566?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-20T22:30:52.009805+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
+    "sent_at": "2026-11-20T22:30:52.009805+00:00"
+  },
+  {
+    "url": "https://openai.com/index/combatting-adversarial-distillation/",
+    "sent_at": "2026-11-20T22:30:52.009805+00:00"
+  },
+  {
+    "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+    "sent_at": "2026-11-20T22:30:52.009805+00:00"
+  },
+  {
+    "url": "https://qiita.com/ennagara128/items/2367588703fbee1cf6bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-20T22:30:52.009805+00:00"
+  },
+  {
+    "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
+    "sent_at": "2026-11-20T22:30:52.009805+00:00"
+  },
+  {
+    "url": "https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-20T22:30:52.009805+00:00"
+  },
+  {
+    "url": "https://qiita.com/sionic_issa/items/345570e589cb1e562ea9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-20T22:30:52.009805+00:00"
+  },
+  {
+    "url": "https://qiita.com/kataoka_se_sionic/items/e7c6b83c6291daedbb62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-20T22:30:52.009805+00:00"
+  },
+  {
+    "url": "https://qiita.com/derekwang8866/items/533681c013a98058359e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-20T22:30:52.009805+00:00"
   }
 ]
