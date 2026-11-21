@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629",
-    "sent_at": "2026-10-22T22:30:48.330988+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002517/",
-    "sent_at": "2026-10-22T22:30:48.330988+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2610/22/news053.html",
-    "sent_at": "2026-10-22T22:30:48.330988+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002486/",
-    "sent_at": "2026-10-22T22:30:48.330988+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002498/",
-    "sent_at": "2026-10-22T22:30:48.330988+00:00"
-  },
-  {
-    "url": "https://news.ycombinator.com/item?id=50200997",
-    "sent_at": "2026-10-22T22:30:48.330988+00:00"
-  },
-  {
-    "url": "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
-    "sent_at": "2026-10-22T22:30:48.330988+00:00"
-  },
-  {
-    "url": "https://zenn.dev/nexryai/articles/afb828d7dda6b7",
-    "sent_at": "2026-10-22T22:30:48.330988+00:00"
-  },
-  {
-    "url": "https://qiita.com/akimasanishida/items/8d965a85f2aac8ebcb12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-22T22:30:48.330988+00:00"
-  },
-  {
-    "url": "https://zenn.dev/tyamadadd/articles/c02a27af771dd2",
-    "sent_at": "2026-10-22T22:30:48.330988+00:00"
-  },
-  {
     "url": "https://zenn.dev/yuiseki/articles/54b01670841898",
     "sent_at": "2026-10-23T22:30:49.540279+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://qiita.com/derekwang8866/items/533681c013a98058359e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "sent_at": "2026-11-20T22:30:52.009805+00:00"
+  },
+  {
+    "url": "https://qiita.com/kotohibi/items/890c1c1289e76fb5e977?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-21T22:31:16.873782+00:00"
+  },
+  {
+    "url": "https://qiita.com/compalog/items/a538b606b3aa1d138108?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-21T22:31:16.873782+00:00"
+  },
+  {
+    "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
+    "sent_at": "2026-11-21T22:31:16.873782+00:00"
+  },
+  {
+    "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
+    "sent_at": "2026-11-21T22:31:16.873782+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/22/news002.html",
+    "sent_at": "2026-11-21T22:31:16.873782+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/21/2000003387/",
+    "sent_at": "2026-11-21T22:31:16.873782+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+    "sent_at": "2026-11-21T22:31:16.873782+00:00"
+  },
+  {
+    "url": "https://tasklet.ai/careers",
+    "sent_at": "2026-11-21T22:31:16.873782+00:00"
+  },
+  {
+    "url": "https://pwn.ai/upload2shell",
+    "sent_at": "2026-11-21T22:31:16.873782+00:00"
+  },
+  {
+    "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+    "sent_at": "2026-11-21T22:31:16.873782+00:00"
   }
 ]

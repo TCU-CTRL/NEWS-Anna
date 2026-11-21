@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/21/174516",
-    "sent_at": "2026-10-21T22:31:00.119833+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-    "sent_at": "2026-10-21T22:31:00.119833+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191749",
-    "sent_at": "2026-10-21T22:31:00.119833+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-    "sent_at": "2026-10-21T22:31:00.119833+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-    "sent_at": "2026-10-21T22:31:00.119833+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-    "sent_at": "2026-10-21T22:31:00.119833+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-    "sent_at": "2026-10-21T22:31:00.119833+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191697",
-    "sent_at": "2026-10-21T22:31:00.119833+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191730",
-    "sent_at": "2026-10-21T22:31:00.119833+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-    "sent_at": "2026-10-21T22:31:00.119833+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-    "sent_at": "2026-10-22T22:30:56.149171+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
-    "sent_at": "2026-10-22T22:30:56.149171+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-    "sent_at": "2026-10-22T22:30:56.149171+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/065256",
-    "sent_at": "2026-10-22T22:30:56.149171+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-    "sent_at": "2026-10-22T22:30:56.149171+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-    "sent_at": "2026-10-22T22:30:56.149171+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191788",
-    "sent_at": "2026-10-22T22:30:56.149171+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/22/113434",
-    "sent_at": "2026-10-22T22:30:56.149171+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-    "sent_at": "2026-10-22T22:30:56.149171+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-    "sent_at": "2026-10-22T22:30:56.149171+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
     "sent_at": "2026-10-23T22:30:57.826589+00:00"
   },
@@ -1238,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/193141",
     "sent_at": "2026-11-20T22:30:59.095055+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+    "sent_at": "2026-11-21T22:31:22.840942+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+    "sent_at": "2026-11-21T22:31:22.840942+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+    "sent_at": "2026-11-21T22:31:22.840942+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+    "sent_at": "2026-11-21T22:31:22.840942+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/20/130214",
+    "sent_at": "2026-11-21T22:31:22.840942+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/193143",
+    "sent_at": "2026-11-21T22:31:22.840942+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+    "sent_at": "2026-11-21T22:31:22.840942+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+    "sent_at": "2026-11-21T22:31:22.840942+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/17/030254",
+    "sent_at": "2026-11-21T22:31:22.840942+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/newsflash/2026111902.html",
+    "sent_at": "2026-11-21T22:31:22.840942+00:00"
   }
 ]
