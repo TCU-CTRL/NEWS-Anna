@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-    "sent_at": "2026-10-23T22:30:57.826589+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191807",
-    "sent_at": "2026-10-23T22:30:57.826589+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-    "sent_at": "2026-10-23T22:30:57.826589+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-    "sent_at": "2026-10-23T22:30:57.826589+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-    "sent_at": "2026-10-23T22:30:57.826589+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191852",
-    "sent_at": "2026-10-23T22:30:57.826589+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-    "sent_at": "2026-10-23T22:30:57.826589+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-    "sent_at": "2026-10-23T22:30:57.826589+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-    "sent_at": "2026-10-23T22:30:57.826589+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191862",
-    "sent_at": "2026-10-23T22:30:57.826589+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
     "sent_at": "2026-10-24T22:30:54.200572+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.jpcert.or.jp/newsflash/2026111902.html",
     "sent_at": "2026-11-21T22:31:22.840942+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+    "sent_at": "2026-11-22T22:30:59.469026+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+    "sent_at": "2026-11-22T22:30:59.469026+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+    "sent_at": "2026-11-22T22:30:59.469026+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+    "sent_at": "2026-11-22T22:30:59.469026+00:00"
+  },
+  {
+    "url": "https://jvn.jp/jp/JVN29068051/",
+    "sent_at": "2026-11-22T22:30:59.469026+00:00"
+  },
+  {
+    "url": "https://jvn.jp/vu/JVNVU99608534/",
+    "sent_at": "2026-11-22T22:30:59.469026+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/193031",
+    "sent_at": "2026-11-22T22:30:59.469026+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/192996",
+    "sent_at": "2026-11-22T22:30:59.469026+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#22",
+    "sent_at": "2026-11-22T22:30:59.469026+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/193154",
+    "sent_at": "2026-11-22T22:30:59.469026+00:00"
   }
 ]
