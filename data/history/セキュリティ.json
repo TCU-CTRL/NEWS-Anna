@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-    "sent_at": "2026-10-24T22:30:54.200572+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-    "sent_at": "2026-10-24T22:30:54.200572+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-    "sent_at": "2026-10-24T22:30:54.200572+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-    "sent_at": "2026-10-24T22:30:54.200572+00:00"
-  },
-  {
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/014520",
-    "sent_at": "2026-10-24T22:30:54.200572+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
-    "sent_at": "2026-10-24T22:30:54.200572+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#8",
-    "sent_at": "2026-10-24T22:30:54.200572+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#11",
-    "sent_at": "2026-10-24T22:30:54.200572+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/wr/2026/wr261021.html#21",
-    "sent_at": "2026-10-24T22:30:54.200572+00:00"
-  },
-  {
-    "url": "https://jvn.jp/vu/JVNVU99905564/",
-    "sent_at": "2026-10-24T22:30:54.200572+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
     "sent_at": "2026-10-25T22:30:52.775177+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.security-next.com/193154",
     "sent_at": "2026-11-22T22:30:59.469026+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+    "sent_at": "2026-11-23T22:31:46.122630+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+    "sent_at": "2026-11-23T22:31:46.122630+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+    "sent_at": "2026-11-23T22:31:46.122630+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+    "sent_at": "2026-11-23T22:31:46.122630+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+    "sent_at": "2026-11-23T22:31:46.122630+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+    "sent_at": "2026-11-23T22:31:46.122630+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+    "sent_at": "2026-11-23T22:31:46.122630+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+    "sent_at": "2026-11-23T22:31:46.122630+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+    "sent_at": "2026-11-23T22:31:46.122630+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+    "sent_at": "2026-11-23T22:31:46.122630+00:00"
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/business/articles/2610/24/news009.html",
-    "sent_at": "2026-10-24T22:30:46.797705+00:00"
-  },
-  {
-    "url": "https://qiita.com/istb16/items/076d39eec03d02352da7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-24T22:30:46.797705+00:00"
-  },
-  {
-    "url": "https://qiita.com/y-moriya/items/5181ec40e2180348565c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-24T22:30:46.797705+00:00"
-  },
-  {
-    "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-    "sent_at": "2026-10-24T22:30:46.797705+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
-    "sent_at": "2026-10-24T22:30:46.797705+00:00"
-  },
-  {
-    "url": "https://qiita.com/kamo-shika/items/6e2223296543af9a7c9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-24T22:30:46.797705+00:00"
-  },
-  {
-    "url": "https://qiita.com/kaiyaku_iyada/items/cbadd82923bd7fcee3b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-24T22:30:46.797705+00:00"
-  },
-  {
-    "url": "https://qiita.com/getty104/items/583f2f5ecf473ddc4539?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-24T22:30:46.797705+00:00"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
-    "sent_at": "2026-10-24T22:30:46.797705+00:00"
-  },
-  {
-    "url": "https://qiita.com/berrylove/items/e5ae1c4b9ca20e1f34ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-24T22:30:46.797705+00:00"
-  },
-  {
     "url": "https://minimaxir.com/2026/10/cheap-llms/",
     "sent_at": "2026-10-25T22:30:45.505343+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro",
     "sent_at": "2026-11-22T22:30:52.717129+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
+    "sent_at": "2026-11-23T22:31:39.362927+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/23/news009.html",
+    "sent_at": "2026-11-23T22:31:39.362927+00:00"
+  },
+  {
+    "url": "https://qiita.com/blogjiraiya377/items/c320bb728b6733f153dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-23T22:31:39.362927+00:00"
+  },
+  {
+    "url": "https://zenn.dev/kinuuu/articles/ai-coding-criteria-evidence-explanation",
+    "sent_at": "2026-11-23T22:31:39.362927+00:00"
+  },
+  {
+    "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
+    "sent_at": "2026-11-23T22:31:39.362927+00:00"
+  },
+  {
+    "url": "https://github.com/zed-industries/gpui",
+    "sent_at": "2026-11-23T22:31:39.362927+00:00"
+  },
+  {
+    "url": "https://www.greptile.com/blog/trex-computer-use",
+    "sent_at": "2026-11-23T22:31:39.362927+00:00"
+  },
+  {
+    "url": "https://blog.kagi.com/kagi-mail-public-beta",
+    "sent_at": "2026-11-23T22:31:39.362927+00:00"
+  },
+  {
+    "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+    "sent_at": "2026-11-23T22:31:39.362927+00:00"
+  },
+  {
+    "url": "https://z.ai/blog/glm-5.4",
+    "sent_at": "2026-11-23T22:31:39.362927+00:00"
   }
 ]
