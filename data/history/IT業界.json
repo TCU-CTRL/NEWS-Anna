@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://minimaxir.com/2026/10/cheap-llms/",
-    "sent_at": "2026-10-25T22:30:45.505343+00:00"
-  },
-  {
-    "url": "https://qiita.com/songchong/items/7144594b0ad9529a168b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-25T22:30:45.505343+00:00"
-  },
-  {
-    "url": "https://qiita.com/hooosberg/items/d9c77e58ec3ae5f8ade1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-25T22:30:45.505343+00:00"
-  },
-  {
-    "url": "https://qiita.com/zumiraku/items/1c456a902613f281356c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-25T22:30:45.505343+00:00"
-  },
-  {
-    "url": "https://qiita.com/shu15511551/items/686fbd8bf5366fc150f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-25T22:30:45.505343+00:00"
-  },
-  {
-    "url": "https://qiita.com/Haradasn/items/5ca041c6fdf418092d59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-25T22:30:45.505343+00:00"
-  },
-  {
-    "url": "https://qiita.com/kikuziro/items/3f23603152b409d4a6ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-25T22:30:45.505343+00:00"
-  },
-  {
-    "url": "https://qiita.com/suikou0/items/d77b4a2158248f618849?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-25T22:30:45.505343+00:00"
-  },
-  {
-    "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
-    "sent_at": "2026-10-25T22:30:45.505343+00:00"
-  },
-  {
-    "url": "https://zenn.dev/loglass/articles/24b2a4776ce8d4",
-    "sent_at": "2026-10-25T22:30:45.505343+00:00"
-  },
-  {
     "url": "https://github.com/FrigadeHQ/hob",
     "sent_at": "2026-10-26T22:30:44.886132+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://z.ai/blog/glm-5.4",
     "sent_at": "2026-11-23T22:31:39.362927+00:00"
+  },
+  {
+    "url": "https://github.com/hatchet-dev/brickie",
+    "sent_at": "2026-11-24T22:30:47.864721+00:00"
+  },
+  {
+    "url": "https://zenn.dev/canly/articles/40e773759da8f8",
+    "sent_at": "2026-11-24T22:30:47.864721+00:00"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50634426",
+    "sent_at": "2026-11-24T22:30:47.864721+00:00"
+  },
+  {
+    "url": "https://masondata.ai/",
+    "sent_at": "2026-11-24T22:30:47.864721+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2611/24/news035.html",
+    "sent_at": "2026-11-24T22:30:47.864721+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/24/news065.html",
+    "sent_at": "2026-11-24T22:30:47.864721+00:00"
+  },
+  {
+    "url": "https://qiita.com/kai_kou/items/2925b5388cc7724d50c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-24T22:30:47.864721+00:00"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "sent_at": "2026-11-24T22:30:47.864721+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news014.html",
+    "sent_at": "2026-11-24T22:30:47.864721+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news022.html",
+    "sent_at": "2026-11-24T22:30:47.864721+00:00"
   }
 ]
