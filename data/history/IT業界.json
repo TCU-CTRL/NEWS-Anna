@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://github.com/FrigadeHQ/hob",
-    "sent_at": "2026-10-26T22:30:44.886132+00:00"
-  },
-  {
-    "url": "https://qiita.com/kodai_kitahara/items/d9b8c30d50e7bc8be317?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-26T22:30:44.886132+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/business/articles/2610/27/news023.html",
-    "sent_at": "2026-10-26T22:30:44.886132+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002578/",
-    "sent_at": "2026-10-26T22:30:44.886132+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002573/",
-    "sent_at": "2026-10-26T22:30:44.886132+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news019.html",
-    "sent_at": "2026-10-26T22:30:44.886132+00:00"
-  },
-  {
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-    "sent_at": "2026-10-26T22:30:44.886132+00:00"
-  },
-  {
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-    "sent_at": "2026-10-26T22:30:44.886132+00:00"
-  },
-  {
-    "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-    "sent_at": "2026-10-26T22:30:44.886132+00:00"
-  },
-  {
-    "url": "https://qiita.com/Masaki_Cho/items/8a720994a14538883cda?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-26T22:30:44.886132+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news099.html",
     "sent_at": "2026-10-27T22:30:44.926779+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news022.html",
     "sent_at": "2026-11-24T22:30:47.864721+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003421/",
+    "sent_at": "2026-11-25T22:30:47.076474+00:00"
+  },
+  {
+    "url": "https://zenn.dev/google_cloud_jp/articles/7e29a9acf06557",
+    "sent_at": "2026-11-25T22:30:47.076474+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2611/25/news043.html",
+    "sent_at": "2026-11-25T22:30:47.076474+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2611/25/news035.html",
+    "sent_at": "2026-11-25T22:30:47.076474+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003431/",
+    "sent_at": "2026-11-25T22:30:47.076474+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2611/25/news013.html",
+    "sent_at": "2026-11-25T22:30:47.076474+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/25/news016.html",
+    "sent_at": "2026-11-25T22:30:47.076474+00:00"
+  },
+  {
+    "url": "https://qiita.com/N-Kyo/items/6156bc251e826cdbf92d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-25T22:30:47.076474+00:00"
+  },
+  {
+    "url": "https://qiita.com/kanazawa_teppei/items/dc79f1974244a2f08232?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-25T22:30:47.076474+00:00"
+  },
+  {
+    "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+    "sent_at": "2026-11-25T22:30:47.076474+00:00"
   }
 ]

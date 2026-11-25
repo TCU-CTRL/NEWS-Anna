@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
-    "sent_at": "2026-10-26T22:30:52.372817+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-    "sent_at": "2026-10-26T22:30:52.372817+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-    "sent_at": "2026-10-26T22:30:52.372817+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191931",
-    "sent_at": "2026-10-26T22:30:52.372817+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-    "sent_at": "2026-10-26T22:30:52.372817+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-    "sent_at": "2026-10-26T22:30:52.372817+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
-    "sent_at": "2026-10-26T22:30:52.372817+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-    "sent_at": "2026-10-26T22:30:52.372817+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-    "sent_at": "2026-10-26T22:30:52.372817+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191902",
-    "sent_at": "2026-10-26T22:30:52.372817+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
     "sent_at": "2026-10-27T22:30:51.404131+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
     "sent_at": "2026-11-24T22:30:55.705667+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+    "sent_at": "2026-11-25T22:30:53.249018+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+    "sent_at": "2026-11-25T22:30:53.249018+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/25/120114",
+    "sent_at": "2026-11-25T22:30:53.249018+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+    "sent_at": "2026-11-25T22:30:53.249018+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+    "sent_at": "2026-11-25T22:30:53.249018+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/193277",
+    "sent_at": "2026-11-25T22:30:53.249018+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/193325",
+    "sent_at": "2026-11-25T22:30:53.249018+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/193284",
+    "sent_at": "2026-11-25T22:30:53.249018+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+    "sent_at": "2026-11-25T22:30:53.249018+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+    "sent_at": "2026-11-25T22:30:53.249018+00:00"
   }
 ]
