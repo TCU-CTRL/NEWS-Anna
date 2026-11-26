@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
-    "sent_at": "2026-10-27T22:30:51.404131+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191972",
-    "sent_at": "2026-10-27T22:30:51.404131+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-    "sent_at": "2026-10-27T22:30:51.404131+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-    "sent_at": "2026-10-27T22:30:51.404131+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/191985",
-    "sent_at": "2026-10-27T22:30:51.404131+00:00"
-  },
-  {
-    "url": "https://www.security-next.com/192008",
-    "sent_at": "2026-10-27T22:30:51.404131+00:00"
-  },
-  {
-    "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-    "sent_at": "2026-10-27T22:30:51.404131+00:00"
-  },
-  {
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
-    "sent_at": "2026-10-27T22:30:51.404131+00:00"
-  },
-  {
-    "url": "https://www.jpcert.or.jp/at/2026/at260034.html",
-    "sent_at": "2026-10-27T22:30:51.404131+00:00"
-  },
-  {
-    "url": "https://jvn.jp/vu/JVNVU97400824/",
-    "sent_at": "2026-10-27T22:30:51.404131+00:00"
-  },
-  {
     "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
     "sent_at": "2026-10-28T22:31:11.746358+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
     "sent_at": "2026-11-25T22:30:53.249018+00:00"
+  },
+  {
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/26/153937",
+    "sent_at": "2026-11-26T22:31:19.343886+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+    "sent_at": "2026-11-26T22:31:19.343886+00:00"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+    "sent_at": "2026-11-26T22:31:19.343886+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+    "sent_at": "2026-11-26T22:31:19.343886+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+    "sent_at": "2026-11-26T22:31:19.343886+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+    "sent_at": "2026-11-26T22:31:19.343886+00:00"
+  },
+  {
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#22",
+    "sent_at": "2026-11-26T22:31:19.343886+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/193319",
+    "sent_at": "2026-11-26T22:31:19.343886+00:00"
+  },
+  {
+    "url": "https://www.security-next.com/193353",
+    "sent_at": "2026-11-26T22:31:19.343886+00:00"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+    "sent_at": "2026-11-26T22:31:19.343886+00:00"
   }
 ]

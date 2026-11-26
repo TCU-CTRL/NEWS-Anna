@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news099.html",
-    "sent_at": "2026-10-27T22:30:44.926779+00:00"
-  },
-  {
-    "url": "https://zenn.dev/chot/articles/980c44e5a19736",
-    "sent_at": "2026-10-27T22:30:44.926779+00:00"
-  },
-  {
-    "url": "https://qiita.com/nr-mito/items/fcbbd142e1cd7d66666e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-27T22:30:44.926779+00:00"
-  },
-  {
-    "url": "https://qiita.com/blackcats-lab/items/069d2640e1e7cf8ce21d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-27T22:30:44.926779+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
-    "sent_at": "2026-10-27T22:30:44.926779+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/pcuser/articles/2610/27/news100.html",
-    "sent_at": "2026-10-27T22:30:44.926779+00:00"
-  },
-  {
-    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002644/",
-    "sent_at": "2026-10-27T22:30:44.926779+00:00"
-  },
-  {
-    "url": "https://qiita.com/ora-masumasu/items/8dc7d746da43e1a5089d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "sent_at": "2026-10-27T22:30:44.926779+00:00"
-  },
-  {
-    "url": "https://www.brangus.io/survival-llm",
-    "sent_at": "2026-10-27T22:30:44.926779+00:00"
-  },
-  {
-    "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-    "sent_at": "2026-10-27T22:30:44.926779+00:00"
-  },
-  {
     "url": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html",
     "sent_at": "2026-10-28T22:31:05.204817+00:00"
   },
@@ -1198,5 +1158,45 @@
   {
     "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
     "sent_at": "2026-11-25T22:30:47.076474+00:00"
+  },
+  {
+    "url": "https://qiita.com/suwa_nobu/items/4eb41b9b2215a2849f4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-26T22:31:12.836576+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2611/27/news027.html",
+    "sent_at": "2026-11-26T22:31:12.836576+00:00"
+  },
+  {
+    "url": "https://qiita.com/ShokiSasaki/items/ad82b12f0e51c1f9f5f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-26T22:31:12.836576+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2611/26/news076.html",
+    "sent_at": "2026-11-26T22:31:12.836576+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
+    "sent_at": "2026-11-26T22:31:12.836576+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/business/articles/2611/26/news033.html",
+    "sent_at": "2026-11-26T22:31:12.836576+00:00"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003473/",
+    "sent_at": "2026-11-26T22:31:12.836576+00:00"
+  },
+  {
+    "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+    "sent_at": "2026-11-26T22:31:12.836576+00:00"
+  },
+  {
+    "url": "https://zenn.dev/turing_motors/articles/cbf9872ca90166",
+    "sent_at": "2026-11-26T22:31:12.836576+00:00"
+  },
+  {
+    "url": "https://qiita.com/suwa_nobu/items/3bcba393673985c9b8ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "sent_at": "2026-11-26T22:31:12.836576+00:00"
   }
 ]
